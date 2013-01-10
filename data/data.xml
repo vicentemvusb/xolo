@@ -1,0 +1,2018 @@
+<data>
+	<products>
+		<Men>
+			
+			<product id="34" name="Playera" urlname="sublimated-shooter-shirts" askinner="0" thumb="img/playeras/playera.jpg" usemask="1" outercolor="46" innercolor="0" extraside="0.00" extradesign="0.00" desc="&lt;TEXTFORMAT LEADING=&quot;2&quot;&gt;&lt;P ALIGN=&quot;LEFT&quot;&gt;&lt;FONT FACE=&quot;Verdana&quot; SIZE=&quot;12&quot; COLOR=&quot;#FFFFFF&quot; LETTERSPACING=&quot;0&quot; KERNING=&quot;0&quot;&gt;Dimple mesh poly sublimated shooter shirts.  Dye sublimated shirts in Adult and Mens and Youth sizes.  &lt;B&gt;Sublimated Shooter Shirts&lt;/B&gt; can be customized to your specifications.  Get a matching set of custom pinnies, shorts and team shooter shirts.  Personalize with custom name and number.  Team discounts are available.  This is loose fitting and made to wick moisture.  Printed, cut, sewn and shipped from Kensington, Maryland.  Call today for a team quote.   Sublimated Shooter Shirts.&lt;/FONT&gt;&lt;/P&gt;&lt;/TEXTFORMAT&gt;" warning="">
+				<side thumb="front" image="img/playeras/playeraImg.png" mask="img/playeras/playeraF.png" innermask="img/playeras/playeraFb.png" drawarea="120;53;255;401"/>
+				<side thumb="right" image="img/playeras/playeraR.png" mask="img/playeras/playeraRb.png" innermask="" drawarea="4;-1;101;201"/>
+				<colors>
+					<color id="6" name="Black" hex="#000000" isdark="1" image="" pattern="" hasmask="1" price="0.00"/>
+					<color id="23" name="Charcoal Grey" hex="#333333" isdark="1" image="" pattern="" hasmask="1" price="0.00"/>
+					<color id="210" name="White" hex="#ffffff" isdark="0" image="" pattern="" hasmask="1" price="0.00"/>
+					<color id="212" name="Royal Blue" hex="#000099" isdark="1" image="" pattern="" hasmask="1" price="0.00"/>
+					<color id="13" name="Powder Blue" hex="#66ccff" isdark="0" image="" pattern="" hasmask="1" price="0.00"/>
+					<color id="57" name="Teal" hex="#33cc99" isdark="1" image="" pattern="" hasmask="1" price="0.00"/>
+					<color id="62" name="Kelley Green" hex="#009900" isdark="0" image="" pattern="" hasmask="1" price="0.00"/>
+					<color id="46" name="Neon Green" hex="#00ff00" isdark="0" image="" pattern="" hasmask="1" price="0.00"/>
+					<color id="17" name="Vegas Gold" hex="#cccc99" isdark="1" image="" pattern="" hasmask="1" price="0.00"/>
+					<color id="151" name="Orange" hex="#ff6600" isdark="1" image="" pattern="" hasmask="1" price="0.00"/>
+					<color id="107" name="Maroon" hex="#5c1228" isdark="1" image="" pattern="" hasmask="1" price="0.00"/>
+					<color id="216" name="Cardinal Red" hex="#941830" isdark="1" image="" pattern="" hasmask="1" price="0.00"/>
+					<color id="4" name="Red" hex="#ff0000" isdark="0" image="" pattern="" hasmask="1" price="0.00"/>
+					<color id="66" name="Pink" hex="#ff99cc" isdark="0" image="" pattern="" hasmask="1" price="0.00"/>
+					<color id="18" name="Hot Pink" hex="#e54398" isdark="1" image="" pattern="" hasmask="1" price="0.00"/>
+					<color id="14" name="Brown" hex="#6c4d23" isdark="1" image="" pattern="" hasmask="1" price="0.00"/>
+					<color id="3" name="Yellow" hex="#ffff00" isdark="0" image="" pattern="" hasmask="1" price="0.00"/>
+					<color id="5" name="Purple" hex="#9900cc" isdark="1" image="" pattern="" hasmask="1" price="0.00"/>
+					<color id="185" name="Dark Green" hex="#006400" isdark="1" image="" pattern="" hasmask="1" price="0.00"/>
+					<!-- <color id="219" name="Blue Camo" hex="#003399" isdark="0" image="images/colors/Blue-Camo__219.jpg" pattern="images/colors/Blue-Camo__219_pattern.jpg" hasmask="1" price="2.00"/>
+					  <color id="224" name="Gray Camo (Add $3.50)" hex="#999999" isdark="0" image="images/colors/Gray-Camo__224.jpg" pattern="images/colors/Gray-Camo__224_pattern.jpg" hasmask="1" price="2.00"/>
+					<color id="243" name="Rasta (Add $4.75)" hex="#00ff00" isdark="0" image="images/colors/Rasta-Add-4-75__243.jpg" pattern="images/colors/Rasta-Add-4-75__243_pattern.jpg" hasmask="1" price="4.75"/>
+					<color id="246" name="Cheetah (Add $4.75)" hex="#33ff33" isdark="0" image="images/colors/Cheetah-Add-4-75__246.gif" pattern="images/colors/Cheetah-Add-4-75__246_pattern.gif" hasmask="1" price="4.75"/>
+					<color id="253" name="Dollar Bill (Add $4.75)" hex="#000000" isdark="0" image="images/colors/Dollar-Bill-Add-4-75__253.jpg" pattern="images/colors/Dollar-Bill-Add-4-75__253_pattern.jpg" hasmask="1" price="4.75"/>
+					<color id="261" name="Irish Flag (Add $4.75)" hex="#ff6600" isdark="0" image="images/colors/Irish-Flag-Add-4-75__261.gif" pattern="images/colors/Irish-Flag-Add-4-75__261_pattern.gif" hasmask="1" price="4.75"/>
+					<color id="263" name="Italian Flag (add $4.75)" hex="#000000" isdark="0" image="images/colors/Italian-Flag__263.gif" pattern="images/colors/Italian-Flag__263_pattern.gif" hasmask="1" price="4.75"/>
+					<color id="281" name="Blue Gray Stripes" hex="#000000" isdark="0" image="images/colors/Blue-Gray-Stripes__281.jpg" pattern="images/colors/Blue-Gray-Stripes__281_pattern.jpg" hasmask="1" price="0.00"/>
+					<color id="282" name="Red Gray Stripes" hex="#000000" isdark="0" image="images/colors/Red-Gray-Stripes__282.jpg" pattern="images/colors/Red-Gray-Stripes__282_pattern.jpg" hasmask="1" price="0.00"/>
+					<color id="285" name="Pink Argyle" hex="#000000" isdark="1" image="images/colors/Pink-Argyle__285.jpg" pattern="images/colors/Pink-Argyle__285_pattern.jpg" hasmask="1" price="0.00"/>
+					<color id="289" name="American Flag (add $4.75)" hex="#000000" isdark="0" image="images/colors/American-Flag__289.jpg" pattern="images/colors/American-Flag__289_pattern.jpg" hasmask="1" price="4.75"/>
+					<color id="290" name="Christmas Argyle" hex="#000000" isdark="0" image="images/colors/Christmas-Argyle__290.jpg" pattern="images/colors/Christmas-Argyle__290_pattern.jpg" hasmask="1" price="4.75"/>
+					<color id="292" name="Pink Cheetah (Add $4.75)" hex="#000000" isdark="0" image="images/colors/Pink-Cheetah-Add-4-75__292.jpg" pattern="images/colors/Pink-Cheetah-Add-4-75__292_pattern.jpg" hasmask="1" price="4.75"/>
+					<color id="294" name="Maryland Flag 2 (Add $4.75)" hex="#000000" isdark="0" image="images/colors/Maryland-Flag-2-Add-4-75__294.jpg" pattern="images/colors/Maryland-Flag-2-Add-4-75__294_pattern.jpg" hasmask="1" price="4.75"/>
+					<color id="295" name="Soccer Ball ($4.75)" hex="#000000" isdark="0" image="images/colors/Soccer-Ball-4-75__295.jpg" pattern="images/colors/Soccer-Ball-4-75__295_pattern.jpg" hasmask="1" price="4.75"/>
+					<color id="296" name="Digital Camo (Add $4.75)" hex="#000000" isdark="0" image="images/colors/Digital-Camo-Add-4-75__296.jpg" pattern="images/colors/Digital-Camo-Add-4-75__296_pattern.jpg" hasmask="1" price="4.75"/>
+					-->
+				</colors>
+				<pantonelimit>0</pantonelimit>
+				<process>
+					<item process="1"/>
+				</process>
+				<size>
+					
+					<item name="S" short="S" desc="Chica" price="0.000"/>
+					<item name="M" short="M" desc="Mediana" price="0.000"/>
+					<item name="L" short="L" desc="Grande" price="0.000"/>
+				</size>
+				<pricetable>
+					<item qty="1" price="25.99"/>
+					<item qty="10" price="25.49"/>
+					<item qty="20" price="24.99"/>
+					<item qty="30" price="24.50"/>
+					<item qty="50" price="23.99"/>
+					<item qty="100" price="22.99"/>
+				</pricetable>
+				<gallery>
+				</gallery>
+			</product>
+		</Men>
+		<!--  <Women>
+			<product id="28" name="Compression Shorts" urlname="compression-shorts" askinner="0" thumb="images/product/thumb/1341422431.jpg" usemask="1" outercolor="210" innercolor="0" extraside="0.00" extradesign="0.00" desc="&lt;TEXTFORMAT LEADING=&quot;2&quot;&gt;&lt;P ALIGN=&quot;LEFT&quot;&gt;&lt;FONT FACE=&quot;Verdana&quot; SIZE=&quot;12&quot; COLOR=&quot;#FFFFFF&quot; LETTERSPACING=&quot;0&quot; KERNING=&quot;0&quot;&gt;&lt;B&gt;Womens Sublimated Compression Shorts - Custom Spandex Shorts&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;/TEXTFORMAT&gt;&lt;TEXTFORMAT LEADING=&quot;2&quot;&gt;&lt;P ALIGN=&quot;LEFT&quot;&gt;&lt;FONT FACE=&quot;Verdana&quot; SIZE=&quot;12&quot; COLOR=&quot;#FFFFFF&quot; LETTERSPACING=&quot;0&quot; KERNING=&quot;0&quot;&gt;&lt;B&gt;&lt;/B&gt;&lt;/FONT&gt;&lt;/P&gt;&lt;/TEXTFORMAT&gt;&lt;TEXTFORMAT LEADING=&quot;2&quot;&gt;&lt;P ALIGN=&quot;LEFT&quot;&gt;&lt;FONT FACE=&quot;Verdana&quot; SIZE=&quot;12&quot; COLOR=&quot;#FFFFFF&quot; LETTERSPACING=&quot;0&quot; KERNING=&quot;0&quot;&gt;Get your custom sublimated compression shorts. Design your compression shorts online or have one of our artists design for you.  Available in Adult and youth sizes.  Made in the USA.&lt;/FONT&gt;&lt;/P&gt;&lt;/TEXTFORMAT&gt;" warning="">
+				<side thumb="front" image="images/product/1346837323.png" mask="images/product/1346837135.png" innermask="" drawarea="58;-2;402;358"/>
+				<colors>
+					<color id="6" name="Black" hex="#000000" isdark="1" image="" pattern="" hasmask="1" price="0.00"/>
+					<color id="210" name="White" hex="#ffffff" isdark="0" image="" pattern="" hasmask="1" price="0.00"/>
+					<color id="212" name="Royal Blue" hex="#000099" isdark="1" image="" pattern="" hasmask="1" price="0.00"/>
+					<color id="46" name="Neon Green" hex="#00ff00" isdark="0" image="" pattern="" hasmask="1" price="0.00"/>
+					<color id="66" name="Pink" hex="#ff99cc" isdark="0" image="" pattern="" hasmask="1" price="0.00"/>
+					<color id="5" name="Purple" hex="#9900cc" isdark="1" image="" pattern="" hasmask="1" price="0.00"/>
+					<color id="88" name="Gold" hex="#ffc830" isdark="1" image="images/colors/Gold__88.gif" pattern="" hasmask="1" price="0.00"/>
+					<color id="223" name="Pink Camo" hex="#cc9999" isdark="0" image="images/colors/Pink-Camo__223.jpg" pattern="images/colors/Pink-Camo__223_pattern.jpg" hasmask="1" price="2.00"/>
+					<color id="237" name="Cancer Ribbon (Add $4.75)" hex="#cc3399" isdark="0" image="images/colors/Cancer-Ribbon-Add-4-75__237.gif" pattern="images/colors/Cancer-Ribbon-Add-4-75__237_pattern.gif" hasmask="1" price="4.75"/>
+					<color id="243" name="Rasta (Add $4.75)" hex="#00ff00" isdark="0" image="images/colors/Rasta-Add-4-75__243.jpg" pattern="images/colors/Rasta-Add-4-75__243_pattern.jpg" hasmask="1" price="4.75"/>
+					<color id="246" name="Cheetah (Add $4.75)" hex="#33ff33" isdark="0" image="images/colors/Cheetah-Add-4-75__246.gif" pattern="images/colors/Cheetah-Add-4-75__246_pattern.gif" hasmask="1" price="4.75"/>
+					<color id="249" name="Honeycomb (Add $4.75)" hex="#000000" isdark="0" image="images/colors/Honeycomb-Add-4-75__249.jpg" pattern="images/colors/Honeycomb-Add-4-75__249_pattern.jpg" hasmask="1" price="4.75"/>
+					<color id="261" name="Irish Flag (Add $4.75)" hex="#ff6600" isdark="0" image="images/colors/Irish-Flag-Add-4-75__261.gif" pattern="images/colors/Irish-Flag-Add-4-75__261_pattern.gif" hasmask="1" price="4.75"/>
+					<color id="268" name="Fluorescent Orange (add $1.00)" hex="#ff3300" isdark="0" image="images/colors/Fluorescent-Orange__268.jpg" pattern="images/colors/Fluorescent-Orange__268_pattern.jpg" hasmask="1" price="1.00"/>
+					<color id="283" name="Cancer Ribbon 1" hex="#000000" isdark="0" image="images/colors/Cancer-Ribbon-1__283.jpg" pattern="images/colors/Cancer-Ribbon-1__283_pattern.jpg" hasmask="1" price="0.00"/>
+					<color id="286" name="Color Field Hockey Sticks" hex="#000000" isdark="0" image="images/colors/Color-Field-Hockey-Sticks__286.jpg" pattern="images/colors/Color-Field-Hockey-Sticks__286_pattern.jpg" hasmask="1" price="0.00"/>
+					<color id="290" name="Christmas Argyle" hex="#000000" isdark="0" image="images/colors/Christmas-Argyle__290.jpg" pattern="images/colors/Christmas-Argyle__290_pattern.jpg" hasmask="1" price="4.75"/>
+					<color id="292" name="Pink Cheetah (Add $4.75)" hex="#000000" isdark="0" image="images/colors/Pink-Cheetah-Add-4-75__292.jpg" pattern="images/colors/Pink-Cheetah-Add-4-75__292_pattern.jpg" hasmask="1" price="4.75"/>
+					<color id="294" name="Maryland Flag 2 (Add $4.75)" hex="#000000" isdark="0" image="images/colors/Maryland-Flag-2-Add-4-75__294.jpg" pattern="images/colors/Maryland-Flag-2-Add-4-75__294_pattern.jpg" hasmask="1" price="4.75"/>
+					<color id="295" name="Soccer Ball ($4.75)" hex="#000000" isdark="0" image="images/colors/Soccer-Ball-4-75__295.jpg" pattern="images/colors/Soccer-Ball-4-75__295_pattern.jpg" hasmask="1" price="4.75"/>
+				</colors>
+				<pantonelimit>0</pantonelimit>
+				<size>
+					<item name="Youth Smal" short="YS" desc="Size Youth Small" price="0.000"/>
+					<item name="Youth Medi" short="YM" desc="Size Youth Medium" price="0.000"/>
+					<item name="Youth Larg" short="YL" desc="Size Youth Large" price="0.000"/>
+					<item name="Youth XL (" short="YXL" desc="Size Youth XL" price="0.000"/>
+					<item name="Small" short="SM" desc="Size Small" price="0.000"/>
+					<item name="Medium" short="M" desc="" price="0.000"/>
+					<item name="Large" short="LG" desc="" price="0.000"/>
+					<item name="Extra Larg" short="XL" desc="" price="0.000"/>
+				</size>
+				<pricetable>
+					<item qty="1" price="15.99"/>
+				</pricetable>
+				<gallery>
+				</gallery>
+			</product>
+		</Women>-->
+	</products>
+	<designs>
+		<depart id="4" name="Sport">
+			<kind id="35" name="Baseball">
+			<design id="656" name="baseball1" src="img/art/Female-1.gif" thumb="img/art/Female-1_thumb.jpg" price="0.00"/>
+				
+				<!--  <design id="657" name="baseball2" src="images/art/2010_08_32/baseball2_657.gif" thumb="images/art/2010_08_32/baseball2_657_thumb.jpg" price="0.00"/>
+				<design id="658" name="baseball3" src="images/art/2010_08_32/baseball3_658.gif" thumb="images/art/2010_08_32/baseball3_658_thumb.jpg" price="0.00"/>
+				<design id="659" name="baseball4" src="images/art/2010_08_32/baseball4_659.gif" thumb="images/art/2010_08_32/baseball4_659_thumb.jpg" price="0.00"/>
+				<design id="660" name="baseball5" src="images/art/2010_08_32/baseball5_660.gif" thumb="images/art/2010_08_32/baseball5_660_thumb.jpg" price="0.00"/>
+				<design id="661" name="baseball6" src="images/art/2010_08_32/baseball6_661.gif" thumb="images/art/2010_08_32/baseball6_661_thumb.jpg" price="0.00"/>
+				<design id="662" name="baseball7" src="images/art/2010_08_32/baseball7_662.gif" thumb="images/art/2010_08_32/baseball7_662_thumb.jpg" price="0.00"/>
+				<design id="663" name="baseball8" src="images/art/2010_08_32/baseball8_663.gif" thumb="images/art/2010_08_32/baseball8_663_thumb.jpg" price="0.00"/>
+				<design id="664" name="baseball9" src="images/art/2010_08_32/baseball9_664.gif" thumb="images/art/2010_08_32/baseball9_664_thumb.jpg" price="0.00"/>
+				<design id="665" name="baseball10" src="images/art/2010_08_32/baseball10_665.gif" thumb="images/art/2010_08_32/baseball10_665_thumb.jpg" price="0.00"/>
+				<design id="666" name="baseball11" src="images/art/2010_08_32/baseball11_666.gif" thumb="images/art/2010_08_32/baseball11_666_thumb.jpg" price="0.00"/>
+				<design id="667" name="baseball12" src="images/art/2010_08_32/baseball12_667.gif" thumb="images/art/2010_08_32/baseball12_667_thumb.jpg" price="0.00"/>
+				<design id="1209" name="baseball0" src="images/art/2011_11_44/baseball0_1209.png" thumb="images/art/2011_11_44/baseball0_1209_thumb.jpg" price="0.00"/>-->
+			</kind>
+			<kind id="37" name="Basketball">
+				<design id="669" name="basketball" src="images/art/2010_08_32/basketball_669.gif" thumb="images/art/2010_08_32/basketball_669_thumb.jpg" price="0.00"/>
+				<design id="670" name="basketball2" src="images/art/2010_08_32/basketball2_670.gif" thumb="images/art/2010_08_32/basketball2_670_thumb.jpg" price="0.00"/>
+				<design id="671" name="basketball3" src="images/art/2010_08_32/basketball3_671.gif" thumb="images/art/2010_08_32/basketball3_671_thumb.jpg" price="0.00"/>
+				<design id="1006" name="Basketball New Era" src="images/art/2010_12_50/basketball-new-era_1006.gif" thumb="images/art/2010_12_50/basketball-new-era_1006_thumb.jpg" price="0.00"/>
+				<design id="1109" name="American Flag Bball" src="images/art/2011_06_26/american-flag-bball_1109.gif" thumb="images/art/2011_06_26/american-flag-bball_1109_thumb.jpg" price="0.00"/>
+				<design id="1143" name="basketball54" src="images/art/2011_09_39/basketball54_1143.gif" thumb="images/art/2011_09_39/basketball54_1143_thumb.jpg" price="0.00"/>
+				<design id="1179" name="Basketball-16" src="images/art/2011_10_41/basketball-16_1179.png" thumb="images/art/2011_10_41/basketball-16_1179_thumb.jpg" price="0.00"/>
+				<design id="1169" name="Basketball-6" src="images/art/2011_10_41/basketball-6_1144.png" thumb="images/art/2011_10_41/basketball-6_1144_thumb.jpg" price="0.00"/>
+				<design id="1170" name="Basketball-7" src="images/art/2011_10_41/basketball-7_1170.png" thumb="images/art/2011_10_41/basketball-7_1170_thumb.jpg" price="0.00"/>
+				<design id="1171" name="Basketball-8" src="images/art/2011_10_41/basketball-8_1171.png" thumb="images/art/2011_10_41/basketball-8_1171_thumb.jpg" price="0.00"/>
+				<design id="1172" name="Basketball-9" src="images/art/2011_10_41/basketball-9_1172.png" thumb="images/art/2011_10_41/basketball-9_1172_thumb.jpg" price="0.00"/>
+				<design id="1173" name="Basketball-10" src="images/art/2011_10_41/basketball-10_1173.png" thumb="images/art/2011_10_41/basketball-10_1173_thumb.jpg" price="0.00"/>
+				<design id="1174" name="Basketball-11" src="images/art/2011_10_41/basketball-11_1174.png" thumb="images/art/2011_10_41/basketball-11_1174_thumb.jpg" price="0.00"/>
+				<design id="1175" name="Basketball-12" src="images/art/2011_10_41/basketball-12_1175.png" thumb="images/art/2011_10_41/basketball-12_1175_thumb.jpg" price="0.00"/>
+				<design id="1176" name="Basketball-13" src="images/art/2011_10_41/basketball-13_1176.png" thumb="images/art/2011_10_41/basketball-13_1176_thumb.jpg" price="0.00"/>
+				<design id="1177" name="Basketball-14" src="images/art/2011_10_41/basketball-14_1177.png" thumb="images/art/2011_10_41/basketball-14_1177_thumb.jpg" price="0.00"/>
+				<design id="1178" name="Basketball-15" src="images/art/2011_10_41/basketball-15_1178.png" thumb="images/art/2011_10_41/basketball-15_1178_thumb.jpg" price="0.00"/>
+				<design id="1204" name="basketball0" src="images/art/2011_11_44/basketball0_1204.png" thumb="images/art/2011_11_44/basketball0_1204_thumb.jpg" price="0.00"/>
+				<design id="1205" name="basketball1" src="images/art/2011_11_44/basketball1_1205.png" thumb="images/art/2011_11_44/basketball1_1205_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="69" name="Cheerleading">
+				<design id="1208" name="cheer0" src="images/art/2011_11_44/cheer0_1208.png" thumb="images/art/2011_11_44/cheer0_1208_thumb.jpg" price="0.00"/>
+				<design id="1239" name="cheer1" src="images/art/2012_02_07/cheer1_1235.png" thumb="images/art/2012_02_07/cheer1_1235_thumb.jpg" price="0.00"/>
+				<design id="1240" name="cheer2" src="images/art/2012_02_07/cheer2_1240.png" thumb="images/art/2012_02_07/cheer2_1240_thumb.jpg" price="0.00"/>
+				<design id="1241" name="cheerleader3-[Converted]" src="images/art/2012_02_07/cheerleader3-converted_1241.png" thumb="images/art/2012_02_07/cheerleader3-converted_1241_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="38" name="Crew-Rowing">
+				<design id="102" name="crew" src="images/art/2010_01_03/crew_102.gif" thumb="images/art/2010_01_03/crew_102_thumb.jpg" price="0.00"/>
+				<design id="109" name="rowing" src="images/art/2010_01_03/rowing_109.gif" thumb="images/art/2010_01_03/rowing_109_thumb.jpg" price="0.00"/>
+				<design id="960" name="oars" src="images/art/2010_08_33/oars_960.png" thumb="images/art/2010_08_33/oars_960_thumb.jpg" price="0.00"/>
+				<design id="1040" name="Crew rower" src="images/art/2011_06_23/crew-rower_1040.gif" thumb="images/art/2011_06_23/crew-rower_1040_thumb.jpg" price="0.00"/>
+				<design id="1248" name="crewrowing" src="images/art/2012_02_07/crewrowing_1248.png" thumb="images/art/2012_02_07/crewrowing_1248_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="60" name="dance-gymnastics">
+				<design id="244" name="dancing" src="images/art/2010_01_03/dancing_244.gif" thumb="images/art/2010_01_03/dancing_244_thumb.jpg" price="0.00"/>
+				<design id="229" name="ballroom" src="images/art/2010_01_03/ballroom_229.gif" thumb="images/art/2010_01_03/ballroom_229_thumb.jpg" price="0.00"/>
+				<design id="259" name="partygirl" src="images/art/2010_01_03/partygirl2_259.gif" thumb="images/art/2010_01_03/partygirl2_259_thumb.jpg" price="0.00"/>
+				<design id="260" name="partygirl" src="images/art/2010_01_03/partygirl_260.gif" thumb="images/art/2010_01_03/partygirl_260_thumb.jpg" price="0.00"/>
+				<design id="1004" name="gym" src="images/art/2010_11_47/gym_1003.gif" thumb="images/art/2010_11_47/gym_1003_thumb.jpg" price="0.00"/>
+				<design id="1009" name="Dancer" src="images/art/2010_12_52/dancer_1007.gif" thumb="images/art/2010_12_52/dancer_1007_thumb.jpg" price="0.00"/>
+				<design id="1180" name="dance-6" src="images/art/2011_10_41/dance-6_1180.png" thumb="images/art/2011_10_41/dance-6_1180_thumb.jpg" price="0.00"/>
+				<design id="1181" name="dance-7" src="images/art/2011_10_41/dance-7_1181.png" thumb="images/art/2011_10_41/dance-7_1181_thumb.jpg" price="0.00"/>
+				<design id="1182" name="dance-8" src="images/art/2011_10_41/dance-8_1182.png" thumb="images/art/2011_10_41/dance-8_1182_thumb.jpg" price="0.00"/>
+				<design id="1183" name="dance-9" src="images/art/2011_10_41/dance-9_1183.png" thumb="images/art/2011_10_41/dance-9_1183_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="53" name="Field-Hockey">
+				<design id="959" name="fieldhockey" src="images/art/2010_08_33/fieldhockey_957.png" thumb="images/art/2010_08_33/fieldhockey_957_thumb.jpg" price="0.00"/>
+				<design id="1037" name="Skull and field hockey sticks" src="images/art/2011_06_23/skull-and-field-hockey-sticks_1036.gif" thumb="images/art/2011_06_23/skull-and-field-hockey-sticks_1036_thumb.jpg" price="0.00"/>
+				<design id="1043" name="field hockey player" src="images/art/2011_06_23/field-hockey-player_1043.gif" thumb="images/art/2011_06_23/field-hockey-player_1043_thumb.jpg" price="0.00"/>
+				<design id="1110" name="NBA Field Hockey" src="images/art/2011_06_26/nba-field-hockey_1110.gif" thumb="images/art/2011_06_26/nba-field-hockey_1110_thumb.jpg" price="0.00"/>
+				<design id="1124" name="Field Hockey" src="images/art/2011_07_29/field-hockey_1124.gif" thumb="images/art/2011_07_29/field-hockey_1124_thumb.jpg" price="0.00"/>
+				<design id="1123" name="Field Hockey Player 2" src="images/art/2011_07_29/field-hockey-player-2_1122.gif" thumb="images/art/2011_07_29/field-hockey-player-2_1122_thumb.jpg" price="0.00"/>
+				<design id="1125" name="Peace, Love, Field Hockey" src="images/art/2011_07_29/peace-love-field-hockey_1125.gif" thumb="images/art/2011_07_29/peace-love-field-hockey_1125_thumb.jpg" price="0.00"/>
+				<design id="1194" name="fieldhockeygirl" src="images/art/2011_10_42/fieldhockeygirl_1194.png" thumb="images/art/2011_10_42/fieldhockeygirl_1194_thumb.jpg" price="0.00"/>
+				<design id="1207" name="fieldhockey0" src="images/art/2011_11_44/fieldhockey0_1206.png" thumb="images/art/2011_11_44/fieldhockey0_1206_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="39" name="Football">
+				<design id="672" name="football" src="images/art/2010_08_32/football_672.gif" thumb="images/art/2010_08_32/football_672_thumb.jpg" price="0.00"/>
+				<design id="673" name="football2" src="images/art/2010_08_32/football2_673.gif" thumb="images/art/2010_08_32/football2_673_thumb.jpg" price="0.00"/>
+				<design id="674" name="football3" src="images/art/2010_08_32/football3_674.gif" thumb="images/art/2010_08_32/football3_674_thumb.jpg" price="0.00"/>
+				<design id="675" name="football4" src="images/art/2010_08_32/football4_675.gif" thumb="images/art/2010_08_32/football4_675_thumb.jpg" price="0.00"/>
+				<design id="676" name="football5" src="images/art/2010_08_32/football5_676.gif" thumb="images/art/2010_08_32/football5_676_thumb.jpg" price="0.00"/>
+				<design id="677" name="football6" src="images/art/2010_08_32/football6_677.gif" thumb="images/art/2010_08_32/football6_677_thumb.jpg" price="0.00"/>
+				<design id="678" name="football7" src="images/art/2010_08_32/football7_678.gif" thumb="images/art/2010_08_32/football7_678_thumb.jpg" price="0.00"/>
+				<design id="679" name="football8" src="images/art/2010_08_32/football8_679.gif" thumb="images/art/2010_08_32/football8_679_thumb.jpg" price="0.00"/>
+				<design id="680" name="football9" src="images/art/2010_08_32/football9_680.gif" thumb="images/art/2010_08_32/football9_680_thumb.jpg" price="0.00"/>
+				<design id="681" name="football10" src="images/art/2010_08_32/football10_681.gif" thumb="images/art/2010_08_32/football10_681_thumb.jpg" price="0.00"/>
+				<design id="682" name="football11" src="images/art/2010_08_32/football11_682.gif" thumb="images/art/2010_08_32/football11_682_thumb.jpg" price="0.00"/>
+				<design id="683" name="helmet" src="images/art/2010_08_32/helmet_683.gif" thumb="images/art/2010_08_32/helmet_683_thumb.jpg" price="0.00"/>
+				<design id="684" name="helmet1" src="images/art/2010_08_32/helmet1_684.gif" thumb="images/art/2010_08_32/helmet1_684_thumb.jpg" price="0.00"/>
+				<design id="685" name="helmet2" src="images/art/2010_08_32/helmet2_685.gif" thumb="images/art/2010_08_32/helmet2_685_thumb.jpg" price="0.00"/>
+				<design id="1189" name="football-pinnies" src="images/art/2011_10_41/football-pinnies_1189.gif" thumb="images/art/2011_10_41/football-pinnies_1189_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="57" name="Golf">
+				<design id="223" name="golf" src="images/art/2010_01_03/golf_223.gif" thumb="images/art/2010_01_03/golf_223_thumb.jpg" price="0.00"/>
+				<design id="222" name="golf" src="images/art/2010_01_03/golf8_222.gif" thumb="images/art/2010_01_03/golf8_222_thumb.jpg" price="0.00"/>
+				<design id="221" name="golf" src="images/art/2010_01_03/golf7_221.gif" thumb="images/art/2010_01_03/golf7_221_thumb.jpg" price="0.00"/>
+				<design id="220" name="golf" src="images/art/2010_01_03/golf6_220.gif" thumb="images/art/2010_01_03/golf6_220_thumb.jpg" price="0.00"/>
+				<design id="219" name="golf" src="images/art/2010_01_03/golf5_219.gif" thumb="images/art/2010_01_03/golf5_219_thumb.jpg" price="0.00"/>
+				<design id="218" name="golf" src="images/art/2010_01_03/golf4_218.gif" thumb="images/art/2010_01_03/golf4_218_thumb.jpg" price="0.00"/>
+				<design id="217" name="golf" src="images/art/2010_01_03/golf3_217.gif" thumb="images/art/2010_01_03/golf3_217_thumb.jpg" price="0.00"/>
+				<design id="216" name="golf" src="images/art/2010_01_03/golf2_216.gif" thumb="images/art/2010_01_03/golf2_216_thumb.jpg" price="0.00"/>
+				<design id="1029" name="golfpinnies2" src="images/art/2011_05_21/golfpinnies2_1029.gif" thumb="images/art/2011_05_21/golfpinnies2_1029_thumb.jpg" price="0.00"/>
+				<design id="1126" name="Golf" src="images/art/2011_07_29/golf_1126.gif" thumb="images/art/2011_07_29/golf_1126_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="56" name="Hockey">
+				<design id="1016" name="Hockey Sticks" src="images/art/2011_02_07/hockey-sticks_1016.gif" thumb="images/art/2011_02_07/hockey-sticks_1016_thumb.jpg" price="0.00"/>
+				<design id="1127" name="hockey stick" src="images/art/2011_07_29/hockey-stick_1127.gif" thumb="images/art/2011_07_29/hockey-stick_1127_thumb.jpg" price="0.00"/>
+				<design id="1185" name="hockey-3" src="images/art/2011_10_41/hockey-3_1185.png" thumb="images/art/2011_10_41/hockey-3_1185_thumb.jpg" price="0.00"/>
+				<design id="1210" name="hockey0" src="images/art/2011_11_44/hockey0_1210.png" thumb="images/art/2011_11_44/hockey0_1210_thumb.jpg" price="0.00"/>
+				<design id="1250" name="hockeyplayer1" src="images/art/2012_02_07/hockeyplayer1_1250.png" thumb="images/art/2012_02_07/hockeyplayer1_1250_thumb.jpg" price="0.00"/>
+				<design id="1251" name="hockeyplayer2" src="images/art/2012_02_07/hockeyplayer2_1251.png" thumb="images/art/2012_02_07/hockeyplayer2_1251_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="34" name="Lacrosse">
+				<design id="962" name="Lacrosse Helmet" src="images/art/2010_08_33/helmet_962.png" thumb="images/art/2010_08_33/helmet_962_thumb.jpg" price="0.00"/>
+				<design id="655" name="Lax sticks2" src="images/art/2010_08_32/lax-sticks2_655.png" thumb="images/art/2010_08_32/lax-sticks2_655_thumb.jpg" price="0.00"/>
+				<design id="963" name="helmetwithcircle" src="images/art/2010_08_33/helmetwithcircle_963.png" thumb="images/art/2010_08_33/helmetwithcircle_963_thumb.jpg" price="0.00"/>
+				<design id="961" name="laxstx" src="images/art/2010_08_33/laxstx_961.png" thumb="images/art/2010_08_33/laxstx_961_thumb.jpg" price="0.00"/>
+				<design id="651" name="lacrosse-skull" src="images/art/2010_08_31/lacrosse-skull_651.png" thumb="images/art/2010_08_31/lacrosse-skull_651_thumb.jpg" price="0.00"/>
+				<design id="969" name="stickswithcircle" src="images/art/2010_08_33/stickswithcircle_969.png" thumb="images/art/2010_08_33/stickswithcircle_969_thumb.jpg" price="0.00"/>
+				<design id="990" name="laxhead" src="images/art/2010_08_33/laxhead_990.gif" thumb="images/art/2010_08_33/laxhead_990_thumb.jpg" price="0.00"/>
+				<design id="1018" name="Women's Lax Sticks" src="images/art/2011_03_10/women-s-lax-sticks_1018.gif" thumb="images/art/2011_03_10/women-s-lax-sticks_1018_thumb.jpg" price="0.00"/>
+				<design id="1033" name="lrg_Art_Deco_Empire_State_Building" src="images/art/2011_05_22/lrg_art_deco_empire_state_building_1031.gif" thumb="images/art/2011_05_22/lrg_art_deco_empire_state_building_1031_thumb.jpg" price="0.00"/>
+				<design id="1034" name="newjerseylacrosse" src="images/art/2011_05_22/newjerseylacrosse_1034.gif" thumb="images/art/2011_05_22/newjerseylacrosse_1034_thumb.jpg" price="0.00"/>
+				<design id="1038" name="Lax head" src="images/art/2011_06_23/lax-head_1038.gif" thumb="images/art/2011_06_23/lax-head_1038_thumb.jpg" price="0.00"/>
+				<design id="1070" name="lacrossepinnies" src="images/art/2011_06_24/lacrossepinnies_1070.gif" thumb="images/art/2011_06_24/lacrossepinnies_1070_thumb.jpg" price="0.00"/>
+				<design id="1106" name="American Flag Lax Player" src="images/art/2011_06_26/american-flag-lax-player_1106.gif" thumb="images/art/2011_06_26/american-flag-lax-player_1106_thumb.jpg" price="0.00"/>
+				<design id="1107" name="Lax Player" src="images/art/2011_06_26/lax-player_1107.gif" thumb="images/art/2011_06_26/lax-player_1107_thumb.jpg" price="0.00"/>
+				<design id="1120" name="NE Lacrosse" src="images/art/2011_07_28/ne-lacrosse_1120.gif" thumb="images/art/2011_07_28/ne-lacrosse_1120_thumb.jpg" price="0.00"/>
+				<design id="1137" name="Rasta Lax" src="images/art/2011_07_29/rasta-lax_1137.gif" thumb="images/art/2011_07_29/rasta-lax_1137_thumb.jpg" price="0.00"/>
+				<design id="1138" name="Rasta Lax 2" src="images/art/2011_07_29/rasta-lax-2_1138.gif" thumb="images/art/2011_07_29/rasta-lax-2_1138_thumb.jpg" price="0.00"/>
+				<design id="1188" name="womens-lacrosse" src="images/art/2011_10_41/womens-lacrosse_1188.gif" thumb="images/art/2011_10_41/womens-lacrosse_1188_thumb.jpg" price="0.00"/>
+				<design id="1191" name="dillingerlax_4color_nodillinger" src="images/art/2011_10_41/dillingerlax_4color_nodillinger_1191.png" thumb="images/art/2011_10_41/dillingerlax_4color_nodillinger_1191_thumb.jpg" price="0.00"/>
+				<design id="1226" name="livelovelaxplayhard" src="images/art/2011_12_48/livelovelaxplayhard_1226.png" thumb="images/art/2011_12_48/livelovelaxplayhard_1226_thumb.jpg" price="0.00"/>
+				<design id="1227" name="seasonsbeatings" src="images/art/2011_12_48/seasonsbeatings_1227.png" thumb="images/art/2011_12_48/seasonsbeatings_1227_thumb.jpg" price="0.00"/>
+				<design id="1228" name="candycanelacrosse" src="images/art/2011_12_48/candycanelacrosse_1228.png" thumb="images/art/2011_12_48/candycanelacrosse_1228_thumb.jpg" price="0.00"/>
+				<design id="1232" name="Lax-Stick" src="images/art/2012_01_02/lax-stick_1232.png" thumb="images/art/2012_01_02/lax-stick_1232_thumb.jpg" price="0.00"/>
+				<design id="1258" name="yolo" src="images/art/2012_05_18/yolo_1258.gif" thumb="images/art/2012_05_18/yolo_1258_thumb.jpg" price="0.00"/>
+				<design id="1262" name="lacrosse pinnies" src="images/art/2012_06_26/lacrosse-pinnies_1262.gif" thumb="images/art/2012_06_26/lacrosse-pinnies_1262_thumb.jpg" price="0.00"/>
+				<design id="1269" name="tuxedopinnies" src="images/art/2012_10_41/tuxedopinnies_1269.gif" thumb="images/art/2012_10_41/tuxedopinnies_1269_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="40" name="Lifeguard">
+				<design id="973" name="Lifeguard Cross" src="images/art/2010_08_33/untitled-1_973.png" thumb="images/art/2010_08_33/untitled-1_973_thumb.jpg" price="0.00"/>
+				<design id="982" name="lifeguard" src="images/art/2010_08_33/lifeguard_982.png" thumb="images/art/2010_08_33/lifeguard_982_thumb.jpg" price="0.00"/>
+				<design id="1128" name="life raft" src="images/art/2011_07_29/life-raft_1128.gif" thumb="images/art/2011_07_29/life-raft_1128_thumb.jpg" price="0.00"/>
+				<design id="1242" name="lifeguardsquare" src="images/art/2012_02_07/lifeguardsquare_1242.png" thumb="images/art/2012_02_07/lifeguardsquare_1242_thumb.jpg" price="0.00"/>
+				<design id="1249" name="crossedoars" src="images/art/2012_02_07/crossedoars_1249.png" thumb="images/art/2012_02_07/crossedoars_1249_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="68" name="Mascots">
+				<design id="1195" name="cheetahs0" src="images/art/2011_11_44/cheetahs0_1195.png" thumb="images/art/2011_11_44/cheetahs0_1195_thumb.jpg" price="0.00"/>
+				<design id="1199" name="hornets0" src="images/art/2011_11_44/hornets0_1199.png" thumb="images/art/2011_11_44/hornets0_1199_thumb.jpg" price="0.00"/>
+				<design id="1197" name="greatwhites0" src="images/art/2011_11_44/greatwhites0_1197.png" thumb="images/art/2011_11_44/greatwhites0_1197_thumb.jpg" price="0.00"/>
+				<design id="1198" name="spartans0" src="images/art/2011_11_44/spartans0_1198.png" thumb="images/art/2011_11_44/spartans0_1198_thumb.jpg" price="0.00"/>
+				<design id="1200" name="talons0" src="images/art/2011_11_44/talons0_1200.png" thumb="images/art/2011_11_44/talons0_1200_thumb.jpg" price="0.00"/>
+				<design id="1201" name="patriots0" src="images/art/2011_11_44/patriots0_1201.png" thumb="images/art/2011_11_44/patriots0_1201_thumb.jpg" price="0.00"/>
+				<design id="1202" name="bulldogs0" src="images/art/2011_11_44/bulldogs0_1202.png" thumb="images/art/2011_11_44/bulldogs0_1202_thumb.jpg" price="0.00"/>
+				<design id="1203" name="stallions0" src="images/art/2011_11_44/stallions0_1203.png" thumb="images/art/2011_11_44/stallions0_1203_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="6" name="sport-other">
+				<design id="252" name="hangglid" src="images/art/2010_01_03/hangglid_252.gif" thumb="images/art/2010_01_03/hangglid_252_thumb.jpg" price="0.00"/>
+				<design id="251" name="hangglid" src="images/art/2010_01_03/hangglid2_251.gif" thumb="images/art/2010_01_03/hangglid2_251_thumb.jpg" price="0.00"/>
+				<design id="250" name="handball" src="images/art/2010_01_03/handball_250.gif" thumb="images/art/2010_01_03/handball_250_thumb.jpg" price="0.00"/>
+				<design id="247" name="fencing" src="images/art/2010_01_03/fencing_247.gif" thumb="images/art/2010_01_03/fencing_247_thumb.jpg" price="0.00"/>
+				<design id="246" name="fencing" src="images/art/2010_01_03/fencing2_246.gif" thumb="images/art/2010_01_03/fencing2_246_thumb.jpg" price="0.00"/>
+				<design id="245" name="darts" src="images/art/2010_01_03/darts_245.gif" thumb="images/art/2010_01_03/darts_245_thumb.jpg" price="0.00"/>
+				<design id="243" name="cycling" src="images/art/2010_01_03/cycling_243.gif" thumb="images/art/2010_01_03/cycling_243_thumb.jpg" price="0.00"/>
+				<design id="242" name="cycling" src="images/art/2010_01_03/cycling2_242.gif" thumb="images/art/2010_01_03/cycling2_242_thumb.jpg" price="0.00"/>
+				<design id="241" name="curling" src="images/art/2010_01_03/curling_241.gif" thumb="images/art/2010_01_03/curling_241_thumb.jpg" price="0.00"/>
+				<design id="240" name="croque" src="images/art/2010_01_03/croque_240.gif" thumb="images/art/2010_01_03/croque_240_thumb.jpg" price="0.00"/>
+				<design id="239" name="cricket" src="images/art/2010_01_03/cricket_239.gif" thumb="images/art/2010_01_03/cricket_239_thumb.jpg" price="0.00"/>
+				<design id="237" name="climbing" src="images/art/2010_01_03/climbing_237.gif" thumb="images/art/2010_01_03/climbing_237_thumb.jpg" price="0.00"/>
+				<design id="236" name="climbing" src="images/art/2010_01_03/climbing2_236.gif" thumb="images/art/2010_01_03/climbing2_236_thumb.jpg" price="0.00"/>
+				<design id="235" name="clcling" src="images/art/2010_01_03/clcling2_235.gif" thumb="images/art/2010_01_03/clcling2_235_thumb.jpg" price="0.00"/>
+				<design id="234" name="cards" src="images/art/2010_01_03/cards_234.gif" thumb="images/art/2010_01_03/cards_234_thumb.jpg" price="0.00"/>
+				<design id="233" name="camping" src="images/art/2010_01_03/camping_233.gif" thumb="images/art/2010_01_03/camping_233_thumb.jpg" price="0.00"/>
+				<design id="231" name="bike" src="images/art/2010_01_03/bike_231.gif" thumb="images/art/2010_01_03/bike_231_thumb.jpg" price="0.00"/>
+				<design id="230" name="band" src="images/art/2010_01_03/band_230.gif" thumb="images/art/2010_01_03/band_230_thumb.jpg" price="0.00"/>
+				<design id="228" name="badminton" src="images/art/2010_01_03/badminton_228.gif" thumb="images/art/2010_01_03/badminton_228_thumb.jpg" price="0.00"/>
+				<design id="227" name="badminton" src="images/art/2010_01_03/badminton3_227.gif" thumb="images/art/2010_01_03/badminton3_227_thumb.jpg" price="0.00"/>
+				<design id="226" name="badminton" src="images/art/2010_01_03/badminton2_226.gif" thumb="images/art/2010_01_03/badminton2_226_thumb.jpg" price="0.00"/>
+				<design id="225" name="archery" src="images/art/2010_01_03/archery_225.gif" thumb="images/art/2010_01_03/archery_225_thumb.jpg" price="0.00"/>
+				<design id="215" name="sport" src="images/art/2010_01_03/sport_215.gif" thumb="images/art/2010_01_03/sport_215_thumb.jpg" price="0.00"/>
+				<design id="214" name="sport" src="images/art/2010_01_03/sport20_214.gif" thumb="images/art/2010_01_03/sport20_214_thumb.jpg" price="0.00"/>
+				<design id="213" name="sport" src="images/art/2010_01_03/sport18_213.gif" thumb="images/art/2010_01_03/sport18_213_thumb.jpg" price="0.00"/>
+				<design id="212" name="sport" src="images/art/2010_01_03/sport17_212.gif" thumb="images/art/2010_01_03/sport17_212_thumb.jpg" price="0.00"/>
+				<design id="211" name="sport" src="images/art/2010_01_03/sport16_211.gif" thumb="images/art/2010_01_03/sport16_211_thumb.jpg" price="0.00"/>
+				<design id="210" name="sport" src="images/art/2010_01_03/sport15_210.gif" thumb="images/art/2010_01_03/sport15_210_thumb.jpg" price="0.00"/>
+				<design id="209" name="sport" src="images/art/2010_01_03/sport14_209.gif" thumb="images/art/2010_01_03/sport14_209_thumb.jpg" price="0.00"/>
+				<design id="208" name="sport" src="images/art/2010_01_03/sport13_208.gif" thumb="images/art/2010_01_03/sport13_208_thumb.jpg" price="0.00"/>
+				<design id="207" name="sport" src="images/art/2010_01_03/sport12_207.gif" thumb="images/art/2010_01_03/sport12_207_thumb.jpg" price="0.00"/>
+				<design id="206" name="sport" src="images/art/2010_01_03/sport11_206.gif" thumb="images/art/2010_01_03/sport11_206_thumb.jpg" price="0.00"/>
+				<design id="205" name="sport" src="images/art/2010_01_03/sport10_205.gif" thumb="images/art/2010_01_03/sport10_205_thumb.jpg" price="0.00"/>
+				<design id="204" name="sport" src="images/art/2010_01_03/sport9_204.gif" thumb="images/art/2010_01_03/sport9_204_thumb.jpg" price="0.00"/>
+				<design id="203" name="sport" src="images/art/2010_01_03/sport8_203.gif" thumb="images/art/2010_01_03/sport8_203_thumb.jpg" price="0.00"/>
+				<design id="202" name="sport" src="images/art/2010_01_03/sport7_202.gif" thumb="images/art/2010_01_03/sport7_202_thumb.jpg" price="0.00"/>
+				<design id="201" name="sport" src="images/art/2010_01_03/sport6_201.gif" thumb="images/art/2010_01_03/sport6_201_thumb.jpg" price="0.00"/>
+				<design id="200" name="sport" src="images/art/2010_01_03/sport5_200.gif" thumb="images/art/2010_01_03/sport5_200_thumb.jpg" price="0.00"/>
+				<design id="199" name="sport" src="images/art/2010_01_03/sport4_199.gif" thumb="images/art/2010_01_03/sport4_199_thumb.jpg" price="0.00"/>
+				<design id="198" name="sport" src="images/art/2010_01_03/sport3_198.gif" thumb="images/art/2010_01_03/sport3_198_thumb.jpg" price="0.00"/>
+				<design id="197" name="sport" src="images/art/2010_01_03/sport2_133.gif" thumb="images/art/2010_01_03/sport2_133_thumb.jpg" price="0.00"/>
+				<design id="254" name="hunting" src="images/art/2010_01_03/hunting_254.gif" thumb="images/art/2010_01_03/hunting_254_thumb.jpg" price="0.00"/>
+				<design id="255" name="jukebox" src="images/art/2010_01_03/jukebox_255.gif" thumb="images/art/2010_01_03/jukebox_255_thumb.jpg" price="0.00"/>
+				<design id="256" name="jumprope" src="images/art/2010_01_03/jumprope_256.gif" thumb="images/art/2010_01_03/jumprope_256_thumb.jpg" price="0.00"/>
+				<design id="257" name="lacross" src="images/art/2010_01_03/lacross2_257.gif" thumb="images/art/2010_01_03/lacross2_257_thumb.jpg" price="0.00"/>
+				<design id="258" name="lacross" src="images/art/2010_01_03/lacross_258.gif" thumb="images/art/2010_01_03/lacross_258_thumb.jpg" price="0.00"/>
+				<design id="261" name="pingpong" src="images/art/2010_01_03/pingpong2_261.gif" thumb="images/art/2010_01_03/pingpong2_261_thumb.jpg" price="0.00"/>
+				<design id="262" name="pingpong" src="images/art/2010_01_03/pingpong_262.gif" thumb="images/art/2010_01_03/pingpong_262_thumb.jpg" price="0.00"/>
+				<design id="263" name="polo" src="images/art/2010_01_03/polo_263.gif" thumb="images/art/2010_01_03/polo_263_thumb.jpg" price="0.00"/>
+				<design id="264" name="racketball" src="images/art/2010_01_03/racketball_264.gif" thumb="images/art/2010_01_03/racketball_264_thumb.jpg" price="0.00"/>
+				<design id="265" name="ref" src="images/art/2010_01_03/ref2_265.gif" thumb="images/art/2010_01_03/ref2_265_thumb.jpg" price="0.00"/>
+				<design id="266" name="ref" src="images/art/2010_01_03/ref_266.gif" thumb="images/art/2010_01_03/ref_266_thumb.jpg" price="0.00"/>
+				<design id="267" name="rockroll" src="images/art/2010_01_03/rockroll_267.gif" thumb="images/art/2010_01_03/rockroll_267_thumb.jpg" price="0.00"/>
+				<design id="268" name="rodeo" src="images/art/2010_01_03/rodeo_268.gif" thumb="images/art/2010_01_03/rodeo_268_thumb.jpg" price="0.00"/>
+				<design id="269" name="roster" src="images/art/2010_01_03/roster_269.gif" thumb="images/art/2010_01_03/roster_269_thumb.jpg" price="0.00"/>
+				<design id="270" name="rugby" src="images/art/2010_01_03/rugby_270.gif" thumb="images/art/2010_01_03/rugby_270_thumb.jpg" price="0.00"/>
+				<design id="271" name="shooting" src="images/art/2010_01_03/shooting_271.gif" thumb="images/art/2010_01_03/shooting_271_thumb.jpg" price="0.00"/>
+				<design id="272" name="shuffleboard" src="images/art/2010_01_03/shuffleboard_272.gif" thumb="images/art/2010_01_03/shuffleboard_272_thumb.jpg" price="0.00"/>
+				<design id="273" name="singing" src="images/art/2010_01_03/singing_273.gif" thumb="images/art/2010_01_03/singing_273_thumb.jpg" price="0.00"/>
+				<design id="274" name="skydive" src="images/art/2010_01_03/skydive2_274.gif" thumb="images/art/2010_01_03/skydive2_274_thumb.jpg" price="0.00"/>
+				<design id="275" name="skydive" src="images/art/2010_01_03/skydive_275.gif" thumb="images/art/2010_01_03/skydive_275_thumb.jpg" price="0.00"/>
+				<design id="1014" name="goose" src="images/art/2011_01_03/goose_1014.png" thumb="images/art/2011_01_03/goose_1014_thumb.jpg" price="0.00"/>
+				<design id="987" name="megaphone" src="images/art/2010_08_33/megaphone_983.gif" thumb="images/art/2010_08_33/megaphone_983_thumb.jpg" price="0.00"/>
+				<design id="1024" name="boneus" src="images/art/2011_05_20/boneus_1024.gif" thumb="images/art/2011_05_20/boneus_1024_thumb.jpg" price="0.00"/>
+				<design id="1013" name="Rugby Ball" src="images/art/2011_01_02/rugby-ball_1013.gif" thumb="images/art/2011_01_02/rugby-ball_1013_thumb.jpg" price="0.00"/>
+				<design id="1015" name="clover" src="images/art/2011_02_05/clover_1015.gif" thumb="images/art/2011_02_05/clover_1015_thumb.jpg" price="0.00"/>
+				<design id="1035" name="mountain" src="images/art/2011_06_23/mountain_1035.gif" thumb="images/art/2011_06_23/mountain_1035_thumb.jpg" price="0.00"/>
+				<design id="1044" name="Pole vaulter" src="images/art/2011_06_23/pole-vaulter_1044.gif" thumb="images/art/2011_06_23/pole-vaulter_1044_thumb.jpg" price="0.00"/>
+				<design id="1046" name="texas lacrosse pinnies" src="images/art/2011_06_23/texas-lacrosse-pinnies_1045.gif" thumb="images/art/2011_06_23/texas-lacrosse-pinnies_1045_thumb.jpg" price="0.00"/>
+				<design id="1048" name="longislandlacrosse" src="images/art/2011_06_23/longislandlacrosse_1048.gif" thumb="images/art/2011_06_23/longislandlacrosse_1048_thumb.jpg" price="0.00"/>
+				<design id="1049" name="californialacrossepinnies" src="images/art/2011_06_23/californialacrossepinnies_1049.gif" thumb="images/art/2011_06_23/californialacrossepinnies_1049_thumb.jpg" price="0.00"/>
+				<design id="1051" name="pennsylvania-lacrosse-pinnies" src="images/art/2011_06_24/pennsylvania-lacrosse-pinnies_1051.gif" thumb="images/art/2011_06_24/pennsylvania-lacrosse-pinnies_1051_thumb.jpg" price="0.00"/>
+				<design id="1115" name="Bowling 1" src="images/art/2011_06_26/bowling-1_1115.gif" thumb="images/art/2011_06_26/bowling-1_1115_thumb.jpg" price="0.00"/>
+				<design id="1252" name="rugby1" src="images/art/2012_02_08/rugby1_1252.png" thumb="images/art/2012_02_08/rugby1_1252_thumb.jpg" price="0.00"/>
+				<design id="1253" name="rugby2" src="images/art/2012_02_08/rugby2_1253.png" thumb="images/art/2012_02_08/rugby2_1253_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="42" name="Soccer">
+				<design id="648" name="soccer-optimized" src="images/art/2010_08_31/soccer-optimized_648.png" thumb="images/art/2010_08_31/soccer-optimized_648_thumb.jpg" price="0.00"/>
+				<design id="686" name="soccor1" src="images/art/2010_08_32/soccor1_686.gif" thumb="images/art/2010_08_32/soccor1_686_thumb.jpg" price="0.00"/>
+				<design id="687" name="soccor2" src="images/art/2010_08_32/soccor2_687.gif" thumb="images/art/2010_08_32/soccor2_687_thumb.jpg" price="0.00"/>
+				<design id="688" name="soccor3" src="images/art/2010_08_32/soccor3_688.gif" thumb="images/art/2010_08_32/soccor3_688_thumb.jpg" price="0.00"/>
+				<design id="689" name="soccor4" src="images/art/2010_08_32/soccor4_689.gif" thumb="images/art/2010_08_32/soccor4_689_thumb.jpg" price="0.00"/>
+				<design id="690" name="soccor5" src="images/art/2010_08_32/soccor5_690.gif" thumb="images/art/2010_08_32/soccor5_690_thumb.jpg" price="0.00"/>
+				<design id="691" name="soccor6" src="images/art/2010_08_32/soccor6_691.gif" thumb="images/art/2010_08_32/soccor6_691_thumb.jpg" price="0.00"/>
+				<design id="692" name="soccor7" src="images/art/2010_08_32/soccor7_692.gif" thumb="images/art/2010_08_32/soccor7_692_thumb.jpg" price="0.00"/>
+				<design id="1101" name="soccer flame" src="images/art/2011_06_26/soccer-flame_1100.gif" thumb="images/art/2011_06_26/soccer-flame_1100_thumb.jpg" price="0.00"/>
+				<design id="1102" name="Soccer 2" src="images/art/2011_06_26/soccer-2_1102.gif" thumb="images/art/2011_06_26/soccer-2_1102_thumb.jpg" price="0.00"/>
+				<design id="1103" name="Untitled-1" src="images/art/2011_06_26/untitled-1_1103.gif" thumb="images/art/2011_06_26/untitled-1_1103_thumb.jpg" price="0.00"/>
+				<design id="1129" name="usa soccer" src="images/art/2011_07_29/usa-soccer_1129.gif" thumb="images/art/2011_07_29/usa-soccer_1129_thumb.jpg" price="0.00"/>
+				<design id="1193" name="lawfeldtsoccer5color" src="images/art/2011_10_41/lawfeldtsoccer5color_1192.png" thumb="images/art/2011_10_41/lawfeldtsoccer5color_1192_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="54" name="Softball">
+				<design id="668" name="softball" src="images/art/2010_08_32/softball_668.gif" thumb="images/art/2010_08_32/softball_668_thumb.jpg" price="0.00"/>
+				<design id="1243" name="softballbatter" src="images/art/2012_02_07/softballbatter_1243.png" thumb="images/art/2012_02_07/softballbatter_1243_thumb.jpg" price="0.00"/>
+				<design id="1244" name="softballplayer" src="images/art/2012_02_07/softballplayer_1244.png" thumb="images/art/2012_02_07/softballplayer_1244_thumb.jpg" price="0.00"/>
+				<design id="1264" name="softball pinnies" src="images/art/2012_07_29/softball-pinnies_1263.gif" thumb="images/art/2012_07_29/softball-pinnies_1263_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="65" name="Tennis">
+				<design id="1131" name="Tennis Ball" src="images/art/2011_07_29/tennis-ball_1131.gif" thumb="images/art/2011_07_29/tennis-ball_1131_thumb.jpg" price="0.00"/>
+				<design id="1132" name="tennis player" src="images/art/2011_07_29/tennis-player_1132.gif" thumb="images/art/2011_07_29/tennis-player_1132_thumb.jpg" price="0.00"/>
+				<design id="1184" name="tennis-racket" src="images/art/2011_10_41/tennis-racket_1184.png" thumb="images/art/2011_10_41/tennis-racket_1184_thumb.jpg" price="0.00"/>
+				<design id="1245" name="femaletennis" src="images/art/2012_02_07/femaletennis_1245.png" thumb="images/art/2012_02_07/femaletennis_1245_thumb.jpg" price="0.00"/>
+				<design id="1255" name="Tennis-Ball" src="images/art/2012_02_08/tennis-ball_1255.png" thumb="images/art/2012_02_08/tennis-ball_1255_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="41" name="Track-and-Field">
+				<design id="253" name="highjump" src="images/art/2010_01_03/highjump_253.gif" thumb="images/art/2010_01_03/highjump_253_thumb.jpg" price="0.00"/>
+				<design id="277" name="sprinter" src="images/art/2010_01_03/sprinter_277.gif" thumb="images/art/2010_01_03/sprinter_277_thumb.jpg" price="0.00"/>
+				<design id="693" name="hurdle" src="images/art/2010_08_32/hurdle_693.gif" thumb="images/art/2010_08_32/hurdle_693_thumb.jpg" price="0.00"/>
+				<design id="694" name="hurdle2" src="images/art/2010_08_32/hurdle2_694.gif" thumb="images/art/2010_08_32/hurdle2_694_thumb.jpg" price="0.00"/>
+				<design id="695" name="hurdle4" src="images/art/2010_08_32/hurdle4_695.gif" thumb="images/art/2010_08_32/hurdle4_695_thumb.jpg" price="0.00"/>
+				<design id="696" name="javlin" src="images/art/2010_08_32/javlin_696.gif" thumb="images/art/2010_08_32/javlin_696_thumb.jpg" price="0.00"/>
+				<design id="697" name="javlin2" src="images/art/2010_08_32/javlin2_697.gif" thumb="images/art/2010_08_32/javlin2_697_thumb.jpg" price="0.00"/>
+				<design id="698" name="running" src="images/art/2010_08_32/running_698.gif" thumb="images/art/2010_08_32/running_698_thumb.jpg" price="0.00"/>
+				<design id="699" name="running2" src="images/art/2010_08_32/running2_699.gif" thumb="images/art/2010_08_32/running2_699_thumb.jpg" price="0.00"/>
+				<design id="700" name="running3" src="images/art/2010_08_32/running3_700.gif" thumb="images/art/2010_08_32/running3_700_thumb.jpg" price="0.00"/>
+				<design id="701" name="shoput2" src="images/art/2010_08_32/shoput2_701.gif" thumb="images/art/2010_08_32/shoput2_701_thumb.jpg" price="0.00"/>
+				<design id="702" name="shotput" src="images/art/2010_08_32/shotput_702.gif" thumb="images/art/2010_08_32/shotput_702_thumb.jpg" price="0.00"/>
+				<design id="703" name="track" src="images/art/2010_08_32/track_703.gif" thumb="images/art/2010_08_32/track_703_thumb.jpg" price="0.00"/>
+				<design id="704" name="track2" src="images/art/2010_08_32/track2_704.gif" thumb="images/art/2010_08_32/track2_704_thumb.jpg" price="0.00"/>
+				<design id="705" name="track3" src="images/art/2010_08_32/track3_705.gif" thumb="images/art/2010_08_32/track3_705_thumb.jpg" price="0.00"/>
+				<design id="706" name="track5" src="images/art/2010_08_32/track5_706.gif" thumb="images/art/2010_08_32/track5_706_thumb.jpg" price="0.00"/>
+				<design id="992" name="wingedfoot" src="images/art/2010_08_34/wingedfoot_991.gif" thumb="images/art/2010_08_34/wingedfoot_991_thumb.jpg" price="0.00"/>
+				<design id="1130" name="Pole vaulter" src="images/art/2011_07_29/pole-vaulter_1130.gif" thumb="images/art/2011_07_29/pole-vaulter_1130_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="36" name="Ultimate-Frisbee">
+				<design id="249" name="frisbee" src="images/art/2010_01_03/frisbee_249.gif" thumb="images/art/2010_01_03/frisbee_249_thumb.jpg" price="0.00"/>
+				<design id="248" name="frisbee" src="images/art/2010_01_03/frisbee2_248.gif" thumb="images/art/2010_01_03/frisbee2_248_thumb.jpg" price="0.00"/>
+				<design id="1246" name="frisbeeflying" src="images/art/2012_02_07/frisbeeflying_1246.png" thumb="images/art/2012_02_07/frisbeeflying_1246_thumb.jpg" price="0.00"/>
+				<design id="1247" name="playultimate" src="images/art/2012_02_07/playultimate_1247.png" thumb="images/art/2012_02_07/playultimate_1247_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="55" name="Volleyball">
+				<design id="647" name="volleyball-optimized" src="images/art/2010_08_31/volleyball-optimized_647.png" thumb="images/art/2010_08_31/volleyball-optimized_647_thumb.jpg" price="0.00"/>
+				<design id="1039" name="Volleyball Spike" src="images/art/2011_06_23/volleyball-spike_1039.gif" thumb="images/art/2011_06_23/volleyball-spike_1039_thumb.jpg" price="0.00"/>
+				<design id="1097" name="Volleyball Dig" src="images/art/2011_06_26/volleyball-dig_1097.gif" thumb="images/art/2011_06_26/volleyball-dig_1097_thumb.jpg" price="0.00"/>
+				<design id="1098" name="Volleyball Fire" src="images/art/2011_06_26/volleyball-fire_1098.gif" thumb="images/art/2011_06_26/volleyball-fire_1098_thumb.jpg" price="0.00"/>
+				<design id="1104" name="american volleyball" src="images/art/2011_06_26/american-volleyball_1104.gif" thumb="images/art/2011_06_26/american-volleyball_1104_thumb.jpg" price="0.00"/>
+				<design id="1190" name="volleyball-1" src="images/art/2011_10_41/volleyball-1_1190.gif" thumb="images/art/2011_10_41/volleyball-1_1190_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="7" name="sport-water">
+				<design id="100" name="beach" src="images/art/2010_01_03/beach2_100.gif" thumb="images/art/2010_01_03/beach2_100_thumb.jpg" price="0.00"/>
+				<design id="101" name="beach" src="images/art/2010_01_03/beach_101.gif" thumb="images/art/2010_01_03/beach_101_thumb.jpg" price="0.00"/>
+				<design id="103" name="diving" src="images/art/2010_01_03/diving2_103.gif" thumb="images/art/2010_01_03/diving2_103_thumb.jpg" price="0.00"/>
+				<design id="104" name="diving" src="images/art/2010_01_03/diving_104.gif" thumb="images/art/2010_01_03/diving_104_thumb.jpg" price="0.00"/>
+				<design id="105" name="kayak" src="images/art/2010_01_03/kayak_105.gif" thumb="images/art/2010_01_03/kayak_105_thumb.jpg" price="0.00"/>
+				<design id="106" name="pool" src="images/art/2010_01_03/pool2_106.gif" thumb="images/art/2010_01_03/pool2_106_thumb.jpg" price="0.00"/>
+				<design id="108" name="rafting" src="images/art/2010_01_03/rafting_108.gif" thumb="images/art/2010_01_03/rafting_108_thumb.jpg" price="0.00"/>
+				<design id="110" name="scuba" src="images/art/2010_01_03/scuba2_110.gif" thumb="images/art/2010_01_03/scuba2_110_thumb.jpg" price="0.00"/>
+				<design id="111" name="scuba" src="images/art/2010_01_03/scuba_111.gif" thumb="images/art/2010_01_03/scuba_111_thumb.jpg" price="0.00"/>
+				<design id="112" name="surfer" src="images/art/2010_01_03/surfer2_112.gif" thumb="images/art/2010_01_03/surfer2_112_thumb.jpg" price="0.00"/>
+				<design id="113" name="surfer" src="images/art/2010_01_03/surfer3_113.gif" thumb="images/art/2010_01_03/surfer3_113_thumb.jpg" price="0.00"/>
+				<design id="114" name="surfer" src="images/art/2010_01_03/surfer_114.gif" thumb="images/art/2010_01_03/surfer_114_thumb.jpg" price="0.00"/>
+				<design id="115" name="swim" src="images/art/2010_01_03/swim2_115.gif" thumb="images/art/2010_01_03/swim2_115_thumb.jpg" price="0.00"/>
+				<design id="116" name="swim" src="images/art/2010_01_03/swim3_116.gif" thumb="images/art/2010_01_03/swim3_116_thumb.jpg" price="0.00"/>
+				<design id="117" name="swim" src="images/art/2010_01_03/swim4_117.gif" thumb="images/art/2010_01_03/swim4_117_thumb.jpg" price="0.00"/>
+				<design id="118" name="swim" src="images/art/2010_01_03/swim5_118.gif" thumb="images/art/2010_01_03/swim5_118_thumb.jpg" price="0.00"/>
+				<design id="119" name="swim" src="images/art/2010_01_03/swim6_119.gif" thumb="images/art/2010_01_03/swim6_119_thumb.jpg" price="0.00"/>
+				<design id="120" name="swim" src="images/art/2010_01_03/swim_120.gif" thumb="images/art/2010_01_03/swim_120_thumb.jpg" price="0.00"/>
+				<design id="121" name="swimming" src="images/art/2010_01_03/swimming_121.gif" thumb="images/art/2010_01_03/swimming_121_thumb.jpg" price="0.00"/>
+				<design id="122" name="waterpolo" src="images/art/2010_01_03/waterpolo_122.gif" thumb="images/art/2010_01_03/waterpolo_122_thumb.jpg" price="0.00"/>
+				<design id="123" name="waterski" src="images/art/2010_01_03/waterski2_123.gif" thumb="images/art/2010_01_03/waterski2_123_thumb.jpg" price="0.00"/>
+				<design id="124" name="waterski" src="images/art/2010_01_03/waterski3_124.gif" thumb="images/art/2010_01_03/waterski3_124_thumb.jpg" price="0.00"/>
+				<design id="125" name="waterski" src="images/art/2010_01_03/waterski_125.gif" thumb="images/art/2010_01_03/waterski_125_thumb.jpg" price="0.00"/>
+				<design id="126" name="windsurf" src="images/art/2010_01_03/windsurf2_126.gif" thumb="images/art/2010_01_03/windsurf2_126_thumb.jpg" price="0.00"/>
+				<design id="127" name="windsurf" src="images/art/2010_01_03/windsurf3_127.gif" thumb="images/art/2010_01_03/windsurf3_127_thumb.jpg" price="0.00"/>
+				<design id="128" name="windsurf" src="images/art/2010_01_03/windsurf_128.gif" thumb="images/art/2010_01_03/windsurf_128_thumb.jpg" price="0.00"/>
+				<design id="129" name="fishing" src="images/art/2010_01_03/fishing2_129.gif" thumb="images/art/2010_01_03/fishing2_129_thumb.jpg" price="0.00"/>
+				<design id="130" name="fishing" src="images/art/2010_01_03/fishing3_130.gif" thumb="images/art/2010_01_03/fishing3_130_thumb.jpg" price="0.00"/>
+				<design id="131" name="fishing" src="images/art/2010_01_03/fishing4_131.gif" thumb="images/art/2010_01_03/fishing4_131_thumb.jpg" price="0.00"/>
+				<design id="132" name="fishing" src="images/art/2010_01_03/fishing_132.gif" thumb="images/art/2010_01_03/fishing_132_thumb.jpg" price="0.00"/>
+				<design id="1019" name="surfboard" src="images/art/2011_04_13/surfboard_1019.png" thumb="images/art/2011_04_13/surfboard_1019_thumb.jpg" price="0.00"/>
+				<design id="1042" name="swimmer" src="images/art/2011_06_23/swimmer_1042.gif" thumb="images/art/2011_06_23/swimmer_1042_thumb.jpg" price="0.00"/>
+				<design id="1133" name="Swim 1" src="images/art/2011_07_29/swim-1_1133.gif" thumb="images/art/2011_07_29/swim-1_1133_thumb.jpg" price="0.00"/>
+				<design id="1134" name="Swim 2" src="images/art/2011_07_29/swim-2_1134.gif" thumb="images/art/2011_07_29/swim-2_1134_thumb.jpg" price="0.00"/>
+				<design id="1135" name="Swim 3" src="images/art/2011_07_29/swim-3_1135.gif" thumb="images/art/2011_07_29/swim-3_1135_thumb.jpg" price="0.00"/>
+				<design id="1136" name="Swim 6" src="images/art/2011_07_29/swim-6_1136.gif" thumb="images/art/2011_07_29/swim-6_1136_thumb.jpg" price="0.00"/>
+				<design id="1233" name="wakeboard image" src="images/art/2012_01_05/wakeboard-image_1233.gif" thumb="images/art/2012_01_05/wakeboard-image_1233_thumb.jpg" price="0.00"/>
+				<design id="1234" name="wakeboard image" src="images/art/2012_01_05/wakeboard-image_1234.gif" thumb="images/art/2012_01_05/wakeboard-image_1234_thumb.jpg" price="0.00"/>
+				<design id="1254" name="waterpolo0" src="images/art/2012_02_08/waterpolo0_1254.png" thumb="images/art/2012_02_08/waterpolo0_1254_thumb.jpg" price="0.00"/>
+			</kind>
+		</depart>
+		<depart id="70" name="Collegiate">
+			<kind id="72" name="University-Of-Maryland">
+				<design id="1216" name="umdlogo3" src="images/art/2011_11_45/umdmflag_1216.png" thumb="images/art/2011_11_45/umdmflag_1216_thumb.jpg" price="0.00"/>
+				<design id="1215" name="umdlogo1" src="images/art/2011_11_45/terrapin_1215.png" thumb="images/art/2011_11_45/terrapin_1215_thumb.jpg" price="4.00"/>
+				<design id="1214" name="umdlogo10" src="images/art/2011_11_45/mdterrapins_1211.png" thumb="images/art/2011_11_45/mdterrapins_1211_thumb.jpg" price="0.00"/>
+				<design id="1217" name="umdlogo2" src="images/art/2011_11_45/umdlogo2_1217.png" thumb="images/art/2011_11_45/umdlogo2_1217_thumb.jpg" price="0.00"/>
+				<design id="1218" name="umdlogo4" src="images/art/2011_11_45/umdlogo4_1218.png" thumb="images/art/2011_11_45/umdlogo4_1218_thumb.jpg" price="0.00"/>
+				<design id="1219" name="umdlogo11" src="images/art/2011_11_45/umdlogo11_1219.png" thumb="images/art/2011_11_45/umdlogo11_1219_thumb.jpg" price="4.50"/>
+				<design id="1220" name="umdlogo19" src="images/art/2011_11_45/umdlogo19_1220.png" thumb="images/art/2011_11_45/umdlogo19_1220_thumb.jpg" price="0.00"/>
+				<design id="1221" name="umdlogo21" src="images/art/2011_11_45/umdlogo21_1221.png" thumb="images/art/2011_11_45/umdlogo21_1221_thumb.jpg" price="0.00"/>
+				<design id="1222" name="umdlogo27" src="images/art/2011_11_45/umdlogo27_1222.png" thumb="images/art/2011_11_45/umdlogo27_1222_thumb.jpg" price="0.00"/>
+				<design id="1223" name="umdlogo29" src="images/art/2011_11_45/umdlogo29_1223.png" thumb="images/art/2011_11_45/umdlogo29_1223_thumb.jpg" price="0.00"/>
+				<design id="1224" name="shell" src="images/art/2011_11_45/shell_1224.png" thumb="images/art/2011_11_45/shell_1224_thumb.jpg" price="0.00"/>
+			</kind>
+		</depart>
+		<depart id="43" name="Animals">
+			<kind id="44" name="animals-bears">
+				<design id="707" name="Bear" src="images/art/2010_08_32/bear_707.png" thumb="images/art/2010_08_32/bear_707_thumb.jpg" price="0.00"/>
+				<design id="708" name="Bear2" src="images/art/2010_08_32/bear2_708.png" thumb="images/art/2010_08_32/bear2_708_thumb.jpg" price="0.00"/>
+				<design id="709" name="Bear3" src="images/art/2010_08_32/bear3_709.png" thumb="images/art/2010_08_32/bear3_709_thumb.jpg" price="0.00"/>
+				<design id="711" name="BearPanda2" src="images/art/2010_08_32/bearpanda2_711.png" thumb="images/art/2010_08_32/bearpanda2_711_thumb.jpg" price="0.00"/>
+				<design id="712" name="BearPanda3" src="images/art/2010_08_32/bearpanda3_712.png" thumb="images/art/2010_08_32/bearpanda3_712_thumb.jpg" price="0.00"/>
+				<design id="713" name="BearPolar" src="images/art/2010_08_32/bearpolar_713.png" thumb="images/art/2010_08_32/bearpolar_713_thumb.jpg" price="0.00"/>
+				<design id="1041" name="pawprint" src="images/art/2011_06_23/pawprint_1041.gif" thumb="images/art/2011_06_23/pawprint_1041_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="49" name="animals-birds">
+				<design id="752" name="Bird" src="images/art/2010_08_32/bird_752.png" thumb="images/art/2010_08_32/bird_752_thumb.jpg" price="0.00"/>
+				<design id="753" name="Bird2" src="images/art/2010_08_32/bird2_753.png" thumb="images/art/2010_08_32/bird2_753_thumb.jpg" price="0.00"/>
+				<design id="754" name="Bird3" src="images/art/2010_08_32/bird3_754.png" thumb="images/art/2010_08_32/bird3_754_thumb.jpg" price="0.00"/>
+				<design id="755" name="Bird4" src="images/art/2010_08_32/bird4_755.png" thumb="images/art/2010_08_32/bird4_755_thumb.jpg" price="0.00"/>
+				<design id="756" name="Bird5" src="images/art/2010_08_32/bird5_756.png" thumb="images/art/2010_08_32/bird5_756_thumb.jpg" price="0.00"/>
+				<design id="757" name="Bird6" src="images/art/2010_08_32/bird6_757.png" thumb="images/art/2010_08_32/bird6_757_thumb.jpg" price="0.00"/>
+				<design id="792" name="Chicken3" src="images/art/2010_08_32/chicken3_792.png" thumb="images/art/2010_08_32/chicken3_792_thumb.jpg" price="0.00"/>
+				<design id="759" name="Bird8" src="images/art/2010_08_32/bird8_759.png" thumb="images/art/2010_08_32/bird8_759_thumb.jpg" price="0.00"/>
+				<design id="760" name="Bird9" src="images/art/2010_08_32/bird9_760.png" thumb="images/art/2010_08_32/bird9_760_thumb.jpg" price="0.00"/>
+				<design id="761" name="Bird10" src="images/art/2010_08_32/bird10_761.png" thumb="images/art/2010_08_32/bird10_761_thumb.jpg" price="0.00"/>
+				<design id="762" name="Bird11" src="images/art/2010_08_32/bird11_762.png" thumb="images/art/2010_08_32/bird11_762_thumb.jpg" price="0.00"/>
+				<design id="763" name="Bird12" src="images/art/2010_08_32/bird12_763.png" thumb="images/art/2010_08_32/bird12_763_thumb.jpg" price="0.00"/>
+				<design id="793" name="Chicken4" src="images/art/2010_08_32/chicken4_793.png" thumb="images/art/2010_08_32/chicken4_793_thumb.jpg" price="0.00"/>
+				<design id="765" name="Bird14" src="images/art/2010_08_32/bird14_765.png" thumb="images/art/2010_08_32/bird14_765_thumb.jpg" price="0.00"/>
+				<design id="766" name="Bird15" src="images/art/2010_08_32/bird15_766.png" thumb="images/art/2010_08_32/bird15_766_thumb.jpg" price="0.00"/>
+				<design id="767" name="Bird16" src="images/art/2010_08_32/bird16_767.png" thumb="images/art/2010_08_32/bird16_767_thumb.jpg" price="0.00"/>
+				<design id="768" name="Bird17" src="images/art/2010_08_32/bird17_768.png" thumb="images/art/2010_08_32/bird17_768_thumb.jpg" price="0.00"/>
+				<design id="769" name="Bird18" src="images/art/2010_08_32/bird18_769.png" thumb="images/art/2010_08_32/bird18_769_thumb.jpg" price="0.00"/>
+				<design id="770" name="Bird19" src="images/art/2010_08_32/bird19_770.png" thumb="images/art/2010_08_32/bird19_770_thumb.jpg" price="0.00"/>
+				<design id="771" name="Bird20" src="images/art/2010_08_32/bird20_771.png" thumb="images/art/2010_08_32/bird20_771_thumb.jpg" price="0.00"/>
+				<design id="772" name="Bird21" src="images/art/2010_08_32/bird21_772.png" thumb="images/art/2010_08_32/bird21_772_thumb.jpg" price="0.00"/>
+				<design id="773" name="Bird22" src="images/art/2010_08_32/bird22_773.png" thumb="images/art/2010_08_32/bird22_773_thumb.jpg" price="0.00"/>
+				<design id="774" name="Bird23" src="images/art/2010_08_32/bird23_774.png" thumb="images/art/2010_08_32/bird23_774_thumb.jpg" price="0.00"/>
+				<design id="775" name="Bird24" src="images/art/2010_08_32/bird24_775.png" thumb="images/art/2010_08_32/bird24_775_thumb.jpg" price="0.00"/>
+				<design id="790" name="Chicken" src="images/art/2010_08_32/chicken_790.png" thumb="images/art/2010_08_32/chicken_790_thumb.jpg" price="0.00"/>
+				<design id="777" name="Bird26" src="images/art/2010_08_32/bird26_777.png" thumb="images/art/2010_08_32/bird26_777_thumb.jpg" price="0.00"/>
+				<design id="778" name="Bird27" src="images/art/2010_08_32/bird27_778.png" thumb="images/art/2010_08_32/bird27_778_thumb.jpg" price="0.00"/>
+				<design id="779" name="Bird28" src="images/art/2010_08_32/bird28_779.png" thumb="images/art/2010_08_32/bird28_779_thumb.jpg" price="0.00"/>
+				<design id="791" name="Chicken2" src="images/art/2010_08_32/chicken2_791.png" thumb="images/art/2010_08_32/chicken2_791_thumb.jpg" price="0.00"/>
+				<design id="781" name="Bat" src="images/art/2010_08_32/bat_781.png" thumb="images/art/2010_08_32/bat_781_thumb.jpg" price="0.00"/>
+				<design id="782" name="Bat2" src="images/art/2010_08_32/bat2_782.png" thumb="images/art/2010_08_32/bat2_782_thumb.jpg" price="0.00"/>
+				<design id="783" name="Bat3" src="images/art/2010_08_32/bat3_783.png" thumb="images/art/2010_08_32/bat3_783_thumb.jpg" price="0.00"/>
+				<design id="784" name="Bat4" src="images/art/2010_08_32/bat4_784.png" thumb="images/art/2010_08_32/bat4_784_thumb.jpg" price="0.00"/>
+				<design id="785" name="Duck" src="images/art/2010_08_32/duck_785.png" thumb="images/art/2010_08_32/duck_785_thumb.jpg" price="0.00"/>
+				<design id="786" name="Duck2" src="images/art/2010_08_32/duck2_786.png" thumb="images/art/2010_08_32/duck2_786_thumb.jpg" price="0.00"/>
+				<design id="787" name="Duck3" src="images/art/2010_08_32/duck3_787.png" thumb="images/art/2010_08_32/duck3_787_thumb.jpg" price="0.00"/>
+				<design id="788" name="Duck4" src="images/art/2010_08_32/duck4_788.png" thumb="images/art/2010_08_32/duck4_788_thumb.jpg" price="0.00"/>
+				<design id="789" name="Duck5" src="images/art/2010_08_32/duck5_789.png" thumb="images/art/2010_08_32/duck5_789_thumb.jpg" price="0.00"/>
+				<design id="794" name="Chicken5" src="images/art/2010_08_32/chicken5_794.png" thumb="images/art/2010_08_32/chicken5_794_thumb.jpg" price="0.00"/>
+				<design id="795" name="Chicken6" src="images/art/2010_08_32/chicken6_795.png" thumb="images/art/2010_08_32/chicken6_795_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="45" name="animals-dogs">
+				<design id="650" name="bulldawg" src="images/art/2010_08_31/bulldawg_650.png" thumb="images/art/2010_08_31/bulldawg_650_thumb.jpg" price="0.00"/>
+				<design id="714" name="Dog" src="images/art/2010_08_32/dog_714.png" thumb="images/art/2010_08_32/dog_714_thumb.jpg" price="0.00"/>
+				<design id="715" name="Dog2" src="images/art/2010_08_32/dog2_715.png" thumb="images/art/2010_08_32/dog2_715_thumb.jpg" price="0.00"/>
+				<design id="716" name="Dog3" src="images/art/2010_08_32/dog3_716.png" thumb="images/art/2010_08_32/dog3_716_thumb.jpg" price="0.00"/>
+				<design id="717" name="Dog4" src="images/art/2010_08_32/dog4_717.png" thumb="images/art/2010_08_32/dog4_717_thumb.jpg" price="0.00"/>
+				<design id="718" name="Dog5" src="images/art/2010_08_32/dog5_718.png" thumb="images/art/2010_08_32/dog5_718_thumb.jpg" price="0.00"/>
+				<design id="719" name="Dog6" src="images/art/2010_08_32/dog6_719.png" thumb="images/art/2010_08_32/dog6_719_thumb.jpg" price="0.00"/>
+				<design id="720" name="Dog7" src="images/art/2010_08_32/dog7_720.png" thumb="images/art/2010_08_32/dog7_720_thumb.jpg" price="0.00"/>
+				<design id="721" name="Dog8" src="images/art/2010_08_32/dog8_721.png" thumb="images/art/2010_08_32/dog8_721_thumb.jpg" price="0.00"/>
+				<design id="722" name="Dog9" src="images/art/2010_08_32/dog9_722.png" thumb="images/art/2010_08_32/dog9_722_thumb.jpg" price="0.00"/>
+				<design id="723" name="Dog10" src="images/art/2010_08_32/dog10_723.png" thumb="images/art/2010_08_32/dog10_723_thumb.jpg" price="0.00"/>
+				<design id="724" name="Dog11" src="images/art/2010_08_32/dog11_724.png" thumb="images/art/2010_08_32/dog11_724_thumb.jpg" price="0.00"/>
+				<design id="725" name="Dog12" src="images/art/2010_08_32/dog12_725.png" thumb="images/art/2010_08_32/dog12_725_thumb.jpg" price="0.00"/>
+				<design id="726" name="Dog13" src="images/art/2010_08_32/dog13_726.png" thumb="images/art/2010_08_32/dog13_726_thumb.jpg" price="0.00"/>
+				<design id="727" name="Dog14" src="images/art/2010_08_32/dog14_727.png" thumb="images/art/2010_08_32/dog14_727_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="46" name="animals-eagles">
+				<design id="728" name="Eagle" src="images/art/2010_08_32/eagle_728.png" thumb="images/art/2010_08_32/eagle_728_thumb.jpg" price="0.00"/>
+				<design id="729" name="Eagle2" src="images/art/2010_08_32/eagle2_729.png" thumb="images/art/2010_08_32/eagle2_729_thumb.jpg" price="0.00"/>
+				<design id="730" name="Eagle3" src="images/art/2010_08_32/eagle3_730.png" thumb="images/art/2010_08_32/eagle3_730_thumb.jpg" price="0.00"/>
+				<design id="731" name="Eagle4" src="images/art/2010_08_32/eagle4_731.png" thumb="images/art/2010_08_32/eagle4_731_thumb.jpg" price="0.00"/>
+				<design id="732" name="Eagle5" src="images/art/2010_08_32/eagle5_732.png" thumb="images/art/2010_08_32/eagle5_732_thumb.jpg" price="0.00"/>
+				<design id="733" name="Eagle6" src="images/art/2010_08_32/eagle6_733.png" thumb="images/art/2010_08_32/eagle6_733_thumb.jpg" price="0.00"/>
+				<design id="734" name="Eagle7" src="images/art/2010_08_32/eagle7_734.png" thumb="images/art/2010_08_32/eagle7_734_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="47" name="animals-horses">
+				<design id="735" name="Horse1" src="images/art/2010_08_32/horse1_735.png" thumb="images/art/2010_08_32/horse1_735_thumb.jpg" price="0.00"/>
+				<design id="736" name="Horse2" src="images/art/2010_08_32/horse2_736.png" thumb="images/art/2010_08_32/horse2_736_thumb.jpg" price="0.00"/>
+				<design id="737" name="Horse3" src="images/art/2010_08_32/horse3_737.png" thumb="images/art/2010_08_32/horse3_737_thumb.jpg" price="0.00"/>
+				<design id="738" name="Horse4" src="images/art/2010_08_32/horse4_738.png" thumb="images/art/2010_08_32/horse4_738_thumb.jpg" price="0.00"/>
+				<design id="739" name="Horse5" src="images/art/2010_08_32/horse5_739.png" thumb="images/art/2010_08_32/horse5_739_thumb.jpg" price="0.00"/>
+				<design id="740" name="Horse6" src="images/art/2010_08_32/horse6_740.png" thumb="images/art/2010_08_32/horse6_740_thumb.jpg" price="0.00"/>
+				<design id="741" name="Horse7" src="images/art/2010_08_32/horse7_741.png" thumb="images/art/2010_08_32/horse7_741_thumb.jpg" price="0.00"/>
+				<design id="742" name="Horse8" src="images/art/2010_08_32/horse8_742.png" thumb="images/art/2010_08_32/horse8_742_thumb.jpg" price="0.00"/>
+				<design id="743" name="Horse9" src="images/art/2010_08_32/horse9_743.png" thumb="images/art/2010_08_32/horse9_743_thumb.jpg" price="0.00"/>
+				<design id="744" name="Horse10" src="images/art/2010_08_32/horse10_744.png" thumb="images/art/2010_08_32/horse10_744_thumb.jpg" price="0.00"/>
+				<design id="745" name="Horse11" src="images/art/2010_08_32/horse11_745.png" thumb="images/art/2010_08_32/horse11_745_thumb.jpg" price="0.00"/>
+				<design id="746" name="Horse12" src="images/art/2010_08_32/horse12_746.png" thumb="images/art/2010_08_32/horse12_746_thumb.jpg" price="0.00"/>
+				<design id="747" name="Horse13" src="images/art/2010_08_32/horse13_747.png" thumb="images/art/2010_08_32/horse13_747_thumb.jpg" price="0.00"/>
+				<design id="748" name="Horse14" src="images/art/2010_08_32/horse14_748.png" thumb="images/art/2010_08_32/horse14_748_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="48" name="animals-other">
+				<design id="750" name="Pegasus" src="images/art/2010_08_32/pegasus_750.png" thumb="images/art/2010_08_32/pegasus_750_thumb.jpg" price="0.00"/>
+				<design id="796" name="Amradillo" src="images/art/2010_08_32/amradillo_796.png" thumb="images/art/2010_08_32/amradillo_796_thumb.jpg" price="0.00"/>
+				<design id="797" name="Antelope" src="images/art/2010_08_32/antelope_797.png" thumb="images/art/2010_08_32/antelope_797_thumb.jpg" price="0.00"/>
+				<design id="798" name="Beaver" src="images/art/2010_08_32/beaver_798.png" thumb="images/art/2010_08_32/beaver_798_thumb.jpg" price="0.00"/>
+				<design id="799" name="Buffalo" src="images/art/2010_08_32/buffalo_799.png" thumb="images/art/2010_08_32/buffalo_799_thumb.jpg" price="0.00"/>
+				<design id="800" name="Camel" src="images/art/2010_08_32/camel_800.png" thumb="images/art/2010_08_32/camel_800_thumb.jpg" price="0.00"/>
+				<design id="801" name="Camel2" src="images/art/2010_08_32/camel2_801.png" thumb="images/art/2010_08_32/camel2_801_thumb.jpg" price="0.00"/>
+				<design id="802" name="Dolphin" src="images/art/2010_08_32/dolphin_802.png" thumb="images/art/2010_08_32/dolphin_802_thumb.jpg" price="0.00"/>
+				<design id="803" name="Dolphin2" src="images/art/2010_08_32/dolphin2_803.png" thumb="images/art/2010_08_32/dolphin2_803_thumb.jpg" price="0.00"/>
+				<design id="805" name="Donkey" src="images/art/2010_08_32/donkey_805.png" thumb="images/art/2010_08_32/donkey_805_thumb.jpg" price="0.00"/>
+				<design id="806" name="Fox" src="images/art/2010_08_32/fox_806.png" thumb="images/art/2010_08_32/fox_806_thumb.jpg" price="0.00"/>
+				<design id="807" name="Giraffe" src="images/art/2010_08_32/giraffe_807.png" thumb="images/art/2010_08_32/giraffe_807_thumb.jpg" price="0.00"/>
+				<design id="808" name="Goat" src="images/art/2010_08_32/goat_808.png" thumb="images/art/2010_08_32/goat_808_thumb.jpg" price="0.00"/>
+				<design id="809" name="Gorilla" src="images/art/2010_08_32/gorilla_809.png" thumb="images/art/2010_08_32/gorilla_809_thumb.jpg" price="0.00"/>
+				<design id="810" name="Hippo" src="images/art/2010_08_32/hippo_810.png" thumb="images/art/2010_08_32/hippo_810_thumb.jpg" price="0.00"/>
+				<design id="811" name="Monkey" src="images/art/2010_08_32/monkey_811.png" thumb="images/art/2010_08_32/monkey_811_thumb.jpg" price="0.00"/>
+				<design id="812" name="Monkey2" src="images/art/2010_08_32/monkey2_812.png" thumb="images/art/2010_08_32/monkey2_812_thumb.jpg" price="0.00"/>
+				<design id="813" name="Moose" src="images/art/2010_08_32/moose_813.png" thumb="images/art/2010_08_32/moose_813_thumb.jpg" price="0.00"/>
+				<design id="814" name="Mouse" src="images/art/2010_08_32/mouse_814.png" thumb="images/art/2010_08_32/mouse_814_thumb.jpg" price="0.00"/>
+				<design id="815" name="Mouse2" src="images/art/2010_08_32/mouse2_815.png" thumb="images/art/2010_08_32/mouse2_815_thumb.jpg" price="0.00"/>
+				<design id="816" name="Platypus" src="images/art/2010_08_32/platypus_816.png" thumb="images/art/2010_08_32/platypus_816_thumb.jpg" price="0.00"/>
+				<design id="817" name="Porcupine" src="images/art/2010_08_32/porcupine_817.png" thumb="images/art/2010_08_32/porcupine_817_thumb.jpg" price="0.00"/>
+				<design id="818" name="Racoon" src="images/art/2010_08_32/racoon_818.png" thumb="images/art/2010_08_32/racoon_818_thumb.jpg" price="0.00"/>
+				<design id="819" name="Ram" src="images/art/2010_08_32/ram_819.png" thumb="images/art/2010_08_32/ram_819_thumb.jpg" price="0.00"/>
+				<design id="820" name="Rat" src="images/art/2010_08_32/rat_820.png" thumb="images/art/2010_08_32/rat_820_thumb.jpg" price="0.00"/>
+				<design id="821" name="Rhino" src="images/art/2010_08_32/rhino_821.png" thumb="images/art/2010_08_32/rhino_821_thumb.jpg" price="0.00"/>
+				<design id="822" name="Rhino2" src="images/art/2010_08_32/rhino2_822.png" thumb="images/art/2010_08_32/rhino2_822_thumb.jpg" price="0.00"/>
+				<design id="823" name="Seal" src="images/art/2010_08_32/seal_823.png" thumb="images/art/2010_08_32/seal_823_thumb.jpg" price="0.00"/>
+				<design id="824" name="Seal2" src="images/art/2010_08_32/seal2_824.png" thumb="images/art/2010_08_32/seal2_824_thumb.jpg" price="0.00"/>
+				<design id="825" name="Shark" src="images/art/2010_08_32/shark_825.png" thumb="images/art/2010_08_32/shark_825_thumb.jpg" price="0.00"/>
+				<design id="828" name="Sheep" src="images/art/2010_08_32/sheep_828.png" thumb="images/art/2010_08_32/sheep_828_thumb.jpg" price="0.00"/>
+				<design id="829" name="Sheep2" src="images/art/2010_08_32/sheep2_829.png" thumb="images/art/2010_08_32/sheep2_829_thumb.jpg" price="0.00"/>
+				<design id="830" name="Skunk" src="images/art/2010_08_32/skunk_830.png" thumb="images/art/2010_08_32/skunk_830_thumb.jpg" price="0.00"/>
+				<design id="831" name="Squirrel" src="images/art/2010_08_32/squirrel_831.png" thumb="images/art/2010_08_32/squirrel_831_thumb.jpg" price="0.00"/>
+				<design id="832" name="Whale" src="images/art/2010_08_32/whale_832.png" thumb="images/art/2010_08_32/whale_832_thumb.jpg" price="0.00"/>
+				<design id="833" name="Wolf" src="images/art/2010_08_32/wolf_833.png" thumb="images/art/2010_08_32/wolf_833_thumb.jpg" price="0.00"/>
+				<design id="1010" name="Triceratops" src="images/art/2011_01_01/triceratops_1010.gif" thumb="images/art/2011_01_01/triceratops_1010_thumb.jpg" price="0.00"/>
+				<design id="1108" name="lizard logo" src="images/art/2011_06_26/lizard-logo_1108.gif" thumb="images/art/2011_06_26/lizard-logo_1108_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="50" name="animals-sea">
+				<design id="749" name="HorseSea" src="images/art/2010_08_32/horsesea_749.png" thumb="images/art/2010_08_32/horsesea_749_thumb.jpg" price="0.00"/>
+				<design id="834" name="Crab" src="images/art/2010_08_32/crab_834.png" thumb="images/art/2010_08_32/crab_834_thumb.jpg" price="0.00"/>
+				<design id="835" name="Crab2" src="images/art/2010_08_32/crab2_835.png" thumb="images/art/2010_08_32/crab2_835_thumb.jpg" price="0.00"/>
+				<design id="836" name="Crab3" src="images/art/2010_08_32/crab3_836.png" thumb="images/art/2010_08_32/crab3_836_thumb.jpg" price="0.00"/>
+				<design id="837" name="Crab4" src="images/art/2010_08_32/crab4_837.png" thumb="images/art/2010_08_32/crab4_837_thumb.jpg" price="0.00"/>
+				<design id="838" name="Shell" src="images/art/2010_08_32/shell_838.png" thumb="images/art/2010_08_32/shell_838_thumb.jpg" price="0.00"/>
+				<design id="839" name="Shell2" src="images/art/2010_08_32/shell2_839.png" thumb="images/art/2010_08_32/shell2_839_thumb.jpg" price="0.00"/>
+				<design id="840" name="Shell3" src="images/art/2010_08_32/shell3_840.png" thumb="images/art/2010_08_32/shell3_840_thumb.jpg" price="0.00"/>
+				<design id="841" name="Shell4" src="images/art/2010_08_32/shell4_841.png" thumb="images/art/2010_08_32/shell4_841_thumb.jpg" price="0.00"/>
+				<design id="842" name="Lobster" src="images/art/2010_08_32/lobster_842.png" thumb="images/art/2010_08_32/lobster_842_thumb.jpg" price="0.00"/>
+				<design id="843" name="Lobster2" src="images/art/2010_08_32/lobster2_843.png" thumb="images/art/2010_08_32/lobster2_843_thumb.jpg" price="0.00"/>
+				<design id="844" name="Snail" src="images/art/2010_08_32/snail_844.png" thumb="images/art/2010_08_32/snail_844_thumb.jpg" price="0.00"/>
+				<design id="845" name="Fish" src="images/art/2010_08_32/fish_845.png" thumb="images/art/2010_08_32/fish_845_thumb.jpg" price="0.00"/>
+				<design id="846" name="Fish2" src="images/art/2010_08_32/fish2_846.png" thumb="images/art/2010_08_32/fish2_846_thumb.jpg" price="0.00"/>
+				<design id="847" name="Fish3" src="images/art/2010_08_32/fish3_847.png" thumb="images/art/2010_08_32/fish3_847_thumb.jpg" price="0.00"/>
+				<design id="848" name="Fish4" src="images/art/2010_08_32/fish4_848.png" thumb="images/art/2010_08_32/fish4_848_thumb.jpg" price="0.00"/>
+				<design id="849" name="Fish5" src="images/art/2010_08_32/fish5_849.png" thumb="images/art/2010_08_32/fish5_849_thumb.jpg" price="0.00"/>
+				<design id="850" name="Fish6" src="images/art/2010_08_32/fish6_850.png" thumb="images/art/2010_08_32/fish6_850_thumb.jpg" price="0.00"/>
+				<design id="851" name="Fish7" src="images/art/2010_08_32/fish7_851.png" thumb="images/art/2010_08_32/fish7_851_thumb.jpg" price="0.00"/>
+				<design id="852" name="Fish8" src="images/art/2010_08_32/fish8_852.png" thumb="images/art/2010_08_32/fish8_852_thumb.jpg" price="0.00"/>
+				<design id="853" name="Fish9" src="images/art/2010_08_32/fish9_853.png" thumb="images/art/2010_08_32/fish9_853_thumb.jpg" price="0.00"/>
+				<design id="854" name="Fish10" src="images/art/2010_08_32/fish10_854.png" thumb="images/art/2010_08_32/fish10_854_thumb.jpg" price="0.00"/>
+				<design id="855" name="Fish11" src="images/art/2010_08_32/fish11_855.png" thumb="images/art/2010_08_32/fish11_855_thumb.jpg" price="0.00"/>
+				<design id="856" name="Fish12" src="images/art/2010_08_32/fish12_856.png" thumb="images/art/2010_08_32/fish12_856_thumb.jpg" price="0.00"/>
+				<design id="1118" name="fish_black" src="images/art/2011_07_26/fish_black_1117.gif" thumb="images/art/2011_07_26/fish_black_1117_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="51" name="animals-wild">
+				<design id="751" name="Zebra" src="images/art/2010_08_32/zebra_751.png" thumb="images/art/2010_08_32/zebra_751_thumb.jpg" price="0.00"/>
+				<design id="857" name="Bull" src="images/art/2010_08_32/bull_857.png" thumb="images/art/2010_08_32/bull_857_thumb.jpg" price="0.00"/>
+				<design id="858" name="Bull2" src="images/art/2010_08_32/bull2_858.png" thumb="images/art/2010_08_32/bull2_858_thumb.jpg" price="0.00"/>
+				<design id="859" name="Bull3" src="images/art/2010_08_32/bull3_859.png" thumb="images/art/2010_08_32/bull3_859_thumb.jpg" price="0.00"/>
+				<design id="860" name="Bull4" src="images/art/2010_08_32/bull4_860.png" thumb="images/art/2010_08_32/bull4_860_thumb.jpg" price="0.00"/>
+				<design id="861" name="Bull5" src="images/art/2010_08_32/bull5_861.png" thumb="images/art/2010_08_32/bull5_861_thumb.jpg" price="0.00"/>
+				<design id="862" name="Bull6" src="images/art/2010_08_32/bull6_862.png" thumb="images/art/2010_08_32/bull6_862_thumb.jpg" price="0.00"/>
+				<design id="863" name="Butterfly" src="images/art/2010_08_32/butterfly_863.png" thumb="images/art/2010_08_32/butterfly_863_thumb.jpg" price="0.00"/>
+				<design id="864" name="Butterfly2" src="images/art/2010_08_32/butterfly2_864.png" thumb="images/art/2010_08_32/butterfly2_864_thumb.jpg" price="0.00"/>
+				<design id="865" name="Butterfly3" src="images/art/2010_08_32/butterfly3_865.png" thumb="images/art/2010_08_32/butterfly3_865_thumb.jpg" price="0.00"/>
+				<design id="866" name="Butterfly4" src="images/art/2010_08_32/butterfly4_866.png" thumb="images/art/2010_08_32/butterfly4_866_thumb.jpg" price="0.00"/>
+				<design id="867" name="Deer" src="images/art/2010_08_32/deer_867.png" thumb="images/art/2010_08_32/deer_867_thumb.jpg" price="0.00"/>
+				<design id="868" name="Deer2" src="images/art/2010_08_32/deer2_868.png" thumb="images/art/2010_08_32/deer2_868_thumb.jpg" price="0.00"/>
+				<design id="869" name="Deer3" src="images/art/2010_08_32/deer3_869.png" thumb="images/art/2010_08_32/deer3_869_thumb.jpg" price="0.00"/>
+				<design id="870" name="Deer4" src="images/art/2010_08_32/deer4_870.png" thumb="images/art/2010_08_32/deer4_870_thumb.jpg" price="0.00"/>
+				<design id="871" name="Deer5" src="images/art/2010_08_32/deer5_871.png" thumb="images/art/2010_08_32/deer5_871_thumb.jpg" price="0.00"/>
+				<design id="872" name="Elephant" src="images/art/2010_08_32/elephant_872.png" thumb="images/art/2010_08_32/elephant_872_thumb.jpg" price="0.00"/>
+				<design id="873" name="Elephant2" src="images/art/2010_08_32/elephant2_873.png" thumb="images/art/2010_08_32/elephant2_873_thumb.jpg" price="0.00"/>
+				<design id="874" name="Elephant3" src="images/art/2010_08_32/elephant3_874.png" thumb="images/art/2010_08_32/elephant3_874_thumb.jpg" price="0.00"/>
+				<design id="875" name="Elephant4" src="images/art/2010_08_32/elephant4_875.png" thumb="images/art/2010_08_32/elephant4_875_thumb.jpg" price="0.00"/>
+				<design id="876" name="Elephant5" src="images/art/2010_08_32/elephant5_876.png" thumb="images/art/2010_08_32/elephant5_876_thumb.jpg" price="0.00"/>
+				<design id="877" name="Elephant6" src="images/art/2010_08_32/elephant6_877.png" thumb="images/art/2010_08_32/elephant6_877_thumb.jpg" price="0.00"/>
+				<design id="878" name="Cougar" src="images/art/2010_08_32/cougar_878.png" thumb="images/art/2010_08_32/cougar_878_thumb.jpg" price="0.00"/>
+				<design id="879" name="Lion" src="images/art/2010_08_32/lion_879.png" thumb="images/art/2010_08_32/lion_879_thumb.jpg" price="0.00"/>
+				<design id="880" name="Lion2" src="images/art/2010_08_32/lion2_880.png" thumb="images/art/2010_08_32/lion2_880_thumb.jpg" price="0.00"/>
+				<design id="881" name="Lion3" src="images/art/2010_08_32/lion3_881.png" thumb="images/art/2010_08_32/lion3_881_thumb.jpg" price="0.00"/>
+				<design id="882" name="Panther" src="images/art/2010_08_32/panther_882.png" thumb="images/art/2010_08_32/panther_882_thumb.jpg" price="0.00"/>
+				<design id="883" name="Tiger" src="images/art/2010_08_32/tiger_883.png" thumb="images/art/2010_08_32/tiger_883_thumb.jpg" price="0.00"/>
+				<design id="884" name="Kangaroo" src="images/art/2010_08_32/kangaroo_884.png" thumb="images/art/2010_08_32/kangaroo_884_thumb.jpg" price="0.00"/>
+				<design id="885" name="Kangaroo2" src="images/art/2010_08_32/kangaroo2_885.png" thumb="images/art/2010_08_32/kangaroo2_885_thumb.jpg" price="0.00"/>
+				<design id="886" name="Kangaroo3" src="images/art/2010_08_32/kangaroo3_886.png" thumb="images/art/2010_08_32/kangaroo3_886_thumb.jpg" price="0.00"/>
+				<design id="887" name="Pig" src="images/art/2010_08_32/pig_887.png" thumb="images/art/2010_08_32/pig_887_thumb.jpg" price="0.00"/>
+				<design id="888" name="Pig2" src="images/art/2010_08_32/pig2_888.png" thumb="images/art/2010_08_32/pig2_888_thumb.jpg" price="0.00"/>
+				<design id="889" name="Pig3" src="images/art/2010_08_32/pig3_889.png" thumb="images/art/2010_08_32/pig3_889_thumb.jpg" price="0.00"/>
+				<design id="890" name="Pig4" src="images/art/2010_08_32/pig4_890.png" thumb="images/art/2010_08_32/pig4_890_thumb.jpg" price="0.00"/>
+				<design id="891" name="Pig5" src="images/art/2010_08_32/pig5_891.png" thumb="images/art/2010_08_32/pig5_891_thumb.jpg" price="0.00"/>
+				<design id="892" name="Pig6" src="images/art/2010_08_32/pig6_892.png" thumb="images/art/2010_08_32/pig6_892_thumb.jpg" price="0.00"/>
+				<design id="893" name="PiggyBank" src="images/art/2010_08_32/piggybank_893.png" thumb="images/art/2010_08_32/piggybank_893_thumb.jpg" price="0.00"/>
+			</kind>
+		</depart>
+		<depart id="73" name="Holidays">
+			<kind id="75" name="St-Patrick-s-Day">
+				<design id="1017" name="Shamrock" src="images/art/2011_02_07/shamrock_1017.gif" thumb="images/art/2011_02_07/shamrock_1017_thumb.jpg" price="0.00"/>
+				<design id="1229" name="celtic-knot" src="images/art/2011_12_50/celtic-knot_1229.png" thumb="images/art/2011_12_50/celtic-knot_1229_thumb.jpg" price="0.00"/>
+				<design id="1230" name="leprechaun" src="images/art/2011_12_50/leprechaun_1230.png" thumb="images/art/2011_12_50/leprechaun_1230_thumb.jpg" price="0.00"/>
+				<design id="1231" name="ShamrockLaX" src="images/art/2012_01_01/shamrocklax_1231.png" thumb="images/art/2012_01_01/shamrocklax_1231_thumb.jpg" price="0.00"/>
+				<design id="1271" name="santaclaus" src="images/art/2012_10_41/santaclaus_1270.png" thumb="images/art/2012_10_41/santaclaus_1270_thumb.jpg" price="4.00"/>
+			</kind>
+		</depart>
+		<depart id="8" name="Food and Drinks">
+			<kind id="10" name="food-drinks">
+				<design id="950" name="pony-keg" src="images/art/2010_08_32/pony-keg_950.png" thumb="images/art/2010_08_32/pony-keg_950_thumb.jpg" price="0.00"/>
+				<design id="238" name="coaktail" src="images/art/2010_01_03/coaktail_238.gif" thumb="images/art/2010_01_03/coaktail_238_thumb.jpg" price="0.00"/>
+				<design id="232" name="bottle" src="images/art/2010_01_03/bottle_232.gif" thumb="images/art/2010_01_03/bottle_232_thumb.jpg" price="0.00"/>
+				<design id="300" name="Beer" src="images/art/2010_01_03/beer2_300.gif" thumb="images/art/2010_01_03/beer2_300_thumb.jpg" price="0.00"/>
+				<design id="301" name="Beer" src="images/art/2010_01_03/beer3_301.gif" thumb="images/art/2010_01_03/beer3_301_thumb.jpg" price="0.00"/>
+				<design id="302" name="Beer" src="images/art/2010_01_03/beer_302.gif" thumb="images/art/2010_01_03/beer_302_thumb.jpg" price="0.00"/>
+				<design id="303" name="Glass" src="images/art/2010_01_03/glass_303.gif" thumb="images/art/2010_01_03/glass_303_thumb.jpg" price="0.00"/>
+				<design id="304" name="Chalis" src="images/art/2010_01_03/chalis_304.gif" thumb="images/art/2010_01_03/chalis_304_thumb.jpg" price="0.00"/>
+				<design id="305" name="Champaigne" src="images/art/2010_01_03/champaigne_305.gif" thumb="images/art/2010_01_03/champaigne_305_thumb.jpg" price="0.00"/>
+				<design id="306" name="Lemonade" src="images/art/2010_01_03/lemonade_306.gif" thumb="images/art/2010_01_03/lemonade_306_thumb.jpg" price="0.00"/>
+				<design id="307" name="Coffee" src="images/art/2010_01_03/coffee2_307.gif" thumb="images/art/2010_01_03/coffee2_307_thumb.jpg" price="0.00"/>
+				<design id="308" name="Coffee" src="images/art/2010_01_03/coffee3_308.gif" thumb="images/art/2010_01_03/coffee3_308_thumb.jpg" price="0.00"/>
+				<design id="309" name="Coffee" src="images/art/2010_01_03/coffee4_309.gif" thumb="images/art/2010_01_03/coffee4_309_thumb.jpg" price="0.00"/>
+				<design id="310" name="Coffee" src="images/art/2010_01_03/coffee5_310.gif" thumb="images/art/2010_01_03/coffee5_310_thumb.jpg" price="0.00"/>
+				<design id="311" name="Coffee" src="images/art/2010_01_03/coffee6_311.gif" thumb="images/art/2010_01_03/coffee6_311_thumb.jpg" price="0.00"/>
+				<design id="312" name="Coffee" src="images/art/2010_01_03/coffee7_312.gif" thumb="images/art/2010_01_03/coffee7_312_thumb.jpg" price="0.00"/>
+				<design id="313" name="Coffee" src="images/art/2010_01_03/coffee8_313.gif" thumb="images/art/2010_01_03/coffee8_313_thumb.jpg" price="0.00"/>
+				<design id="314" name="Coffee" src="images/art/2010_01_03/coffee9_314.gif" thumb="images/art/2010_01_03/coffee9_314_thumb.jpg" price="0.00"/>
+				<design id="315" name="Coffee" src="images/art/2010_01_03/coffee10_315.gif" thumb="images/art/2010_01_03/coffee10_315_thumb.jpg" price="0.00"/>
+				<design id="316" name="Coffee" src="images/art/2010_01_03/coffee_316.gif" thumb="images/art/2010_01_03/coffee_316_thumb.jpg" price="0.00"/>
+				<design id="317" name="Coffeebeans" src="images/art/2010_01_03/coffeebeans_317.gif" thumb="images/art/2010_01_03/coffeebeans_317_thumb.jpg" price="0.00"/>
+				<design id="318" name="Tea" src="images/art/2010_01_03/tea_318.gif" thumb="images/art/2010_01_03/tea_318_thumb.jpg" price="0.00"/>
+				<design id="319" name="Teapot" src="images/art/2010_01_03/teapot2_319.gif" thumb="images/art/2010_01_03/teapot2_319_thumb.jpg" price="0.00"/>
+				<design id="320" name="Teapot" src="images/art/2010_01_03/teapot3_320.gif" thumb="images/art/2010_01_03/teapot3_320_thumb.jpg" price="0.00"/>
+				<design id="321" name="Teapot" src="images/art/2010_01_03/teapot_321.gif" thumb="images/art/2010_01_03/teapot_321_thumb.jpg" price="0.00"/>
+				<design id="322" name="Cocktail" src="images/art/2010_01_03/cocktail2_322.gif" thumb="images/art/2010_01_03/cocktail2_322_thumb.jpg" price="0.00"/>
+				<design id="323" name="Cocktail" src="images/art/2010_01_03/cocktail3_323.gif" thumb="images/art/2010_01_03/cocktail3_323_thumb.jpg" price="0.00"/>
+				<design id="324" name="Cocktail" src="images/art/2010_01_03/cocktail4_324.gif" thumb="images/art/2010_01_03/cocktail4_324_thumb.jpg" price="0.00"/>
+				<design id="325" name="Cocktail" src="images/art/2010_01_03/cocktail5_325.gif" thumb="images/art/2010_01_03/cocktail5_325_thumb.jpg" price="0.00"/>
+				<design id="326" name="Cocktail" src="images/art/2010_01_03/cocktail6_326.gif" thumb="images/art/2010_01_03/cocktail6_326_thumb.jpg" price="0.00"/>
+				<design id="327" name="Cocktail" src="images/art/2010_01_03/cocktail7_327.gif" thumb="images/art/2010_01_03/cocktail7_327_thumb.jpg" price="0.00"/>
+				<design id="328" name="Cocktail" src="images/art/2010_01_03/cocktail_328.gif" thumb="images/art/2010_01_03/cocktail_328_thumb.jpg" price="0.00"/>
+				<design id="329" name="Lounge" src="images/art/2010_01_03/lounge_329.gif" thumb="images/art/2010_01_03/lounge_329_thumb.jpg" price="0.00"/>
+				<design id="330" name="Martini" src="images/art/2010_01_03/martini2_330.gif" thumb="images/art/2010_01_03/martini2_330_thumb.jpg" price="0.00"/>
+				<design id="331" name="Martini" src="images/art/2010_01_03/martini3_331.gif" thumb="images/art/2010_01_03/martini3_331_thumb.jpg" price="0.00"/>
+				<design id="332" name="Martini" src="images/art/2010_01_03/martini_332.gif" thumb="images/art/2010_01_03/martini_332_thumb.jpg" price="0.00"/>
+				<design id="333" name="Wine" src="images/art/2010_01_03/wine2_333.gif" thumb="images/art/2010_01_03/wine2_333_thumb.jpg" price="0.00"/>
+				<design id="334" name="Wine" src="images/art/2010_01_03/wine3_334.gif" thumb="images/art/2010_01_03/wine3_334_thumb.jpg" price="0.00"/>
+				<design id="335" name="Wine" src="images/art/2010_01_03/wine4_335.gif" thumb="images/art/2010_01_03/wine4_335_thumb.jpg" price="0.00"/>
+				<design id="336" name="Wine" src="images/art/2010_01_03/wine5_336.gif" thumb="images/art/2010_01_03/wine5_336_thumb.jpg" price="0.00"/>
+				<design id="337" name="Wine" src="images/art/2010_01_03/wine6_337.gif" thumb="images/art/2010_01_03/wine6_337_thumb.jpg" price="0.00"/>
+				<design id="338" name="Wine" src="images/art/2010_01_03/wine_338.gif" thumb="images/art/2010_01_03/wine_338_thumb.jpg" price="0.00"/>
+				<design id="1099" name="keg" src="images/art/2011_06_26/keg_1099.gif" thumb="images/art/2011_06_26/keg_1099_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="9" name="food-fruits">
+				<design id="279" name="Apple" src="images/art/2010_01_03/apple2_279.gif" thumb="images/art/2010_01_03/apple2_279_thumb.jpg" price="0.00"/>
+				<design id="280" name="Apple" src="images/art/2010_01_03/apple3_280.gif" thumb="images/art/2010_01_03/apple3_280_thumb.jpg" price="0.00"/>
+				<design id="281" name="Apple" src="images/art/2010_01_03/apple4_281.gif" thumb="images/art/2010_01_03/apple4_281_thumb.jpg" price="0.00"/>
+				<design id="283" name="Apple" src="images/art/2010_01_03/apple_283.gif" thumb="images/art/2010_01_03/apple_283_thumb.jpg" price="0.00"/>
+				<design id="284" name="Banana" src="images/art/2010_01_03/banana_284.gif" thumb="images/art/2010_01_03/banana_284_thumb.jpg" price="0.00"/>
+				<design id="285" name="Bananaman" src="images/art/2010_01_03/bananaman_285.gif" thumb="images/art/2010_01_03/bananaman_285_thumb.jpg" price="0.00"/>
+				<design id="286" name="Bananas" src="images/art/2010_01_03/bananas_286.gif" thumb="images/art/2010_01_03/bananas_286_thumb.jpg" price="0.00"/>
+				<design id="287" name="Fruit" src="images/art/2010_01_03/fruit_287.gif" thumb="images/art/2010_01_03/fruit_287_thumb.jpg" price="0.00"/>
+				<design id="288" name="Grapes" src="images/art/2010_01_03/grapes2_288.gif" thumb="images/art/2010_01_03/grapes2_288_thumb.jpg" price="0.00"/>
+				<design id="289" name="Grapes" src="images/art/2010_01_03/grapes3_289.gif" thumb="images/art/2010_01_03/grapes3_289_thumb.jpg" price="0.00"/>
+				<design id="290" name="Grapes" src="images/art/2010_01_03/grapes4_290.gif" thumb="images/art/2010_01_03/grapes4_290_thumb.jpg" price="0.00"/>
+				<design id="291" name="Grapes" src="images/art/2010_01_03/grapes5_291.gif" thumb="images/art/2010_01_03/grapes5_291_thumb.jpg" price="0.00"/>
+				<design id="292" name="Grapes" src="images/art/2010_01_03/grapes6_292.gif" thumb="images/art/2010_01_03/grapes6_292_thumb.jpg" price="0.00"/>
+				<design id="293" name="Grapes" src="images/art/2010_01_03/grapes_293.gif" thumb="images/art/2010_01_03/grapes_293_thumb.jpg" price="0.00"/>
+				<design id="295" name="Cherries" src="images/art/2010_01_03/cherries_295.gif" thumb="images/art/2010_01_03/cherries_295_thumb.jpg" price="0.00"/>
+				<design id="296" name="Orange" src="images/art/2010_01_03/orange_296.gif" thumb="images/art/2010_01_03/orange_296_thumb.jpg" price="0.00"/>
+				<design id="297" name="Strawberry" src="images/art/2010_01_03/strawberry2_297.gif" thumb="images/art/2010_01_03/strawberry2_297_thumb.jpg" price="0.00"/>
+				<design id="298" name="Strawberry" src="images/art/2010_01_03/strawberry_298.gif" thumb="images/art/2010_01_03/strawberry_298_thumb.jpg" price="0.00"/>
+				<design id="299" name="Watermelon" src="images/art/2010_01_03/watermelon_299.gif" thumb="images/art/2010_01_03/watermelon_299_thumb.jpg" price="0.00"/>
+			</kind>
+		</depart>
+		<depart id="1" name="Other">
+			<kind id="2" name="arrows-big">
+				<design id="4" name="Arrow" src="images/art/2010_01_03/arrow14_4.gif" thumb="images/art/2010_01_03/arrow14_4_thumb.jpg" price="0.00"/>
+				<design id="3" name="Arrow" src="images/art/2010_01_03/arrow5_1.gif" thumb="images/art/2010_01_03/arrow5_1_thumb.jpg" price="0.00"/>
+				<design id="5" name="Arrow" src="images/art/2010_01_03/arrow15_5.gif" thumb="images/art/2010_01_03/arrow15_5_thumb.jpg" price="0.00"/>
+				<design id="6" name="Arrow" src="images/art/2010_01_03/arrow20_6.gif" thumb="images/art/2010_01_03/arrow20_6_thumb.jpg" price="0.00"/>
+				<design id="7" name="Arrow" src="images/art/2010_01_03/arrow28_7.gif" thumb="images/art/2010_01_03/arrow28_7_thumb.jpg" price="0.00"/>
+				<design id="8" name="Arrow" src="images/art/2010_01_03/arrow33_8.gif" thumb="images/art/2010_01_03/arrow33_8_thumb.jpg" price="0.00"/>
+				<design id="9" name="Arrow" src="images/art/2010_01_03/arrow36_9.gif" thumb="images/art/2010_01_03/arrow36_9_thumb.jpg" price="0.00"/>
+				<design id="10" name="Arrow" src="images/art/2010_01_03/arrow37_10.gif" thumb="images/art/2010_01_03/arrow37_10_thumb.jpg" price="0.00"/>
+				<design id="11" name="Arrow" src="images/art/2010_01_03/arrow38_11.gif" thumb="images/art/2010_01_03/arrow38_11_thumb.jpg" price="0.00"/>
+				<design id="12" name="Arrow" src="images/art/2010_01_03/arrow39_12.gif" thumb="images/art/2010_01_03/arrow39_12_thumb.jpg" price="0.00"/>
+				<design id="13" name="Arrow" src="images/art/2010_01_03/arrow42_13.gif" thumb="images/art/2010_01_03/arrow42_13_thumb.jpg" price="0.00"/>
+				<design id="14" name="Arrow" src="images/art/2010_01_03/arrow46_14.gif" thumb="images/art/2010_01_03/arrow46_14_thumb.jpg" price="0.00"/>
+				<design id="15" name="Arrow" src="images/art/2010_01_03/arrow48_15.gif" thumb="images/art/2010_01_03/arrow48_15_thumb.jpg" price="0.00"/>
+				<design id="16" name="Arrow" src="images/art/2010_01_03/arrow60_16.gif" thumb="images/art/2010_01_03/arrow60_16_thumb.jpg" price="0.00"/>
+				<design id="17" name="Arrow" src="images/art/2010_01_03/arrow62_17.gif" thumb="images/art/2010_01_03/arrow62_17_thumb.jpg" price="0.00"/>
+				<design id="18" name="Arrow" src="images/art/2010_01_03/arrow64_18.gif" thumb="images/art/2010_01_03/arrow64_18_thumb.jpg" price="0.00"/>
+				<design id="19" name="Arrow" src="images/art/2010_01_03/arrow67_19.gif" thumb="images/art/2010_01_03/arrow67_19_thumb.jpg" price="0.00"/>
+				<design id="20" name="Arrow" src="images/art/2010_01_03/arrow71_20.gif" thumb="images/art/2010_01_03/arrow71_20_thumb.jpg" price="0.00"/>
+				<design id="21" name="Arrow" src="images/art/2010_01_03/arrow75_21.gif" thumb="images/art/2010_01_03/arrow75_21_thumb.jpg" price="0.00"/>
+				<design id="22" name="Arrow" src="images/art/2010_01_03/arrow82_22.gif" thumb="images/art/2010_01_03/arrow82_22_thumb.jpg" price="0.00"/>
+				<design id="23" name="Arrow" src="images/art/2010_01_03/arrow88_23.gif" thumb="images/art/2010_01_03/arrow88_23_thumb.jpg" price="0.00"/>
+				<design id="24" name="Arrow" src="images/art/2010_01_03/arrow91_24.gif" thumb="images/art/2010_01_03/arrow91_24_thumb.jpg" price="0.00"/>
+				<design id="25" name="Arrow" src="images/art/2010_01_03/arrow92_25.gif" thumb="images/art/2010_01_03/arrow92_25_thumb.jpg" price="0.00"/>
+				<design id="26" name="Arrow" src="images/art/2010_01_03/arrow93_26.gif" thumb="images/art/2010_01_03/arrow93_26_thumb.jpg" price="0.00"/>
+				<design id="27" name="Arrow" src="images/art/2010_01_03/arrow94_27.gif" thumb="images/art/2010_01_03/arrow94_27_thumb.jpg" price="0.00"/>
+				<design id="28" name="Arrow" src="images/art/2010_01_03/arrow95_28.gif" thumb="images/art/2010_01_03/arrow95_28_thumb.jpg" price="0.00"/>
+				<design id="29" name="Arrow" src="images/art/2010_01_03/arrow97_29.gif" thumb="images/art/2010_01_03/arrow97_29_thumb.jpg" price="0.00"/>
+				<design id="30" name="Arrow" src="images/art/2010_01_03/arrow41_30.gif" thumb="images/art/2010_01_03/arrow41_30_thumb.jpg" price="0.00"/>
+				<design id="31" name="Arrow" src="images/art/2010_01_03/arrow47_31.gif" thumb="images/art/2010_01_03/arrow47_31_thumb.jpg" price="0.00"/>
+				<design id="32" name="Arrow" src="images/art/2010_01_03/arrow50_32.gif" thumb="images/art/2010_01_03/arrow50_32_thumb.jpg" price="0.00"/>
+				<design id="33" name="Arrow" src="images/art/2010_01_03/arrow108_33.gif" thumb="images/art/2010_01_03/arrow108_33_thumb.jpg" price="0.00"/>
+				<design id="34" name="Arrow" src="images/art/2010_01_03/arrow2_34.gif" thumb="images/art/2010_01_03/arrow2_34_thumb.jpg" price="0.00"/>
+				<design id="35" name="Arrow" src="images/art/2010_01_03/arrow24_35.gif" thumb="images/art/2010_01_03/arrow24_35_thumb.jpg" price="0.00"/>
+				<design id="36" name="Arrow" src="images/art/2010_01_03/arrow51_36.gif" thumb="images/art/2010_01_03/arrow51_36_thumb.jpg" price="0.00"/>
+				<design id="37" name="Arrow" src="images/art/2010_01_03/arrow52_37.gif" thumb="images/art/2010_01_03/arrow52_37_thumb.jpg" price="0.00"/>
+				<design id="38" name="Arrow" src="images/art/2010_01_03/arrow78_38.gif" thumb="images/art/2010_01_03/arrow78_38_thumb.jpg" price="0.00"/>
+				<design id="39" name="Arrow" src="images/art/2010_01_03/arrow79_39.gif" thumb="images/art/2010_01_03/arrow79_39_thumb.jpg" price="0.00"/>
+				<design id="40" name="Arrow" src="images/art/2010_01_03/arrow81_40.gif" thumb="images/art/2010_01_03/arrow81_40_thumb.jpg" price="0.00"/>
+				<design id="41" name="Arrow" src="images/art/2010_01_03/arrow6_41.gif" thumb="images/art/2010_01_03/arrow6_41_thumb.jpg" price="0.00"/>
+				<design id="42" name="Arrow" src="images/art/2010_01_03/arrow7_42.gif" thumb="images/art/2010_01_03/arrow7_42_thumb.jpg" price="0.00"/>
+				<design id="43" name="Arrow" src="images/art/2010_01_03/arrow8_43.gif" thumb="images/art/2010_01_03/arrow8_43_thumb.jpg" price="0.00"/>
+				<design id="44" name="Arrow" src="images/art/2010_01_03/arrow9_44.gif" thumb="images/art/2010_01_03/arrow9_44_thumb.jpg" price="0.00"/>
+				<design id="45" name="Arrow" src="images/art/2010_01_03/arrow10_45.gif" thumb="images/art/2010_01_03/arrow10_45_thumb.jpg" price="0.00"/>
+				<design id="46" name="Arrow" src="images/art/2010_01_03/arrow11_46.gif" thumb="images/art/2010_01_03/arrow11_46_thumb.jpg" price="0.00"/>
+				<design id="47" name="Arrow" src="images/art/2010_01_03/arrow12_47.gif" thumb="images/art/2010_01_03/arrow12_47_thumb.jpg" price="0.00"/>
+				<design id="48" name="Arrow" src="images/art/2010_01_03/arrow13_48.gif" thumb="images/art/2010_01_03/arrow13_48_thumb.jpg" price="0.00"/>
+				<design id="49" name="Arrow" src="images/art/2010_01_03/arrow16_49.gif" thumb="images/art/2010_01_03/arrow16_49_thumb.jpg" price="0.00"/>
+				<design id="50" name="Arrow" src="images/art/2010_01_03/arrow17_50.gif" thumb="images/art/2010_01_03/arrow17_50_thumb.jpg" price="0.00"/>
+				<design id="51" name="Arrow" src="images/art/2010_01_03/arrow21_51.gif" thumb="images/art/2010_01_03/arrow21_51_thumb.jpg" price="0.00"/>
+				<design id="52" name="Arrow" src="images/art/2010_01_03/arrow31_52.gif" thumb="images/art/2010_01_03/arrow31_52_thumb.jpg" price="0.00"/>
+				<design id="54" name="Arrow" src="images/art/2010_01_03/arrow68_54.gif" thumb="images/art/2010_01_03/arrow68_54_thumb.jpg" price="0.00"/>
+				<design id="55" name="Arrow" src="images/art/2010_01_03/arrow69_55.gif" thumb="images/art/2010_01_03/arrow69_55_thumb.jpg" price="0.00"/>
+				<design id="56" name="Arrow" src="images/art/2010_01_03/arrow99_56.gif" thumb="images/art/2010_01_03/arrow99_56_thumb.jpg" price="0.00"/>
+				<design id="57" name="Arrow" src="images/art/2010_01_03/arrow100_57.gif" thumb="images/art/2010_01_03/arrow100_57_thumb.jpg" price="0.00"/>
+				<design id="59" name="Arrow" src="images/art/2010_01_03/arrow102_59.gif" thumb="images/art/2010_01_03/arrow102_59_thumb.jpg" price="0.00"/>
+				<design id="60" name="Arrow" src="images/art/2010_01_03/arrow103_60.gif" thumb="images/art/2010_01_03/arrow103_60_thumb.jpg" price="0.00"/>
+				<design id="61" name="Arrow" src="images/art/2010_01_03/arrow104_61.gif" thumb="images/art/2010_01_03/arrow104_61_thumb.jpg" price="0.00"/>
+				<design id="62" name="Arrow" src="images/art/2010_01_03/arrow105_62.gif" thumb="images/art/2010_01_03/arrow105_62_thumb.jpg" price="0.00"/>
+				<design id="64" name="Arrow" src="images/art/2010_01_03/arrow107_64.gif" thumb="images/art/2010_01_03/arrow107_64_thumb.jpg" price="0.00"/>
+				<design id="65" name="Arrow" src="images/art/2010_01_03/arrow110_65.gif" thumb="images/art/2010_01_03/arrow110_65_thumb.jpg" price="0.00"/>
+				<design id="339" name="Arrow" src="images/art/2010_01_03/arrow18_339.gif" thumb="images/art/2010_01_03/arrow18_339_thumb.jpg" price="0.00"/>
+				<design id="340" name="Arrow" src="images/art/2010_01_03/arrow19_340.gif" thumb="images/art/2010_01_03/arrow19_340_thumb.jpg" price="0.00"/>
+				<design id="341" name="Arrow" src="images/art/2010_01_03/arrow23_341.gif" thumb="images/art/2010_01_03/arrow23_341_thumb.jpg" price="0.00"/>
+				<design id="342" name="Arrow" src="images/art/2010_01_03/arrow25_342.gif" thumb="images/art/2010_01_03/arrow25_342_thumb.jpg" price="0.00"/>
+				<design id="343" name="Arrow" src="images/art/2010_01_03/arrow29_343.gif" thumb="images/art/2010_01_03/arrow29_343_thumb.jpg" price="0.00"/>
+				<design id="344" name="Arrow" src="images/art/2010_01_03/arrow30_344.gif" thumb="images/art/2010_01_03/arrow30_344_thumb.jpg" price="0.00"/>
+				<design id="345" name="Arrow" src="images/art/2010_01_03/arrow35_345.gif" thumb="images/art/2010_01_03/arrow35_345_thumb.jpg" price="0.00"/>
+				<design id="346" name="Arrow" src="images/art/2010_01_03/arrow40_346.gif" thumb="images/art/2010_01_03/arrow40_346_thumb.jpg" price="0.00"/>
+				<design id="347" name="Arrow" src="images/art/2010_01_03/arrow43_347.gif" thumb="images/art/2010_01_03/arrow43_347_thumb.jpg" price="0.00"/>
+				<design id="348" name="Arrow" src="images/art/2010_01_03/arrow44_348.gif" thumb="images/art/2010_01_03/arrow44_348_thumb.jpg" price="0.00"/>
+				<design id="349" name="Arrow" src="images/art/2010_01_03/arrow49_349.gif" thumb="images/art/2010_01_03/arrow49_349_thumb.jpg" price="0.00"/>
+				<design id="350" name="Arrow" src="images/art/2010_01_03/arrow53_350.gif" thumb="images/art/2010_01_03/arrow53_350_thumb.jpg" price="0.00"/>
+				<design id="351" name="Arrow" src="images/art/2010_01_03/arrow54_351.gif" thumb="images/art/2010_01_03/arrow54_351_thumb.jpg" price="0.00"/>
+				<design id="352" name="Arrow" src="images/art/2010_01_03/arrow55_352.gif" thumb="images/art/2010_01_03/arrow55_352_thumb.jpg" price="0.00"/>
+				<design id="353" name="Arrow" src="images/art/2010_01_03/arrow73_353.gif" thumb="images/art/2010_01_03/arrow73_353_thumb.jpg" price="0.00"/>
+				<design id="354" name="Arrow" src="images/art/2010_01_03/arrow80_354.gif" thumb="images/art/2010_01_03/arrow80_354_thumb.jpg" price="0.00"/>
+				<design id="355" name="Arrow" src="images/art/2010_01_03/arrow87_355.gif" thumb="images/art/2010_01_03/arrow87_355_thumb.jpg" price="0.00"/>
+				<design id="356" name="Arrow" src="images/art/2010_01_03/arrow89_356.gif" thumb="images/art/2010_01_03/arrow89_356_thumb.jpg" price="0.00"/>
+				<design id="357" name="Arrow" src="images/art/2010_01_03/arrow98_357.gif" thumb="images/art/2010_01_03/arrow98_357_thumb.jpg" price="0.00"/>
+				<design id="894" name="Arrow18" src="images/art/2010_08_32/arrow18_894.gif" thumb="images/art/2010_08_32/arrow18_894_thumb.jpg" price="0.00"/>
+				<design id="895" name="Arrow19" src="images/art/2010_08_32/arrow19_895.gif" thumb="images/art/2010_08_32/arrow19_895_thumb.jpg" price="0.00"/>
+				<design id="896" name="Arrow23" src="images/art/2010_08_32/arrow23_896.gif" thumb="images/art/2010_08_32/arrow23_896_thumb.jpg" price="0.00"/>
+				<design id="897" name="Arrow25" src="images/art/2010_08_32/arrow25_897.gif" thumb="images/art/2010_08_32/arrow25_897_thumb.jpg" price="0.00"/>
+				<design id="898" name="Arrow29" src="images/art/2010_08_32/arrow29_898.gif" thumb="images/art/2010_08_32/arrow29_898_thumb.jpg" price="0.00"/>
+				<design id="899" name="Arrow30" src="images/art/2010_08_32/arrow30_899.gif" thumb="images/art/2010_08_32/arrow30_899_thumb.jpg" price="0.00"/>
+				<design id="900" name="Arrow35" src="images/art/2010_08_32/arrow35_900.gif" thumb="images/art/2010_08_32/arrow35_900_thumb.jpg" price="0.00"/>
+				<design id="901" name="Arrow40" src="images/art/2010_08_32/arrow40_901.gif" thumb="images/art/2010_08_32/arrow40_901_thumb.jpg" price="0.00"/>
+				<design id="902" name="Arrow43" src="images/art/2010_08_32/arrow43_902.gif" thumb="images/art/2010_08_32/arrow43_902_thumb.jpg" price="0.00"/>
+				<design id="903" name="Arrow44" src="images/art/2010_08_32/arrow44_903.gif" thumb="images/art/2010_08_32/arrow44_903_thumb.jpg" price="0.00"/>
+				<design id="904" name="Arrow49" src="images/art/2010_08_32/arrow49_904.gif" thumb="images/art/2010_08_32/arrow49_904_thumb.jpg" price="0.00"/>
+				<design id="905" name="Arrow53" src="images/art/2010_08_32/arrow53_905.gif" thumb="images/art/2010_08_32/arrow53_905_thumb.jpg" price="0.00"/>
+				<design id="906" name="Arrow54" src="images/art/2010_08_32/arrow54_906.gif" thumb="images/art/2010_08_32/arrow54_906_thumb.jpg" price="0.00"/>
+				<design id="907" name="Arrow55" src="images/art/2010_08_32/arrow55_907.gif" thumb="images/art/2010_08_32/arrow55_907_thumb.jpg" price="0.00"/>
+				<design id="908" name="Arrow73" src="images/art/2010_08_32/arrow73_908.gif" thumb="images/art/2010_08_32/arrow73_908_thumb.jpg" price="0.00"/>
+				<design id="909" name="Arrow80" src="images/art/2010_08_32/arrow80_909.gif" thumb="images/art/2010_08_32/arrow80_909_thumb.jpg" price="0.00"/>
+				<design id="910" name="Arrow87" src="images/art/2010_08_32/arrow87_910.gif" thumb="images/art/2010_08_32/arrow87_910_thumb.jpg" price="0.00"/>
+				<design id="911" name="Arrow89" src="images/art/2010_08_32/arrow89_911.gif" thumb="images/art/2010_08_32/arrow89_911_thumb.jpg" price="0.00"/>
+				<design id="912" name="Arrow98" src="images/art/2010_08_32/arrow98_912.gif" thumb="images/art/2010_08_32/arrow98_912_thumb.jpg" price="0.00"/>
+				<design id="913" name="Arrow6" src="images/art/2010_08_32/arrow6_913.gif" thumb="images/art/2010_08_32/arrow6_913_thumb.jpg" price="0.00"/>
+				<design id="914" name="Arrow7" src="images/art/2010_08_32/arrow7_914.gif" thumb="images/art/2010_08_32/arrow7_914_thumb.jpg" price="0.00"/>
+				<design id="915" name="Arrow8" src="images/art/2010_08_32/arrow8_915.gif" thumb="images/art/2010_08_32/arrow8_915_thumb.jpg" price="0.00"/>
+				<design id="916" name="Arrow9" src="images/art/2010_08_32/arrow9_916.gif" thumb="images/art/2010_08_32/arrow9_916_thumb.jpg" price="0.00"/>
+				<design id="917" name="Arrow10" src="images/art/2010_08_32/arrow10_917.gif" thumb="images/art/2010_08_32/arrow10_917_thumb.jpg" price="0.00"/>
+				<design id="918" name="Arrow11" src="images/art/2010_08_32/arrow11_918.gif" thumb="images/art/2010_08_32/arrow11_918_thumb.jpg" price="0.00"/>
+				<design id="919" name="Arrow12" src="images/art/2010_08_32/arrow12_919.gif" thumb="images/art/2010_08_32/arrow12_919_thumb.jpg" price="0.00"/>
+				<design id="920" name="Arrow13" src="images/art/2010_08_32/arrow13_920.gif" thumb="images/art/2010_08_32/arrow13_920_thumb.jpg" price="0.00"/>
+				<design id="921" name="Arrow16" src="images/art/2010_08_32/arrow16_921.gif" thumb="images/art/2010_08_32/arrow16_921_thumb.jpg" price="0.00"/>
+				<design id="922" name="Arrow17" src="images/art/2010_08_32/arrow17_922.gif" thumb="images/art/2010_08_32/arrow17_922_thumb.jpg" price="0.00"/>
+				<design id="923" name="Arrow21" src="images/art/2010_08_32/arrow21_923.gif" thumb="images/art/2010_08_32/arrow21_923_thumb.jpg" price="0.00"/>
+				<design id="924" name="Arrow31" src="images/art/2010_08_32/arrow31_924.gif" thumb="images/art/2010_08_32/arrow31_924_thumb.jpg" price="0.00"/>
+				<design id="925" name="Arrow32" src="images/art/2010_08_32/arrow32_925.gif" thumb="images/art/2010_08_32/arrow32_925_thumb.jpg" price="0.00"/>
+				<design id="926" name="Arrow68" src="images/art/2010_08_32/arrow68_926.gif" thumb="images/art/2010_08_32/arrow68_926_thumb.jpg" price="0.00"/>
+				<design id="927" name="Arrow69" src="images/art/2010_08_32/arrow69_927.gif" thumb="images/art/2010_08_32/arrow69_927_thumb.jpg" price="0.00"/>
+				<design id="928" name="Arrow" src="images/art/2010_08_32/arrow_928.gif" thumb="images/art/2010_08_32/arrow_928_thumb.jpg" price="0.00"/>
+				<design id="929" name="Arrow3" src="images/art/2010_08_32/arrow3_929.gif" thumb="images/art/2010_08_32/arrow3_929_thumb.jpg" price="0.00"/>
+				<design id="930" name="Arrow4" src="images/art/2010_08_32/arrow4_930.gif" thumb="images/art/2010_08_32/arrow4_930_thumb.jpg" price="0.00"/>
+				<design id="931" name="Arrow27" src="images/art/2010_08_32/arrow27_931.gif" thumb="images/art/2010_08_32/arrow27_931_thumb.jpg" price="0.00"/>
+				<design id="932" name="Arrow61" src="images/art/2010_08_32/arrow61_932.gif" thumb="images/art/2010_08_32/arrow61_932_thumb.jpg" price="0.00"/>
+				<design id="933" name="Arrow63" src="images/art/2010_08_32/arrow63_933.gif" thumb="images/art/2010_08_32/arrow63_933_thumb.jpg" price="0.00"/>
+				<design id="934" name="Arrow66" src="images/art/2010_08_32/arrow66_934.gif" thumb="images/art/2010_08_32/arrow66_934_thumb.jpg" price="0.00"/>
+				<design id="935" name="Arrow70" src="images/art/2010_08_32/arrow70_935.gif" thumb="images/art/2010_08_32/arrow70_935_thumb.jpg" price="0.00"/>
+				<design id="936" name="Arrow72" src="images/art/2010_08_32/arrow72_936.gif" thumb="images/art/2010_08_32/arrow72_936_thumb.jpg" price="0.00"/>
+				<design id="937" name="Arrow74" src="images/art/2010_08_32/arrow74_937.gif" thumb="images/art/2010_08_32/arrow74_937_thumb.jpg" price="0.00"/>
+				<design id="938" name="Arrow76" src="images/art/2010_08_32/arrow76_938.gif" thumb="images/art/2010_08_32/arrow76_938_thumb.jpg" price="0.00"/>
+				<design id="939" name="Arrow83" src="images/art/2010_08_32/arrow83_939.gif" thumb="images/art/2010_08_32/arrow83_939_thumb.jpg" price="0.00"/>
+				<design id="940" name="Arrow84" src="images/art/2010_08_32/arrow84_940.gif" thumb="images/art/2010_08_32/arrow84_940_thumb.jpg" price="0.00"/>
+				<design id="941" name="Arrow85" src="images/art/2010_08_32/arrow85_941.gif" thumb="images/art/2010_08_32/arrow85_941_thumb.jpg" price="0.00"/>
+				<design id="942" name="Arrow86" src="images/art/2010_08_32/arrow86_942.gif" thumb="images/art/2010_08_32/arrow86_942_thumb.jpg" price="0.00"/>
+				<design id="943" name="Arrow90" src="images/art/2010_08_32/arrow90_943.gif" thumb="images/art/2010_08_32/arrow90_943_thumb.jpg" price="0.00"/>
+				<design id="944" name="Arrow96" src="images/art/2010_08_32/arrow96_944.gif" thumb="images/art/2010_08_32/arrow96_944_thumb.jpg" price="0.00"/>
+				<design id="945" name="Arrow22" src="images/art/2010_08_32/arrow22_945.gif" thumb="images/art/2010_08_32/arrow22_945_thumb.jpg" price="0.00"/>
+				<design id="946" name="Arrow26" src="images/art/2010_08_32/arrow26_946.gif" thumb="images/art/2010_08_32/arrow26_946_thumb.jpg" price="0.00"/>
+				<design id="947" name="Arrow34" src="images/art/2010_08_32/arrow34_947.gif" thumb="images/art/2010_08_32/arrow34_947_thumb.jpg" price="0.00"/>
+				<design id="948" name="Arrow45" src="images/art/2010_08_32/arrow45_948.gif" thumb="images/art/2010_08_32/arrow45_948_thumb.jpg" price="0.00"/>
+				<design id="949" name="Arrow77" src="images/art/2010_08_32/arrow77_949.gif" thumb="images/art/2010_08_32/arrow77_949_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="62" name="State-Flags">
+				<design id="1119" name="delaware" src="images/art/2011_07_28/delaware_1119.gif" thumb="images/art/2011_07_28/delaware_1119_thumb.jpg" price="0.00"/>
+				<design id="1052" name="NY Flag Logo" src="images/art/2011_06_24/ny-flag-logo_1052.gif" thumb="images/art/2011_06_24/ny-flag-logo_1052_thumb.jpg" price="0.00"/>
+				<design id="1053" name="NJ Flag Logo" src="images/art/2011_06_24/nj-flag-logo_1053.gif" thumb="images/art/2011_06_24/nj-flag-logo_1053_thumb.jpg" price="0.00"/>
+				<design id="1054" name="MA Flag Logo" src="images/art/2011_06_24/ma-flag-logo_1054.gif" thumb="images/art/2011_06_24/ma-flag-logo_1054_thumb.jpg" price="0.00"/>
+				<design id="1062" name="FL flag logo" src="images/art/2011_06_24/fl-flag-logo_1062.gif" thumb="images/art/2011_06_24/fl-flag-logo_1062_thumb.jpg" price="0.00"/>
+				<design id="1061" name="NC Flag Logo" src="images/art/2011_06_24/nc-flag-logo_1061.gif" thumb="images/art/2011_06_24/nc-flag-logo_1061_thumb.jpg" price="0.00"/>
+				<design id="1057" name="SC Flag Logo" src="images/art/2011_06_24/sc-flag-logo_1057.gif" thumb="images/art/2011_06_24/sc-flag-logo_1057_thumb.jpg" price="0.00"/>
+				<design id="1060" name="VA Flag Logo" src="images/art/2011_06_24/va-flag-logo_1060.gif" thumb="images/art/2011_06_24/va-flag-logo_1060_thumb.jpg" price="0.00"/>
+				<design id="1059" name="CA Flag Logo" src="images/art/2011_06_24/ca-flag-logo_1059.gif" thumb="images/art/2011_06_24/ca-flag-logo_1059_thumb.jpg" price="0.00"/>
+				<design id="1063" name="CO Flag Logo" src="images/art/2011_06_24/co-flag-logo_1063.gif" thumb="images/art/2011_06_24/co-flag-logo_1063_thumb.jpg" price="0.00"/>
+				<design id="1064" name="PA Flag Logo" src="images/art/2011_06_24/pa-flag-logo_1064.gif" thumb="images/art/2011_06_24/pa-flag-logo_1064_thumb.jpg" price="0.00"/>
+				<design id="1065" name="DC Flag Logo" src="images/art/2011_06_24/dc-flag-logo_1065.gif" thumb="images/art/2011_06_24/dc-flag-logo_1065_thumb.jpg" price="0.00"/>
+				<design id="1066" name="AZ Flag Logo" src="images/art/2011_06_24/az-flag-logo_1066.gif" thumb="images/art/2011_06_24/az-flag-logo_1066_thumb.jpg" price="0.00"/>
+				<design id="1067" name="CT Flag Logo" src="images/art/2011_06_24/ct-flag-logo_1067.gif" thumb="images/art/2011_06_24/ct-flag-logo_1067_thumb.jpg" price="0.00"/>
+				<design id="1068" name="IN Flag Logo" src="images/art/2011_06_24/in-flag-logo_1068.gif" thumb="images/art/2011_06_24/in-flag-logo_1068_thumb.jpg" price="0.00"/>
+				<design id="1069" name="TX flag logo" src="images/art/2011_06_24/tx-flag-logo_1069.gif" thumb="images/art/2011_06_24/tx-flag-logo_1069_thumb.jpg" price="0.00"/>
+				<design id="1071" name="GA Flag Logo" src="images/art/2011_06_25/ga-flag-logo_1071.gif" thumb="images/art/2011_06_25/ga-flag-logo_1071_thumb.jpg" price="0.00"/>
+				<design id="1072" name="AL Flag Logo" src="images/art/2011_06_25/al-flag-logo_1072.gif" thumb="images/art/2011_06_25/al-flag-logo_1072_thumb.jpg" price="0.00"/>
+				<design id="1073" name="AK Logo" src="images/art/2011_06_25/ak-logo_1073.gif" thumb="images/art/2011_06_25/ak-logo_1073_thumb.jpg" price="0.00"/>
+				<design id="1074" name="AR Logo" src="images/art/2011_06_25/ar-logo_1074.gif" thumb="images/art/2011_06_25/ar-logo_1074_thumb.jpg" price="0.00"/>
+				<design id="1075" name="HI Logo" src="images/art/2011_06_25/hi-logo_1075.gif" thumb="images/art/2011_06_25/hi-logo_1075_thumb.jpg" price="0.00"/>
+				<design id="1076" name="Idaho Logo" src="images/art/2011_06_25/idaho-logo_1076.gif" thumb="images/art/2011_06_25/idaho-logo_1076_thumb.jpg" price="0.00"/>
+				<design id="1077" name="IL logo" src="images/art/2011_06_25/il-logo_1077.gif" thumb="images/art/2011_06_25/il-logo_1077_thumb.jpg" price="0.00"/>
+				<design id="1078" name="Iowa Logo" src="images/art/2011_06_25/iowa-logo_1078.gif" thumb="images/art/2011_06_25/iowa-logo_1078_thumb.jpg" price="0.00"/>
+				<design id="1079" name="KS Logo" src="images/art/2011_06_25/ks-logo_1079.gif" thumb="images/art/2011_06_25/ks-logo_1079_thumb.jpg" price="0.00"/>
+				<design id="1080" name="Kentucky Logo" src="images/art/2011_06_25/kentucky-logo_1080.gif" thumb="images/art/2011_06_25/kentucky-logo_1080_thumb.jpg" price="0.00"/>
+				<design id="1081" name="Louisiana Logo" src="images/art/2011_06_25/louisiana-logo_1081.gif" thumb="images/art/2011_06_25/louisiana-logo_1081_thumb.jpg" price="0.00"/>
+				<design id="1082" name="New Mexico Logo" src="images/art/2011_06_25/new-mexico-logo_1082.gif" thumb="images/art/2011_06_25/new-mexico-logo_1082_thumb.jpg" price="0.00"/>
+				<design id="1083" name="Oregon Logo" src="images/art/2011_06_25/oregon-logo_1083.gif" thumb="images/art/2011_06_25/oregon-logo_1083_thumb.jpg" price="0.00"/>
+				<design id="1084" name="Delaware Logo" src="images/art/2011_06_26/delaware-logo_1084.gif" thumb="images/art/2011_06_26/delaware-logo_1084_thumb.jpg" price="0.00"/>
+				<design id="1085" name="Maine Logo" src="images/art/2011_06_26/maine-logo_1085.gif" thumb="images/art/2011_06_26/maine-logo_1085_thumb.jpg" price="0.00"/>
+				<design id="1086" name="Mississippi Logo" src="images/art/2011_06_26/mississippi-logo_1086.gif" thumb="images/art/2011_06_26/mississippi-logo_1086_thumb.jpg" price="0.00"/>
+				<design id="1087" name="Michigan Logo" src="images/art/2011_06_26/michigan-logo_1087.gif" thumb="images/art/2011_06_26/michigan-logo_1087_thumb.jpg" price="0.00"/>
+				<design id="1105" name="American Flag DC" src="images/art/2011_06_26/american-flag-dc_1105.gif" thumb="images/art/2011_06_26/american-flag-dc_1105_thumb.jpg" price="0.00"/>
+				<design id="1139" name="Untitled-1" src="images/art/2011_07_30/untitled-1_1139.gif" thumb="images/art/2011_07_30/untitled-1_1139_thumb.jpg" price="0.00"/>
+				<design id="1141" name="Wavy American Flag" src="images/art/2011_07_30/wavy-american-flag_1140.gif" thumb="images/art/2011_07_30/wavy-american-flag_1140_thumb.jpg" price="0.00"/>
+				<design id="1256" name="canada-maple-leaf-lgprint" src="images/art/2012_03_10/canada-maple-leaf-lgprint_1256.gif" thumb="images/art/2012_03_10/canada-maple-leaf-lgprint_1256_thumb.jpg" price="0.00"/>
+				<design id="1259" name="dontsweatmyswag_AMERICA" src="images/art/2012_05_21/dontsweatmyswag_america_1259.png" thumb="images/art/2012_05_21/dontsweatmyswag_america_1259_thumb.jpg" price="0.00"/>
+				<design id="1268" name="distorted american flag" src="images/art/2012_09_39/distorted-american-flag_1268.gif" thumb="images/art/2012_09_39/distorted-american-flag_1268_thumb.jpg" price="0.00"/>
+			</kind>
+			<kind id="59" name="other-images">
+				<design id="971" name="circle" src="images/art/2010_08_33/circle_970.png" thumb="images/art/2010_08_33/circle_970_thumb.jpg" price="0.00"/>
+				<design id="107" name="pool" src="images/art/2010_01_03/pool_107.gif" thumb="images/art/2010_01_03/pool_107_thumb.jpg" price="0.00"/>
+				<design id="643" name="BOLT" src="images/art/2010_08_31/bolt_643.png" thumb="images/art/2010_08_31/bolt_643_thumb.jpg" price="0.00"/>
+				<design id="972" name="grenade" src="images/art/2010_08_33/grenade_972.png" thumb="images/art/2010_08_33/grenade_972_thumb.jpg" price="0.00"/>
+				<design id="994" name="DG Anchor" src="images/art/2010_09_35/dg-anchor_994.gif" thumb="images/art/2010_09_35/dg-anchor_994_thumb.jpg" price="0.00"/>
+				<design id="989" name="pil" src="images/art/2010_08_33/pil_988.gif" thumb="images/art/2010_08_33/pil_988_thumb.jpg" price="0.00"/>
+				<design id="995" name="Ribbon for a Cause" src="images/art/2010_09_35/ribbon-for-a-cause_995.gif" thumb="images/art/2010_09_35/ribbon-for-a-cause_995_thumb.jpg" price="0.00"/>
+				<design id="998" name="sm" src="images/art/2010_09_35/sm_998.gif" thumb="images/art/2010_09_35/sm_998_thumb.jpg" price="0.00"/>
+				<design id="999" name="sm2" src="images/art/2010_09_35/sm2_999.gif" thumb="images/art/2010_09_35/sm2_999_thumb.jpg" price="0.00"/>
+				<design id="1002" name="heart" src="images/art/2010_10_42/heart_1001.gif" thumb="images/art/2010_10_42/heart_1001_thumb.jpg" price="0.00"/>
+				<design id="1005" name="spartan" src="images/art/2010_11_47/spartan_1005.gif" thumb="images/art/2010_11_47/spartan_1005_thumb.jpg" price="0.00"/>
+				<design id="1021" name="tux" src="images/art/2011_04_17/tux_1020.gif" thumb="images/art/2011_04_17/tux_1020_thumb.jpg" price="0.00"/>
+				<design id="1023" name="osama" src="images/art/2011_05_18/osama_1022.gif" thumb="images/art/2011_05_18/osama_1022_thumb.jpg" price="0.00"/>
+				<design id="1026" name="camppinnies2" src="images/art/2011_05_21/camppinnies2_1025.gif" thumb="images/art/2011_05_21/camppinnies2_1025_thumb.jpg" price="0.00"/>
+				<design id="1121" name="SHOCKER!" src="images/art/2011_07_28/shocker_1121.gif" thumb="images/art/2011_07_28/shocker_1121_thumb.jpg" price="0.00"/>
+				<design id="1030" name="mdflag" src="images/art/2011_05_21/mdflag_1030.gif" thumb="images/art/2011_05_21/mdflag_1030_thumb.jpg" price="0.00"/>
+				<design id="1047" name="F4U_Corsair" src="images/art/2011_06_23/f4u_corsair_1047.gif" thumb="images/art/2011_06_23/f4u_corsair_1047_thumb.jpg" price="0.00"/>
+				<design id="1050" name="Rock On" src="images/art/2011_06_24/rock-on_1050.gif" thumb="images/art/2011_06_24/rock-on_1050_thumb.jpg" price="0.00"/>
+				<design id="1111" name="SUPERMAN" src="images/art/2011_06_26/superman_1111.gif" thumb="images/art/2011_06_26/superman_1111_thumb.jpg" price="0.00"/>
+				<design id="1114" name="peace hand 1" src="images/art/2011_06_26/peace-hand-1_1114.gif" thumb="images/art/2011_06_26/peace-hand-1_1114_thumb.jpg" price="0.00"/>
+				<design id="1116" name="Beer Pong Logo" src="images/art/2011_07_26/beer-pong-logo_1116.gif" thumb="images/art/2011_07_26/beer-pong-logo_1116_thumb.jpg" price="0.00"/>
+				<design id="1142" name="Osama" src="images/art/2011_07_30/osama_1142.gif" thumb="images/art/2011_07_30/osama_1142_thumb.jpg" price="0.00"/>
+				<design id="1225" name="love" src="images/art/2011_12_48/love_1225.png" thumb="images/art/2011_12_48/love_1225_thumb.jpg" price="0.00"/>
+				<design id="1257" name="sun" src="images/art/2012_03_13/sun_1257.gif" thumb="images/art/2012_03_13/sun_1257_thumb.jpg" price="0.00"/>
+				<design id="1260" name="dontsweatmyswag" src="images/art/2012_05_21/dontsweatmyswag_1260.png" thumb="images/art/2012_05_21/dontsweatmyswag_1260_thumb.jpg" price="0.00"/>
+				<design id="1261" name="dontsweatmyswag2" src="images/art/2012_05_21/dontsweatmyswag2_1261.png" thumb="images/art/2012_05_21/dontsweatmyswag2_1261_thumb.jpg" price="0.00"/>
+				<design id="1265" name="circle" src="images/art/2012_08_34/circle_1265.png" thumb="images/art/2012_08_34/circle_1265_thumb.jpg" price="0.00"/>
+				<design id="1266" name="square" src="images/art/2012_08_34/square_1266.png" thumb="images/art/2012_08_34/square_1266_thumb.jpg" price="0.00"/>
+				<design id="1267" name="star" src="images/art/2012_08_34/star_1267.png" thumb="images/art/2012_08_34/star_1267_thumb.jpg" price="0.00"/>
+			</kind>
+		</depart>
+		<depart id="63" name="Lightning Wear">
+			<kind id="64" name="Logos">
+				<design id="1088" name="LW Logo 1" src="images/art/2011_06_26/lw-logo-1_1088.gif" thumb="images/art/2011_06_26/lw-logo-1_1088_thumb.jpg" price="0.00"/>
+				<design id="1089" name="LW Logo 2" src="images/art/2011_06_26/lw-logo-2_1089.gif" thumb="images/art/2011_06_26/lw-logo-2_1089_thumb.jpg" price="0.00"/>
+				<design id="1090" name="LW Logo 3" src="images/art/2011_06_26/lw-logo-3_1090.gif" thumb="images/art/2011_06_26/lw-logo-3_1090_thumb.jpg" price="0.00"/>
+				<design id="1091" name="LW Logo 4" src="images/art/2011_06_26/lw-logo-4_1091.gif" thumb="images/art/2011_06_26/lw-logo-4_1091_thumb.jpg" price="0.00"/>
+				<design id="1092" name="LW Logo 5" src="images/art/2011_06_26/lw-logo-5_1092.gif" thumb="images/art/2011_06_26/lw-logo-5_1092_thumb.jpg" price="0.00"/>
+				<design id="1093" name="LW Logo 6" src="images/art/2011_06_26/lw-logo-6_1093.gif" thumb="images/art/2011_06_26/lw-logo-6_1093_thumb.jpg" price="0.00"/>
+				<design id="1094" name="LW Logo 7" src="images/art/2011_06_26/lw-logo-7_1094.gif" thumb="images/art/2011_06_26/lw-logo-7_1094_thumb.jpg" price="0.00"/>
+				<design id="1095" name="LW Logo 8" src="images/art/2011_06_26/lw-logo-8_1095.gif" thumb="images/art/2011_06_26/lw-logo-8_1095_thumb.jpg" price="0.00"/>
+				<design id="1096" name="LW Logo 9" src="images/art/2011_06_26/lw-logo-9_1096.gif" thumb="images/art/2011_06_26/lw-logo-9_1096_thumb.jpg" price="0.00"/>
+			</kind>
+		</depart>
+	</designs>
+<settings>
+	<user sesid="8d6ajh0368sdc656hv588gtlr6" email="" id="0" lang="en" curr="USD" rate="1.00" isadmin=""/>
+	<startpid>34</startpid>
+	<filesize>5</filesize>
+	<limittext>
+		<front>9</front>
+		<back>9</back>
+		<left>5</left>
+		<right>5</right>
+	</limittext>
+	<limitgallery>
+		<front>5</front>
+		<back>5</back>
+		<left>5</left>
+		<right>5</right>
+	</limitgallery>
+	<limitupload>
+		<front>5</front>
+		<back>5</back>
+		<left>5</left>
+		<right>5</right>
+	</limitupload>
+	<pantone>
+		<item name="rareblue" value="3366ff"/>
+		<item name="rw" value="000000"/>
+		<item name="Black" value="000000"/>
+		<item name="Red" value="ce1126"/>
+		<item name="Reflex Blue" value="0c1c8c"/>
+		<item name="Orange" value="ef6b00"/>
+		<item name="Green" value="3d8e33"/>
+		<item name="Purple" value="560C70"/>
+		<item name="PMS 5205" value="8E6877"/>
+		<item name="PMS 5125" value="754760"/>
+		<item name="PMS 512" value="84216B"/>
+		<item name="PMS 5115" value="4F213A"/>
+		<item name="PMS 511" value="602144"/>
+		<item name="PMS 510" value="F4C6C9"/>
+		<item name="PMS 509" value="F2BABF"/>
+		<item name="PMS 508" value="E8A5AF"/>
+		<item name="PMS 507" value="D8899B"/>
+		<item name="PMS 506" value="7A2638"/>
+		<item name="PMS 505" value="661E2B"/>
+		<item name="PMS 504" value="5,11E+"/>
+		<item name="PMS 5035" value="EDCEC6"/>
+		<item name="PMS 513" value="9E2387"/>
+		<item name="PMS 5135" value="936B7F"/>
+		<item name="PMS 514" value="D884BC"/>
+		<item name="PMS 520" value="703572"/>
+		<item name="PMS 5195" value="593344"/>
+		<item name="PMS 519" value="63305E"/>
+		<item name="PMS 5185" value="472835"/>
+		<item name="PMS 518" value="512D44"/>
+		<item name="PMS 5175" value="E8D6D1"/>
+		<item name="PMS 517" value="F4CCD8"/>
+		<item name="PMS 5165" value="E0C9CC"/>
+		<item name="PMS 516" value="F2BAD3"/>
+		<item name="PMS 5155" value="CCAFB7"/>
+		<item name="PMS 515" value="E8A3C9"/>
+		<item name="PMS 5145" value="AD8799"/>
+		<item name="PMS 503" value="F4D1CC"/>
+		<item name="PMS 5025" value="E2BCB7"/>
+		<item name="PMS 491" value="752828"/>
+		<item name="PMS 490" value="5B2626"/>
+		<item name="PMS 489" value="F2D1BF"/>
+		<item name="PMS 488" value="F2C4AF"/>
+		<item name="PMS 487" value="EFB5A0"/>
+		<item name="PMS 486" value="ED9E84"/>
+		<item name="PMS 485 2x" value="CC0C00"/>
+		<item name="PMS 485" value="D81E05"/>
+		<item name="PMS 484" value="9B301C"/>
+		<item name="PMS 483" value="6B3021"/>
+		<item name="PMS 482" value="E5D3C1"/>
+		<item name="PMS 481" value="E0CCBA"/>
+		<item name="PMS 492" value="913338"/>
+		<item name="PMS 494" value="F2ADB2"/>
+		<item name="PMS 495" value="F4BCBF"/>
+		<item name="PMS 502" value="F2C6C4"/>
+		<item name="PMS 5015" value="D8ADA8"/>
+		<item name="PMS 501" value="EAB2B2"/>
+		<item name="PMS 5005" value="BC8787"/>
+		<item name="PMS 500" value="CE898C"/>
+		<item name="PMS 4995" value="A56B6D"/>
+		<item name="PMS 499" value="7A382D"/>
+		<item name="PMS 4985" value="844949"/>
+		<item name="PMS 498" value="6D332B"/>
+		<item name="PMS 4975" value="441E1C"/>
+		<item name="PMS 497" value="512826"/>
+		<item name="PMS 496" value="F7C9C6"/>
+		<item name="PMS 480" value="D3B7A3"/>
+		<item name="PMS 521" value="B58CB2"/>
+		<item name="PMS 551" value="A3C1C9"/>
+		<item name="PMS 5455" value="D6D8D3"/>
+		<item name="PMS 545" value="C4D3DD"/>
+		<item name="PMS 5445" value="C4CCCC"/>
+		<item name="PMS 544" value="B7CCDB"/>
+		<item name="PMS 5435" value="AFBCBF"/>
+		<item name="PMS 543" value="93B7D1"/>
+		<item name="PMS 5425" value="8499A5"/>
+		<item name="PMS 542" value="6693BC"/>
+		<item name="PMS 5415" value="607C8C"/>
+		<item name="PMS 541" value="003F77"/>
+		<item name="PMS 5405" value="3F6075"/>
+		<item name="PMS 540" value="00335B"/>
+		<item name="PMS 546" value="0C3844"/>
+		<item name="PMS 5463" value="00353A"/>
+		<item name="PMS 5467" value="193833"/>
+		<item name="PMS 5507" value="AFBAB2"/>
+		<item name="PMS 5503" value="AAC4BF"/>
+		<item name="PMS 550" value="87AFBF"/>
+		<item name="PMS 5497" value="91A399"/>
+		<item name="PMS 5493" value="8CAFAD"/>
+		<item name="PMS 549" value="5E99AA"/>
+		<item name="PMS 5487" value="667C72"/>
+		<item name="PMS 5483" value="609191"/>
+		<item name="PMS 548" value="4459"/>
+		<item name="PMS 5477" value="3A564F"/>
+		<item name="PMS 5473" value="26686D"/>
+		<item name="PMS 547" value="003F54"/>
+		<item name="PMS 5395" value="02283A"/>
+		<item name="PMS 539" value="3049"/>
+		<item name="PMS 5275" value="605677"/>
+		<item name="PMS 527" value="7A1E99"/>
+		<item name="PMS 5265" value="493D63"/>
+		<item name="PMS 526" value="68217A"/>
+		<item name="PMS 5255" value="35264F"/>
+		<item name="PMS 525" value="512654"/>
+		<item name="PMS 5245" value="E5D3CC"/>
+		<item name="PMS 524" value="E2CCD3"/>
+		<item name="PMS 5235" value="DDC6C4"/>
+		<item name="PMS 523" value="D3B7CC"/>
+		<item name="PMS 5225" value="CCADAF"/>
+		<item name="PMS 522" value="C6A3C1"/>
+		<item name="PMS 528" value="AF72C1"/>
+		<item name="PMS 5285" value="8C8299"/>
+		<item name="PMS 529" value="CEA3D3"/>
+		<item name="PMS 538" value="D6D3D6"/>
+		<item name="PMS 537" value="C4C6CE"/>
+		<item name="PMS 536" value="ADB2C1"/>
+		<item name="PMS 535" value="9BA3B7"/>
+		<item name="PMS 534" value="3A4972"/>
+		<item name="PMS 533" value="353F5B"/>
+		<item name="PMS 532" value="353842"/>
+		<item name="PMS 5315" value="DBD3D3"/>
+		<item name="PMS 531" value="E5C6DB"/>
+		<item name="PMS 5305" value="CCC1C6"/>
+		<item name="PMS 530" value="D6AFD6"/>
+		<item name="PMS 5295" value="B2A8B5"/>
+		<item name="PMS 5215" value="B5939B"/>
+		<item name="PMS 479" value="AF8970"/>
+		<item name="PMS 443" value="A3A8A3"/>
+		<item name="PMS 428" value="D1CEC6"/>
+		<item name="PMS 427" value="DDDBD1"/>
+		<item name="PMS 426" value="2B2B28"/>
+		<item name="PMS 425" value="60605B"/>
+		<item name="PMS 424" value="827F77"/>
+		<item name="PMS 423" value="96938E"/>
+		<item name="PMS 422" value="AFAAA3"/>
+		<item name="PMS 421" value="BFBAAF"/>
+		<item name="PMS 420" value="D1CCBF"/>
+		<item name="PMS 419" value="282821"/>
+		<item name="PMS 418" value="605E4F"/>
+		<item name="PMS 417" value="777263"/>
+		<item name="PMS 429" value="ADAFAA"/>
+		<item name="PMS 430" value="919693"/>
+		<item name="PMS 431" value="666D70"/>
+		<item name="PMS 442" value="BABFB7"/>
+		<item name="PMS 441" value="D1D1C6"/>
+		<item name="PMS 440" value="3F302B"/>
+		<item name="PMS 439" value="493533"/>
+		<item name="PMS 438" value="593F3D"/>
+		<item name="PMS 437" value="8C706B"/>
+		<item name="PMS 436" value="BCA59E"/>
+		<item name="PMS 435" value="D3BFB7"/>
+		<item name="PMS 434" value="E0D1C6"/>
+		<item name="PMS 433 2x" value="0A0C11"/>
+		<item name="PMS 433" value="30383A"/>
+		<item name="PMS 432" value="444F51"/>
+		<item name="PMS 416" value="8E8C7A"/>
+		<item name="PMS 415" value="A39E8C"/>
+		<item name="PMS 399" value="998000"/>
+		<item name="PMS 3985" value="998C0A"/>
+		<item name="PMS 398" value="AFA80A"/>
+		<item name="PMS 3975" value="B5A80C"/>
+		<item name="PMS 397" value="C1BF0A"/>
+		<item name="PMS 3965" value="E8DD11"/>
+		<item name="PMS 396" value="E0E20C"/>
+		<item name="PMS 3955" value="EDE211"/>
+		<item name="PMS 395" value="E5E811"/>
+		<item name="PMS 3945" value="EFEA07"/>
+		<item name="PMS 394" value="EAED35"/>
+		<item name="PMS 3935" value="F2ED6D"/>
+		<item name="PMS 3995" value="6D6002"/>
+		<item name="PMS 400" value="D1C6B5"/>
+		<item name="PMS 401" value="C1B5A5"/>
+		<item name="PMS 414" value="B5AFA0"/>
+		<item name="PMS 413" value="C6C1B2"/>
+		<item name="PMS 412" value="3D3028"/>
+		<item name="PMS 411" value="66594C"/>
+		<item name="PMS 410" value="7C6D63"/>
+		<item name="PMS 409" value="99897C"/>
+		<item name="PMS 408" value="A8998C"/>
+		<item name="PMS 406" value="CEC1B5"/>
+		<item name="PMS 405" value="6B5E4F"/>
+		<item name="PMS 404" value="827566"/>
+		<item name="PMS 403" value="998C7C"/>
+		<item name="PMS 402" value="AFA593"/>
+		<item name="PMS 393" value="F2EF87"/>
+		<item name="PMS 444" value="898E8C"/>
+		<item name="PMS 478" value="7A3F28"/>
+		<item name="PMS 4695" value="51261C"/>
+		<item name="PMS 469" value="603311"/>
+		<item name="PMS 4685" value="EDD3BC"/>
+		<item name="PMS 468" value="E2D6B5"/>
+		<item name="PMS 4675" value="E5C6AA"/>
+		<item name="PMS 467" value="DDCCA5"/>
+		<item name="PMS 4665" value="D8B596"/>
+		<item name="PMS 466" value="D1BF91"/>
+		<item name="PMS 4655" value="C49977"/>
+		<item name="PMS 465" value="C1A875"/>
+		<item name="PMS 4645" value="B28260"/>
+		<item name="PMS 464 2x" value="704214"/>
+		<item name="PMS 470" value="9B4F19"/>
+		<item name="PMS 4705" value="7C513D"/>
+		<item name="PMS 471" value="BC5E1E"/>
+		<item name="PMS 477" value="633826"/>
+		<item name="PMS 476" value="593D2B"/>
+		<item name="PMS 4755" value="E2CCBA"/>
+		<item name="PMS 475" value="F7D3B5"/>
+		<item name="PMS 4745" value="D8BFAA"/>
+		<item name="PMS 474" value="F4CCAA"/>
+		<item name="PMS 4735" value="CCAF9B"/>
+		<item name="PMS 473" value="F4C4A0"/>
+		<item name="PMS 4725" value="B5917C"/>
+		<item name="PMS 472" value="EAAA7A"/>
+		<item name="PMS 4715" value="99705B"/>
+		<item name="PMS 471 2x" value="A34402"/>
+		<item name="PMS 464" value="876028"/>
+		<item name="PMS 4635" value="8C5933"/>
+		<item name="PMS 452 2x" value="9944"/>
+		<item name="PMS 452" value="C4B796"/>
+		<item name="PMS 4515" value="BCAD75"/>
+		<item name="PMS 451" value="ADA07A"/>
+		<item name="PMS 4505" value="A09151"/>
+		<item name="PMS 450" value="60542B"/>
+		<item name="PMS 4495" value="877530"/>
+		<item name="PMS 449" value="544726"/>
+		<item name="PMS 4485" value="604C11"/>
+		<item name="PMS 448" value="54472D"/>
+		<item name="PMS 447" value="3F3F38"/>
+		<item name="PMS 446" value="494C49"/>
+		<item name="PMS 4525" value="CCBF8E"/>
+		<item name="PMS 453" value="D6CCAF"/>
+		<item name="PMS 4535" value="DBCEA5"/>
+		<item name="PMS 463" value="755426"/>
+		<item name="PMS 4625" value="472311"/>
+		<item name="PMS 462" value="5B4723"/>
+		<item name="PMS 461" value="EDE5AD"/>
+		<item name="PMS 460" value="EADD96"/>
+		<item name="PMS 459" value="E2D67C"/>
+		<item name="PMS 458" value="DDCC6B"/>
+		<item name="PMS 457" value="B59B0C"/>
+		<item name="PMS 456" value="998714"/>
+		<item name="PMS 455" value="665614"/>
+		<item name="PMS 4545" value="E5DBBA"/>
+		<item name="PMS 454" value="E2D8BF"/>
+		<item name="PMS 445" value="565959"/>
+		<item name="PMS 701" value="E8878E"/>
+		<item name="PMS 685" value="EABFC4"/>
+		<item name="PMS 684" value="EFCCCE"/>
+		<item name="PMS 683" value="7F284F"/>
+		<item name="PMS 682" value="A05175"/>
+		<item name="PMS 681" value="B7728E"/>
+		<item name="PMS 680" value="D39EAF"/>
+		<item name="PMS 679" value="E5BFC6"/>
+		<item name="PMS 678" value="EACCCE"/>
+		<item name="PMS 677" value="EDD6D6"/>
+		<item name="PMS 676" value="A00054"/>
+		<item name="PMS 675" value="BC3877"/>
+		<item name="PMS 674" value="D36B9E"/>
+		<item name="PMS 686" value="E0AABA"/>
+		<item name="PMS 687" value="C9899E"/>
+		<item name="PMS 688" value="B26684"/>
+		<item name="PMS 700" value="F2A5AA"/>
+		<item name="PMS 699" value="F7BFBF"/>
+		<item name="PMS 698" value="F7D1CC"/>
+		<item name="PMS 697" value="7F383A"/>
+		<item name="PMS 696" value="8E4749"/>
+		<item name="PMS 695" value="B26B70"/>
+		<item name="PMS 694" value="C98C8C"/>
+		<item name="PMS 693" value="DBA8A5"/>
+		<item name="PMS 692" value="E8BFBA"/>
+		<item name="PMS 691" value="EFD1C9"/>
+		<item name="PMS 690" value="702342"/>
+		<item name="PMS 689" value="934266"/>
+		<item name="PMS 673" value="E08CB2"/>
+		<item name="PMS 672" value="EAAAC4"/>
+		<item name="PMS 656" value="D6DBE0"/>
+		<item name="PMS 655" value="0C1C47"/>
+		<item name="PMS 654" value="0F2B5B"/>
+		<item name="PMS 653" value="335687"/>
+		<item name="PMS 652" value="6D87A8"/>
+		<item name="PMS 651" value="9BAABF"/>
+		<item name="PMS 650" value="BFC6D1"/>
+		<item name="PMS 649" value="D6D6D8"/>
+		<item name="PMS 648" value="00305E"/>
+		<item name="PMS 647" value="26547C"/>
+		<item name="PMS 646" value="5E82A3"/>
+		<item name="PMS 645" value="7796B2"/>
+		<item name="PMS 657" value="C1C9DD"/>
+		<item name="PMS 658" value="A5AFD6"/>
+		<item name="PMS 659" value="7F8CBF"/>
+		<item name="PMS 671" value="EFC6D3"/>
+		<item name="PMS 670" value="F2D6D8"/>
+		<item name="PMS 669" value="472B59"/>
+		<item name="PMS 668" value="664975"/>
+		<item name="PMS 667" value="7F6689"/>
+		<item name="PMS 666" value="A893AD"/>
+		<item name="PMS 665" value="C6B5C4"/>
+		<item name="PMS 664" value="D8CCD1"/>
+		<item name="PMS 663" value="E2D3D6"/>
+		<item name="PMS 662" value="0C1975"/>
+		<item name="PMS 661" value="2D338E"/>
+		<item name="PMS 660" value="5960A8"/>
+		<item name="PMS 644" value="9BAFC4"/>
+		<item name="PMS 702" value="D6606D"/>
+		<item name="PMS 814 2x" value="703FAF"/>
+		<item name="PMS 806 2x" value="F7027C"/>
+		<item name="PMS 806" value="FF0093"/>
+		<item name="PMS 805 2x" value="F93A2B"/>
+		<item name="PMS 805" value="F95951"/>
+		<item name="PMS 804 2x" value="FF7F1E"/>
+		<item name="PMS 804" value="FF9338"/>
+		<item name="PMS 803 2x" value="FFD816"/>
+		<item name="PMS 803" value="FFED38"/>
+		<item name="PMS 802 2x" value="1CCE28"/>
+		<item name="PMS 802" value="60DD49"/>
+		<item name="PMS 801 2x" value="0089AF"/>
+		<item name="PMS 801" value="00AACC"/>
+		<item name="PMS 807" value="D6009E"/>
+		<item name="PMS 807 2x" value="BF008C"/>
+		<item name="PMS 808" value="00B59B"/>
+		<item name="PMS 814" value="8C60C1"/>
+		<item name="PMS 813 2x" value="D10084"/>
+		<item name="PMS 813" value="E50099"/>
+		<item name="PMS 812 2x" value="FC074F"/>
+		<item name="PMS 812" value="FC2366"/>
+		<item name="PMS 811 2x" value="FF5416"/>
+		<item name="PMS 811" value="FF7247"/>
+		<item name="PMS 810 2x" value="FFBC21"/>
+		<item name="PMS 810" value="FFCC1E"/>
+		<item name="PMS 809 2x" value="D6D60C"/>
+		<item name="PMS 809" value="DDE00F"/>
+		<item name="PMS 808 2x" value="00A087"/>
+		<item name="PMS 732" value="60330A"/>
+		<item name="PMS 731" value="723F0A"/>
+		<item name="PMS 715" value="FC9E49"/>
+		<item name="PMS 714" value="F9BA82"/>
+		<item name="PMS 713" value="F9C9A3"/>
+		<item name="PMS 712" value="FFD3AA"/>
+		<item name="PMS 711" value="D12D33"/>
+		<item name="PMS 710" value="E04251"/>
+		<item name="PMS 709" value="F26877"/>
+		<item name="PMS 708" value="F98E99"/>
+		<item name="PMS 707" value="FCADAF"/>
+		<item name="PMS 706" value="FCC9C6"/>
+		<item name="PMS 705" value="F9DDD6"/>
+		<item name="PMS 704" value="9E2828"/>
+		<item name="PMS 716" value="F28411"/>
+		<item name="PMS 717" value="D36D00"/>
+		<item name="PMS 718" value="BF5B00"/>
+		<item name="PMS 730" value="AA753F"/>
+		<item name="PMS 729" value="C18E60"/>
+		<item name="PMS 728" value="D3A87C"/>
+		<item name="PMS 727" value="E2BF9B"/>
+		<item name="PMS 726" value="EDD3B5"/>
+		<item name="PMS 725" value="753802"/>
+		<item name="PMS 724" value="8E4905"/>
+		<item name="PMS 723" value="BA7530"/>
+		<item name="PMS 722" value="D18E54"/>
+		<item name="PMS 721" value="E8B282"/>
+		<item name="PMS 720" value="EFC49E"/>
+		<item name="PMS 719" value="F4D1AF"/>
+		<item name="PMS 703" value="B73844"/>
+		<item name="PMS 643" value="C6D1D6"/>
+		<item name="PMS 580" value="D8DDB5"/>
+		<item name="PMS 5747" value="424716"/>
+		<item name="PMS 5743" value="3F4926"/>
+		<item name="PMS 574" value="495928"/>
+		<item name="PMS 573" value="CCE5D6"/>
+		<item name="PMS 572" value="BCE2CE"/>
+		<item name="PMS 571" value="AADBC6"/>
+		<item name="PMS 570" value="7FC6B2"/>
+		<item name="PMS 569" value="8772"/>
+		<item name="PMS 567" value="265142"/>
+		<item name="PMS 5665" value="D6D6C6"/>
+		<item name="PMS 566" value="D1E2D3"/>
+		<item name="PMS 5655" value="C6CCBA"/>
+		<item name="PMS 575" value="547730"/>
+		<item name="PMS 5753" value="5E663A"/>
+		<item name="PMS 5757" value="6B702B"/>
+		<item name="PMS 5797" value="D3D1AA"/>
+		<item name="PMS 5793" value="C6C6A5"/>
+		<item name="PMS 579" value="C9D6A3"/>
+		<item name="PMS 5787" value="C6C699"/>
+		<item name="PMS 5783" value="B5B58E"/>
+		<item name="PMS 578" value="C6D6A0"/>
+		<item name="PMS 5777" value="AAAD75"/>
+		<item name="PMS 5773" value="9B9E72"/>
+		<item name="PMS 577" value="B5CC8E"/>
+		<item name="PMS 5767" value="8C914F"/>
+		<item name="PMS 5763" value="777C4F"/>
+		<item name="PMS 576" value="608E3A"/>
+		<item name="PMS 565" value="BCDBCC"/>
+		<item name="PMS 5645" value="BCC1B2"/>
+		<item name="PMS 5565" value="96AA99"/>
+		<item name="PMS 556" value="7AA891"/>
+		<item name="PMS 5555" value="779182"/>
+		<item name="PMS 555" value="076D54"/>
+		<item name="PMS 5545" value="4F6D5E"/>
+		<item name="PMS 554" value="1,95E+"/>
+		<item name="PMS 5535" value="213D30"/>
+		<item name="PMS 553" value="234435"/>
+		<item name="PMS 5527" value="CED1C6"/>
+		<item name="PMS 5523" value="D6DDD6"/>
+		<item name="PMS 552" value="C4D6D6"/>
+		<item name="PMS 5517" value="C9CEC4"/>
+		<item name="PMS 557" value="A3C1AD"/>
+		<item name="PMS 5575" value="AFBFAD"/>
+		<item name="PMS 558" value="B7CEBC"/>
+		<item name="PMS 564" value="05705E"/>
+		<item name="PMS 5635" value="9EAA99"/>
+		<item name="PMS 563" value="7FBCAA"/>
+		<item name="PMS 5625" value="728470"/>
+		<item name="PMS 562" value="1E7A6D"/>
+		<item name="PMS 5615" value="546856"/>
+		<item name="PMS 561" value="266659"/>
+		<item name="PMS 5605" value="233A2D"/>
+		<item name="PMS 560" value="2B4C3F"/>
+		<item name="PMS 5595" value="D8DBCC"/>
+		<item name="PMS 559" value="C6D6C4"/>
+		<item name="PMS 5585" value="C4CEBF"/>
+		<item name="PMS 5513" value="CED8D1"/>
+		<item name="PMS 5803" value="D8D6B7"/>
+		<item name="PMS 642" value="D1D8D8"/>
+		<item name="PMS 626" value="21543F"/>
+		<item name="PMS 625" value="5B8772"/>
+		<item name="PMS 624" value="7FA08C"/>
+		<item name="PMS 623" value="A5BFAA"/>
+		<item name="PMS 622" value="C1D1BF"/>
+		<item name="PMS 621" value="D8DDCE"/>
+		<item name="PMS 620" value="847711"/>
+		<item name="PMS 619" value="968C28"/>
+		<item name="PMS 618" value="B5AA59"/>
+		<item name="PMS 617" value="CCC47C"/>
+		<item name="PMS 616" value="DDD69B"/>
+		<item name="PMS 615" value="E2DBAA"/>
+		<item name="PMS 627" value="0C3026"/>
+		<item name="PMS 628" value="CCE2DD"/>
+		<item name="PMS 629" value="B2D8D8"/>
+		<item name="PMS 641" value="007AA5"/>
+		<item name="PMS 640" value="008CB2"/>
+		<item name="PMS 639" value="00A0C4"/>
+		<item name="PMS 638" value="00B5D6"/>
+		<item name="PMS 637" value="6BC9DB"/>
+		<item name="PMS 636" value="99D6DD"/>
+		<item name="PMS 635" value="BAE0E0"/>
+		<item name="PMS 634" value="00667F"/>
+		<item name="PMS 633" value="007F99"/>
+		<item name="PMS 632" value="00A0BA"/>
+		<item name="PMS 631" value="54B7C6"/>
+		<item name="PMS 630" value="8CCCD3"/>
+		<item name="PMS 614" value="EAE2B7"/>
+		<item name="PMS 613" value="AFA00C"/>
+		<item name="PMS 5865" value="D6CEA3"/>
+		<item name="PMS 586" value="E2E584"/>
+		<item name="PMS 5855" value="CCC693"/>
+		<item name="PMS 585" value="DBE06B"/>
+		<item name="PMS 5845" value="B2AA70"/>
+		<item name="PMS 584" value="CED649"/>
+		<item name="PMS 5835" value="9E9959"/>
+		<item name="PMS 583" value="AABA0A"/>
+		<item name="PMS 5825" value="75702B"/>
+		<item name="PMS 582" value="878905"/>
+		<item name="PMS 5815" value="494411"/>
+		<item name="PMS 581" value="6,05E+"/>
+		<item name="PMS 587" value="E8E89B"/>
+		<item name="PMS 5875" value="E0DBB5"/>
+		<item name="PMS 600" value="F4EDAF"/>
+		<item name="PMS 612" value="C4BA00"/>
+		<item name="PMS 611" value="D6CE49"/>
+		<item name="PMS 610" value="E2DB72"/>
+		<item name="PMS 609" value="EAE596"/>
+		<item name="PMS 608" value="EFE8AD"/>
+		<item name="PMS 607" value="F2EABC"/>
+		<item name="PMS 606" value="D3BF11"/>
+		<item name="PMS 605" value="DDCE11"/>
+		<item name="PMS 604" value="E8DD21"/>
+		<item name="PMS 603" value="EDE85B"/>
+		<item name="PMS 602" value="F2EA87"/>
+		<item name="PMS 601" value="F2ED9E"/>
+		<item name="PMS 5807" value="E0DDBC"/>
+		<item name="PMS 217" value="F4BFD1"/>
+		<item name="PMS 201" value="A32638"/>
+		<item name="PMS 200" value="C41E3A"/>
+		<item name="PMS 199" value="D81C3F"/>
+		<item name="PMS 198" value="772D35"/>
+		<item name="PMS 197" value="EF99A3"/>
+		<item name="PMS 196" value="F4C9C9"/>
+		<item name="PMS 1955" value="931638"/>
+		<item name="PMS 1945" value="A80C35"/>
+		<item name="PMS 194" value="992135"/>
+		<item name="PMS 1935" value="C10538"/>
+		<item name="PMS 193" value="DB828C"/>
+		<item name="PMS 1925" value="E00747"/>
+		<item name="PMS 202" value="8C2633"/>
+		<item name="PMS 203" value="F2AFC1"/>
+		<item name="PMS 204" value="ED7A9E"/>
+		<item name="PMS 216" value="7C1E3F"/>
+		<item name="PMS 215" value="A50544"/>
+		<item name="PMS 214" value="CC0256"/>
+		<item name="PMS 213" value="EA0F6B"/>
+		<item name="PMS 212" value="F94F8E"/>
+		<item name="PMS 211" value="FF77A8"/>
+		<item name="PMS 210" value="FFA0BF"/>
+		<item name="PMS 209" value="75263D"/>
+		<item name="PMS 208" value="8E2344"/>
+		<item name="PMS 207" value="BAAA9E"/>
+		<item name="PMS 206" value="D30547"/>
+		<item name="PMS 205" value="E54C7C"/>
+		<item name="PMS 192" value="E5053A"/>
+		<item name="PMS 1915" value="F4547C"/>
+		<item name="PMS 181" value="7C2D23"/>
+		<item name="PMS 1807" value="A03033"/>
+		<item name="PMS 1805" value="AF2626"/>
+		<item name="PMS 180" value="C13828"/>
+		<item name="PMS 1797" value="CC2D30"/>
+		<item name="PMS 1795" value="D62828"/>
+		<item name="PMS 179" value="E23D28"/>
+		<item name="PMS 1788 2" value="D62100"/>
+		<item name="PMS 1788" value="EF2B2D"/>
+		<item name="PMS 1787" value="F43F4F"/>
+		<item name="PMS 1785" value="FC4F59"/>
+		<item name="PMS 178" value="F95E59"/>
+		<item name="PMS 1810" value="7C211E"/>
+		<item name="PMS 1817" value="5B2D28"/>
+		<item name="PMS 182" value="F9BFC1"/>
+		<item name="PMS 191" value="F4476B"/>
+		<item name="PMS 1905" value="FC9BB2"/>
+		<item name="PMS 190" value="FC758E"/>
+		<item name="PMS 1895" value="FCBFC9"/>
+		<item name="PMS 189" value="FFA3B2"/>
+		<item name="PMS 188" value="7C2128"/>
+		<item name="PMS 187" value="AF1E2D"/>
+		<item name="PMS 185 2x" value="D11600"/>
+		<item name="PMS 185" value="E8112D"/>
+		<item name="PMS 184" value="FC5E72"/>
+		<item name="PMS 183" value="FC8C99"/>
+		<item name="PMS 1777" value="FC6675"/>
+		<item name="PMS 218" value="ED72AA"/>
+		<item name="PMS 259" value="72166B"/>
+		<item name="PMS 252" value="D36BC6"/>
+		<item name="PMS 251" value="E29ED6"/>
+		<item name="PMS 250" value="EDC4DD"/>
+		<item name="PMS 249" value="7F2860"/>
+		<item name="PMS 248" value="A3057F"/>
+		<item name="PMS 247" value="B7008E"/>
+		<item name="PMS 246" value="CC00A0"/>
+		<item name="PMS 245" value="E87FC9"/>
+		<item name="PMS 244" value="EDA0D3"/>
+		<item name="PMS 243" value="F2BAD8"/>
+		<item name="PMS 2425" value="87005B"/>
+		<item name="PMS 242" value="7C1C51"/>
+		<item name="PMS 253" value="AF23A5"/>
+		<item name="PMS 254" value="A02D96"/>
+		<item name="PMS 255" value="772D6B"/>
+		<item name="PMS 2587" value="8E47AD"/>
+		<item name="PMS 2583" value="9E4FA5"/>
+		<item name="PMS 2582" value="AA47BA"/>
+		<item name="PMS 258" value="9B4F96"/>
+		<item name="PMS 2577" value="AA72BF"/>
+		<item name="PMS 2573" value="BA7CBC"/>
+		<item name="PMS 2572" value="C687D1"/>
+		<item name="PMS 257" value="D3A5C9"/>
+		<item name="PMS 2567" value="BF93CC"/>
+		<item name="PMS 2563" value="D1A0CC"/>
+		<item name="PMS 2562" value="D8A8D8"/>
+		<item name="PMS 256" value="E5C4D6"/>
+		<item name="PMS 2415" value="9B0070"/>
+		<item name="PMS 241" value="AD0075"/>
+		<item name="PMS 231" value="FC70BA"/>
+		<item name="PMS 230" value="FFA0CC"/>
+		<item name="PMS 229" value="6D213F"/>
+		<item name="PMS 228" value="8C004C"/>
+		<item name="PMS 227" value="AD005B"/>
+		<item name="PMS 226" value="D60270"/>
+		<item name="PMS 225" value="ED2893"/>
+		<item name="PMS 224" value="F46BAF"/>
+		<item name="PMS 223" value="F993C4"/>
+		<item name="PMS 222" value="70193D"/>
+		<item name="PMS 221" value="930042"/>
+		<item name="PMS 220" value="AA004F"/>
+		<item name="PMS 232" value="F43FA5"/>
+		<item name="PMS 233" value="CE007C"/>
+		<item name="PMS 234" value="AA0066"/>
+		<item name="PMS 2405" value="A8007A"/>
+		<item name="PMS 240" value="C40F89"/>
+		<item name="PMS 2395" value="C4008C"/>
+		<item name="PMS 239 2x" value="C4057C"/>
+		<item name="PMS 239" value="E0219E"/>
+		<item name="PMS 2385" value="DB28A5"/>
+		<item name="PMS 238" value="ED4FAF"/>
+		<item name="PMS 2375" value="EA6BBF"/>
+		<item name="PMS 237" value="F484C4"/>
+		<item name="PMS 2365" value="F7C4D8"/>
+		<item name="PMS 236" value="F9AFD3"/>
+		<item name="PMS 235" value="8E0554"/>
+		<item name="PMS 219" value="E22882"/>
+		<item name="PMS 1775" value="F9848E"/>
+		<item name="PMS 141" value="F2CE68"/>
+		<item name="PMS 132" value="9E7C0A"/>
+		<item name="PMS 131" value="C6930A"/>
+		<item name="PMS 130 2x" value="E29100"/>
+		<item name="PMS 130" value="EAAF0F"/>
+		<item name="PMS 129" value="F2D13D"/>
+		<item name="PMS 128" value="F4DB60"/>
+		<item name="PMS 127" value="F4E287"/>
+		<item name="PMS 1265" value="7C6316"/>
+		<item name="PMS 126" value="A38205"/>
+		<item name="PMS 1255" value="A37F14"/>
+		<item name="PMS 125" value="B58C0A"/>
+		<item name="PMS 1245" value="BF910C"/>
+		<item name="PMS 133" value="705B0A"/>
+		<item name="PMS 134" value="FFD87F"/>
+		<item name="PMS 1345" value="FFD691"/>
+		<item name="PMS 1405" value="6B4714"/>
+		<item name="PMS 140" value="7A5B11"/>
+		<item name="PMS 1395" value="996007"/>
+		<item name="PMS 139" value="AF7505"/>
+		<item name="PMS 1385" value="CC7A02"/>
+		<item name="PMS 138" value="D88C02"/>
+		<item name="PMS 1375" value="F99B0C"/>
+		<item name="PMS 137" value="FCA311"/>
+		<item name="PMS 1365" value="FCBA5E"/>
+		<item name="PMS 136" value="FCBF49"/>
+		<item name="PMS 1355" value="FCCE87"/>
+		<item name="PMS 135" value="FCC963"/>
+		<item name="PMS 124" value="E0AA0F"/>
+		<item name="PMS 1235" value="FCB514"/>
+		<item name="PMS 112" value="99840A"/>
+		<item name="PMS 111" value="AA930A"/>
+		<item name="PMS 110" value="D8B511"/>
+		<item name="PMS 109" value="F9D616"/>
+		<item name="PMS 108" value="F9DD16"/>
+		<item name="PMS 107" value="F9E526"/>
+		<item name="PMS 106" value="F7E859"/>
+		<item name="PMS 105" value="82750F"/>
+		<item name="PMS 104" value="AD9B0C"/>
+		<item name="PMS 103" value="C6AD0F"/>
+		<item name="PMS 102" value="F9E814"/>
+		<item name="PMS 101" value="F4ED47"/>
+		<item name="PMS 113" value="F9E55B"/>
+		<item name="PMS 114" value="F9E24C"/>
+		<item name="PMS 115" value="F9E04C"/>
+		<item name="PMS 123" value="FFC61E"/>
+		<item name="PMS 1225" value="FFCC49"/>
+		<item name="PMS 122" value="FCD856"/>
+		<item name="PMS 1215" value="F9E08C"/>
+		<item name="PMS 121" value="F9E070"/>
+		<item name="PMS 1205" value="F7E8AA"/>
+		<item name="PMS 120" value="F9E27F"/>
+		<item name="PMS 119" value="897719"/>
+		<item name="PMS 118" value="AA8E0A"/>
+		<item name="PMS 117" value="C6A00C"/>
+		<item name="PMS 116 2x" value="F7B50C"/>
+		<item name="PMS 116" value="FCD116"/>
+		<item name="PMS 100" value="F4ED7C"/>
+		<item name="PMS 142" value="F2BF49"/>
+		<item name="PMS 177" value="F9827F"/>
+		<item name="PMS 166" value="DD5900"/>
+		<item name="PMS 1655" value="F95602"/>
+		<item name="PMS 165 2x" value="EA4F00"/>
+		<item name="PMS 165" value="F96302"/>
+		<item name="PMS 1645" value="F97242"/>
+		<item name="PMS 164" value="FC7F3F"/>
+		<item name="PMS 1635" value="F98E6D"/>
+		<item name="PMS 163" value="FC9E70"/>
+		<item name="PMS 1625" value="F9A58C"/>
+		<item name="PMS 162" value="F9C6AA"/>
+		<item name="PMS 1615" value="843F0F"/>
+		<item name="PMS 161" value="633A11"/>
+		<item name="PMS 1665" value="DD4F05"/>
+		<item name="PMS 167" value="BC4F07"/>
+		<item name="PMS 1675" value="A53F0F"/>
+		<item name="PMS 1767" value="F9B2B7"/>
+		<item name="PMS 1765" value="F99EA3"/>
+		<item name="PMS 176" value="F9AFAD"/>
+		<item name="PMS 175" value="6D3321"/>
+		<item name="PMS 174" value="933311"/>
+		<item name="PMS 173" value="D14414"/>
+		<item name="PMS 172" value="F74902"/>
+		<item name="PMS 171" value="F9603A"/>
+		<item name="PMS 170" value="F98972"/>
+		<item name="PMS 169" value="F9BAAA"/>
+		<item name="PMS 1685" value="843511"/>
+		<item name="PMS 168" value="6D3011"/>
+		<item name="PMS 1605" value="A04F11"/>
+		<item name="PMS 160" value="9E540A"/>
+		<item name="PMS 152" value="DD7500"/>
+		<item name="PMS 151" value="F77F00"/>
+		<item name="PMS 1505" value="F47C00"/>
+		<item name="PMS 150" value="FCAD56"/>
+		<item name="PMS 1495" value="FF993F"/>
+		<item name="PMS 149" value="FCCC93"/>
+		<item name="PMS 1485" value="FFB777"/>
+		<item name="PMS 148" value="FFD69B"/>
+		<item name="PMS 147" value="7,25E+"/>
+		<item name="PMS 146" value="9E6B05"/>
+		<item name="PMS 145" value="C67F07"/>
+		<item name="PMS 144" value="E28C05"/>
+		<item name="PMS 1525" value="B55400"/>
+		<item name="PMS 153" value="BC6D0A"/>
+		<item name="PMS 1535" value="8C4400"/>
+		<item name="PMS 1595" value="D15B05"/>
+		<item name="PMS 159" value="C66005"/>
+		<item name="PMS 1585" value="F96B07"/>
+		<item name="PMS 158" value="E87511"/>
+		<item name="PMS 1575" value="FC8744"/>
+		<item name="PMS 157" value="EDA04F"/>
+		<item name="PMS 1565" value="FCA577"/>
+		<item name="PMS 156" value="F2C68C"/>
+		<item name="PMS 1555" value="F9BF9E"/>
+		<item name="PMS 155" value="F4DBAA"/>
+		<item name="PMS 1545" value="4C280F"/>
+		<item name="PMS 154" value="995905"/>
+		<item name="PMS 143" value="EFB22D"/>
+		<item name="PMS 340" value="9977"/>
+		<item name="PMS 330" value="5951"/>
+		<item name="PMS 3298" value="006B5B"/>
+		<item name="PMS 3295" value="8272"/>
+		<item name="PMS 3292" value="6056"/>
+		<item name="PMS 329" value="006D66"/>
+		<item name="PMS 3288" value="8270"/>
+		<item name="PMS 3285" value="9987"/>
+		<item name="PMS 3282" value="008C82"/>
+		<item name="PMS 328" value="7770"/>
+		<item name="PMS 3278" value="009B84"/>
+		<item name="PMS 3275" value="00B2A0"/>
+		<item name="PMS 3272" value="00AA9E"/>
+		<item name="PMS 3302" value="00493F"/>
+		<item name="PMS 3305" value="004F42"/>
+		<item name="PMS 3308" value="4438"/>
+		<item name="PMS 3395" value="00C993"/>
+		<item name="PMS 339" value="00B28C"/>
+		<item name="PMS 3385" value="54D8A8"/>
+		<item name="PMS 338" value="7AD1B5"/>
+		<item name="PMS 3375" value="8EE2BC"/>
+		<item name="PMS 337" value="9BDBC1"/>
+		<item name="PMS 336" value="6854"/>
+		<item name="PMS 335" value="007C66"/>
+		<item name="PMS 334" value="00997C"/>
+		<item name="PMS 333" value="5EDDC1"/>
+		<item name="PMS 332" value="A0E5CE"/>
+		<item name="PMS 331" value="BAEAD6"/>
+		<item name="PMS 327 2x" value="8977"/>
+		<item name="PMS 327" value="008C82"/>
+		<item name="PMS 320 2x" value="007F82"/>
+		<item name="PMS 320" value="009EA0"/>
+		<item name="PMS 319" value="4CCED1"/>
+		<item name="PMS 318" value="93DDDB"/>
+		<item name="PMS 317" value="C9E8DD"/>
+		<item name="PMS 3165" value="00565B"/>
+		<item name="PMS 316" value="00494F"/>
+		<item name="PMS 3155" value="006D75"/>
+		<item name="PMS 315" value="006B77"/>
+		<item name="PMS 3145" value="00848E"/>
+		<item name="PMS 314" value="00829B"/>
+		<item name="PMS 3135" value="009BAA"/>
+		<item name="PMS 321" value="8789"/>
+		<item name="PMS 322" value="7272"/>
+		<item name="PMS 323" value="6663"/>
+		<item name="PMS 3268" value="00AF99"/>
+		<item name="PMS 3265" value="00C6B2"/>
+		<item name="PMS 3262" value="00C1B5"/>
+		<item name="PMS 326" value="00B2AA"/>
+		<item name="PMS 3258" value="35C4AF"/>
+		<item name="PMS 3255" value="47D6C1"/>
+		<item name="PMS 3252" value="56D6C9"/>
+		<item name="PMS 325" value="56C9C1"/>
+		<item name="PMS 3248" value="7AD3C1"/>
+		<item name="PMS 3245" value="8CE0D1"/>
+		<item name="PMS 3242" value="87DDD1"/>
+		<item name="PMS 324" value="AADDD6"/>
+		<item name="PMS 313" value="0099B5"/>
+		<item name="PMS 3405" value="00B27A"/>
+		<item name="PMS 392" value="848205"/>
+		<item name="PMS 377" value="709302"/>
+		<item name="PMS 376" value="7FBA00"/>
+		<item name="PMS 375 2x" value="54BC00"/>
+		<item name="PMS 375" value="8CD600"/>
+		<item name="PMS 374" value="BAE860"/>
+		<item name="PMS 373" value="CEEA82"/>
+		<item name="PMS 372" value="D8ED96"/>
+		<item name="PMS 371" value="566B21"/>
+		<item name="PMS 370" value="5,68E+"/>
+		<item name="PMS 369" value="56AA1C"/>
+		<item name="PMS 368 2x" value="009E0F"/>
+		<item name="PMS 368" value="5BBF21"/>
+		<item name="PMS 378" value="566314"/>
+		<item name="PMS 379" value="E0EA68"/>
+		<item name="PMS 380" value="D6E542"/>
+		<item name="PMS 391" value="9E9E07"/>
+		<item name="PMS 390" value="BAC405"/>
+		<item name="PMS 389" value="CEE007"/>
+		<item name="PMS 388" value="D6E80F"/>
+		<item name="PMS 387" value="E0ED44"/>
+		<item name="PMS 386" value="E8ED60"/>
+		<item name="PMS 385" value="707014"/>
+		<item name="PMS 384" value="939905"/>
+		<item name="PMS 383" value="A3AF07"/>
+		<item name="PMS 382 2x" value="9EC400"/>
+		<item name="PMS 382" value="BAD80A"/>
+		<item name="PMS 381" value="CCE226"/>
+		<item name="PMS 367" value="AADD6D"/>
+		<item name="PMS 366" value="C4E58E"/>
+		<item name="PMS 350" value="234F33"/>
+		<item name="PMS 349" value="006B3F"/>
+		<item name="PMS 348" value="8751"/>
+		<item name="PMS 347" value="9E+60"/>
+		<item name="PMS 346" value="70CE9B"/>
+		<item name="PMS 345" value="96D8AF"/>
+		<item name="PMS 344" value="B5E2BF"/>
+		<item name="PMS 3435" value="24930"/>
+		<item name="PMS 343" value="00563F"/>
+		<item name="PMS 3425" value="6847"/>
+		<item name="PMS 342" value="006B54"/>
+		<item name="PMS 3415" value="007C59"/>
+		<item name="PMS 351" value="B5E8BF"/>
+		<item name="PMS 352" value="99E5B2"/>
+		<item name="PMS 353" value="84E2A8"/>
+		<item name="PMS 365" value="D3E8A3"/>
+		<item name="PMS 364" value="3A7728"/>
+		<item name="PMS 362" value="3,39E+"/>
+		<item name="PMS 361" value="1EB53A"/>
+		<item name="PMS 360" value="60C659"/>
+		<item name="PMS 359" value="A0DB8E"/>
+		<item name="PMS 358" value="AADD96"/>
+		<item name="PMS 357" value="215B33"/>
+		<item name="PMS 356" value="007A3D"/>
+		<item name="PMS 355" value="9E+49"/>
+		<item name="PMS 354" value="00B760"/>
+		<item name="PMS 341" value="007A5E"/>
+		<item name="PMS 3125" value="00B7C6"/>
+		<item name="PMS 2758" value="192168"/>
+		<item name="PMS 2726" value="6656BC"/>
+		<item name="PMS 2725" value="7251BC"/>
+		<item name="PMS 272" value="8977BA"/>
+		<item name="PMS 2718" value="5B77CC"/>
+		<item name="PMS 2717" value="A5BAE0"/>
+		<item name="PMS 2716" value="A5A0D6"/>
+		<item name="PMS 2715" value="937ACC"/>
+		<item name="PMS 271" value="9E91C6"/>
+		<item name="PMS 2708" value="AFBCDB"/>
+		<item name="PMS 2707" value="BFD1E5"/>
+		<item name="PMS 2706" value="D1CEDD"/>
+		<item name="PMS 2705" value="AD9ED3"/>
+		<item name="PMS 2727" value="5E68C4"/>
+		<item name="PMS 2728" value="3044B5"/>
+		<item name="PMS 273" value="38197A"/>
+		<item name="PMS 2757" value="141654"/>
+		<item name="PMS 2756" value="332875"/>
+		<item name="PMS 2755" value="35006D"/>
+		<item name="PMS 275" value="260F54"/>
+		<item name="PMS 2748" value="1E1C77"/>
+		<item name="PMS 2747" value="1C146B"/>
+		<item name="PMS 2746" value="3F2893"/>
+		<item name="PMS 2745" value="3F0077"/>
+		<item name="PMS 274" value="2B1166"/>
+		<item name="PMS 2738" value="2D008E"/>
+		<item name="PMS 2736" value="4930AD"/>
+		<item name="PMS 2735" value="4F0093"/>
+		<item name="PMS 270" value="BAAFD3"/>
+		<item name="PMS 2695" value="44235E"/>
+		<item name="PMS 262" value="542344"/>
+		<item name="PMS 2613" value="66116D"/>
+		<item name="PMS 2612" value="7,01E+"/>
+		<item name="PMS 261" value="5E2154"/>
+		<item name="PMS 2607" value="5B027A"/>
+		<item name="PMS 2603" value="70147A"/>
+		<item name="PMS 2602" value="820C8E"/>
+		<item name="PMS 260" value="681E5B"/>
+		<item name="PMS 2597" value="66008C"/>
+		<item name="PMS 2593" value="872B93"/>
+		<item name="PMS 2592 2" value="720082"/>
+		<item name="PMS 2622" value="602D59"/>
+		<item name="PMS 2623" value="5B195E"/>
+		<item name="PMS 2627" value="4C145E"/>
+		<item name="PMS 269" value="442359"/>
+		<item name="PMS 2685" value="56008C"/>
+		<item name="PMS 268" value="4F2170"/>
+		<item name="PMS 267" value="59118E"/>
+		<item name="PMS 2665" value="894FBF"/>
+		<item name="PMS 266" value="6D28AA"/>
+		<item name="PMS 2655" value="9B6DC6"/>
+		<item name="PMS 265" value="9663C4"/>
+		<item name="PMS 2645" value="B591D1"/>
+		<item name="PMS 264" value="C6AADB"/>
+		<item name="PMS 2635" value="C9ADD8"/>
+		<item name="PMS 263" value="E0CEE0"/>
+		<item name="PMS 2592" value="930FA5"/>
+		<item name="PMS 276" value="2B2147"/>
+		<item name="PMS 312" value="00ADC6"/>
+		<item name="PMS 3015" value="00709E"/>
+		<item name="PMS 301" value="005B99"/>
+		<item name="PMS 3005" value="0084C9"/>
+		<item name="PMS 300" value="0072C6"/>
+		<item name="PMS 2995" value="00A5DB"/>
+		<item name="PMS 299 2x" value="007FCC"/>
+		<item name="PMS 299" value="00A3DD"/>
+		<item name="PMS 2985" value="51BFE2"/>
+		<item name="PMS 298" value="51B5E0"/>
+		<item name="PMS 2975" value="BAE0E2"/>
+		<item name="PMS 297" value="82C6E2"/>
+		<item name="PMS 2965" value="00334C"/>
+		<item name="PMS 302" value="004F6D"/>
+		<item name="PMS 3025" value="00546B"/>
+		<item name="PMS 303" value="003F54"/>
+		<item name="PMS 3115" value="2DC6D6"/>
+		<item name="PMS 311" value="28C4D8"/>
+		<item name="PMS 3105" value="7FD6DB"/>
+		<item name="PMS 310" value="72D1DD"/>
+		<item name="PMS 309" value="003F49"/>
+		<item name="PMS 308" value="00607C"/>
+		<item name="PMS 307" value="007AA5"/>
+		<item name="PMS 306 2x" value="00A3D1"/>
+		<item name="PMS 306" value="00BCE2"/>
+		<item name="PMS 305" value="70CEE2"/>
+		<item name="PMS 304" value="A5DDE2"/>
+		<item name="PMS 3035" value="4454"/>
+		<item name="PMS 296" value="002D47"/>
+		<item name="PMS 2955" value="003D6B"/>
+		<item name="PMS 285" value="3A75C4"/>
+		<item name="PMS 284" value="75AADB"/>
+		<item name="PMS 283" value="9BC4E2"/>
+		<item name="PMS 282" value="2654"/>
+		<item name="PMS 281" value="2868"/>
+		<item name="PMS 280" value="002B7F"/>
+		<item name="PMS 279" value="6689CC"/>
+		<item name="PMS 278" value="99BADD"/>
+		<item name="PMS 277" value="B5D1E8"/>
+		<item name="PMS 2768" value="112151"/>
+		<item name="PMS 2767" value="14213D"/>
+		<item name="PMS 2766" value="2B265B"/>
+		<item name="PMS 286" value="0038A8"/>
+		<item name="PMS 287" value="3893"/>
+		<item name="PMS 288" value="00337F"/>
+		<item name="PMS 295" value="00386B"/>
+		<item name="PMS 2945" value="0054A0"/>
+		<item name="PMS 294" value="003F87"/>
+		<item name="PMS 2935" value="005BBF"/>
+		<item name="PMS 293" value="0051BA"/>
+		<item name="PMS 2925" value="008ED6"/>
+		<item name="PMS 292" value="75B2DD"/>
+		<item name="PMS 2915" value="60AFDD"/>
+		<item name="PMS 291" value="A8CEE2"/>
+		<item name="PMS 2905" value="93C6E0"/>
+		<item name="PMS 290" value="C4D8E2"/>
+		<item name="PMS 289" value="2649"/>
+		<item name="PMS 2765" value="2B0C56"/>
+	</pantone>
+	<process>
+		<item id="1" name="Screen Printing" isdefault="1" amount="6" isdigital="0" forecolor="table" effect="">
+			<desc>Please note that all of our products listed on our site will be screen printed unless otherwise specified.  We recommend that you keep your camera ready artwork down to a limit of one color per front and back to keep the cost of the product low.  If you have any questions, feel free to contact us.  
+
+
+Please note that color printed may vary from what your custom rendition shows due to your computers screen resolution settings.  We aim to provide you with the closest possible replication of what you have created on our site.  Thanks.</desc>
+			<table>
+				<item id="263" name="Athletic Gold" hex="FFCC00" image=""/>
+				<item id="50" name="Black" hex="000000" image=""/>
+				<item id="277" name="Cardinal Red" hex="990033" image=""/>
+				<item id="141" name="Cool Grey" hex="8C8C8E" image=""/>
+				<item id="73" name="Dark Brown" hex="552E19" image=""/>
+				<item id="93" name="Forest Green" hex="004438" image=""/>
+				<item id="271" name="Green" hex="006600" image=""/>
+				<item id="146" name="Grey" hex="B5B7B5" image=""/>
+				<item id="212" name="Hot Pink" hex="D0499A" image=""/>
+				<item id="95" name="Kelly Green" hex="2EB135" image=""/>
+				<item id="211" name="Light Pink" hex="F0A5C9" image=""/>
+				<item id="233" name="Lime Green" hex="D7E69D" image=""/>
+				<item id="64" name="Maroon" hex="330000" image=""/>
+				<item id="279" name="Metallic Gold" hex="999933" image=""/>
+				<item id="278" name="Metallic Silver" hex="999999" image=""/>
+				<item id="270" name="Navy" hex="000066" image=""/>
+				<item id="261" name="Neon Green" hex="66FF00" image=""/>
+				<item id="273" name="Orange" hex="FF6600" image=""/>
+				<item id="99" name="Pink" hex="EF69B9" image=""/>
+				<item id="266" name="Powder Blue" hex="66CCFF" image=""/>
+				<item id="97" name="Purple" hex="673BB8" image=""/>
+				<item id="274" name="Red" hex="FF0000" image=""/>
+				<item id="268" name="Royal Blue" hex="0000CC" image=""/>
+				<item id="262" name="Teal" hex="00CC99" image=""/>
+				<item id="68" name="Vegas Gold" hex="AD852D" image=""/>
+				<item id="214" name="Violet" hex="72297B" image=""/>
+				<item id="60" name="White" hex="FFFFFF" image=""/>
+				<item id="264" name="Yellow" hex="FFFF00" image=""/>
+			</table>
+			<charges>
+				<item value="1" charge="2.00"/>
+				<item value="2" charge="4.00"/>
+				<item value="3" charge="6.00"/>
+				<item value="4" charge="8.00"/>
+				<item value="5" charge="10.00"/>
+				<item value="6" charge="12.00"/>
+			</charges>
+			<gallery>
+			</gallery>
+		</item>
+		<item id="3" name="Photo" isdefault="0" amount="0" isdigital="0" forecolor="table" effect="">
+			<table>
+			</table>
+			<charges>
+			</charges>
+			<gallery>
+			</gallery>
+		</item>
+	</process>
+	<images>jpg;png;gif;jpeg;giff;eps;ai;pdf</images>
+	<start>
+		<dtext image="images/banner/1281054599.png">Choose the style and font, add color, shape and curve. Text-It your way.</dtext>
+		<dgallery image="images/banner/1280880050.png">Drag and drop or doubleclick to place image on your lacrosse pinnies.</dgallery>
+		<dupload image="images/banner/1281055386.png">Create your own unique design. Remember the quality of the upload will affect the final product.  We recommend that you use a .png or .gif for best view.</dupload>
+		<letus image="images/banner/1281055171.png">Fill out our brief info page here and one of our agents will contact you in the next 24 hours with a Mockup/Quote</letus>
+		<retnames>This design contains custom NAME and/or NUMBER aliases (with text EXAMPLE or 00).  To edit your team list, please click on the Names and Numbers link on the bottom left hand corner of this page above the FACEBOOK icon.   You do not need Names/Numbers to complete your order.  If no names or numbers are selected, choose the shopping cart image in the middle of the page.</retnames>
+	</start>
+	<letuswiz>
+		<selectproduct>Please select a color for your lacrosse pinnies, if you need to change the product, please close this window and go to our product catalog at the left panel, select needed product and open this window again.</selectproduct>
+		<frontdesign>Here you can upload your own logo, enter  text and make a notes for front and back side design of your lacrosse pinnies.</frontdesign>
+		<finish>Please, enter your contact information and additional notes for our staff.  Please be as descriptive as possible so that we may better assist you.</finish>
+	</letuswiz>
+	<addtext>
+		<line image=""/>
+		<vertical image=""/>
+		<curved image=""/>
+	</addtext>
+	<categories>
+		<item id="1" name="Men"/>
+		<item id="3" name="Youth"/>
+		<item id="2" name="Women"/>
+	</categories>
+</settings>
+</data>
