@@ -919,7 +919,7 @@ $(window).load(function() {
 					
 					<div id="colordialog">
 				<select id="colorkind" visible="false">
-					<option value="0" selected>Outer Color</option>
+					<option value="0" selected>Outer Color</option> 
 					<!-- <option value="1">Inner Color</option>-->
 				</select>
 				<div id="colorslider">

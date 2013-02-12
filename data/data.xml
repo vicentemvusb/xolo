@@ -1970,6 +1970,7 @@ Please note that color printed may vary from what your custom rendition shows du
 				<item id="214" name="Violet" hex="72297B" image=""/>
 				<item id="60" name="White" hex="FFFFFF" image=""/>
 				<item id="264" name="Yellow" hex="FFFF00" image=""/>
+				<item id="281" name="Blue Gray Stripes" hex="#000000" image="img/colors/Blue-Gray-Stripes__281.jpg"/>
 			</table>
 			<charges>
 				<item value="1" charge="2.00"/>

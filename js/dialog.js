@@ -2044,10 +2044,19 @@ function getUploadSelectClosedColorsDlgHtml(src) {
 							var id = $(this).attr("id");
 							var name = $(this).attr("name");
 							var color = '#' + $(this).attr("hex");
+							var imagePath = $(this).attr("image");
 							tableColorArray[id] = color;
+							if(imagePath == "") {
 							html += "<li class='uploadcolor' id='" + id + "' title='" + name + "' style='background: " + color + " no-repeat;'>";
 							html += "<input class='chkuploadcolor' type='checkbox' value='" + color + "'/>";
 							html += "</li>";
+							console.log("hola");
+							} else{
+								html += "<li class='uploadcolor' id='" + id + "' title='" + name + "style=background: url(" + patternPath + ") no-repeat; background-size: 24px 24px;\">";
+								html += "<input class='chkuploadcolor' type='checkbox' value='" + color + "'/>";
+								html += "</li>";
+								alert(imagePath);
+							}
 						});
 					});
 				}
@@ -2066,7 +2075,7 @@ function getArtDesignHtml() {
 	var html = "";
 
 	html += "<h1>Dise–o</h1>";
-	html += "<p style='float: left; margin-top: 5px;'>Solid Color : </p>";
+	html += "<p style='float: left; margin-top: 5px;'>Color Solido : </p>";
 	html += "<div id='artColor' class='colorSelector' style='margin-left: 76px;'>";                    
 	html += "<div style='background-color: #000000'></div>";
 	html += "</div>";
